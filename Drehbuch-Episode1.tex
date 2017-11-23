@@ -1,0 +1,166 @@
+\documentclass[a4paper,ngerman,11pt]{scrartcl}
+
+\usepackage[utf8]{inputenc} \usepackage[T1]{fontenc} \usepackage{ngerman}
+
+%\addtokomafont{dispositon}{\ttfamily}
+
+\title{Episode 1} \subtitle{Genesis} \author{Sahra Roman \& Christian Sangvik}
+\date{\today}
+
+\newcommand{\linia}{\rule{.8\textwidth}{.1pt}}
+
+\makeatletter
+
+\renewcommand{\maketitle}{ \texttt{
+\begin{center}
+  \uppercase{\tiny{ ETH Zürich
+    \enspace{}|\enspace{} D-ARCH
+    \enspace{}|\enspace{} Professur Arno Brandlhuber
+    \enspace{}|\enspace{} Herbstsemester 2017 }}\\ \linia{}\\
+    \vspace*{5cm} \uppercase{\Huge{De Architectura}}\\
+    \vspace*{2cm} \uppercase{\normalsize{von}}\\
+    \vspace*{1cm} \uppercase{\LARGE{\MakeUppercase{\@author}}}\\
+  \clearpage
+    \vspace*{4cm} \textbf{\huge{\MakeUppercase{\@title}}}\\
+    \vspace*{1cm}
+    \Large{\textit{---\enspace{}\MakeUppercase{\@subtitle}\enspace{}---}}\\
+    \vspace*{2cm}
+\end{center}
+}} \makeatother
+
+\newcommand{\dialog}[2]{
+\begin{center}
+\uppercase{#1}\\
+\vspace*{6pt}
+\begin{minipage}{.5\textwidth}
+{#2}\\
+\end{minipage}\hfill
+\end{center}
+\vspace*{12pt}}
+
+\newcommand{\scene}[4]{
+\noindent{}\uppercase{#1}.\quad{}\uppercase{#2}\quad{}-\quad{}\uppercase{#3}\\
+
+\noindent{{#4}\\}
+\vspace*{24pt} }
+
+\newcommand{\fadein}{
+\noindent\uppercase{Fade in:}\\ }
+
+\newcommand{\trans}[1]{ \hfill\uppercase{{#1}:}\\ }
+
+\newcommand{\subh}[1]{
+\noindent\uppercase{{#1}\\} }
+
+\newcommand{\desc}[1]{\vspace*{12pt}
+\noindent{}{#1}\\
+\vspace*{12pt}}
+
+\begin{document}
+
+\maketitle
+
+\fadein
+
+\scene{int}{Zimmer JAN}{Morgen}{ JAN wacht auf und merkt, dass er verschlafen
+  hat.  Er hat die Nacht an seinem Schreibtisch verbracht, wo er beim späten
+  Arbeiten eingeschlafen ist. Im Stress packt er seine Sachen zusammen und eilt
+  ohne Frühstück aus dem Haus.}
+
+\scene{int}{Bus}{Morgen}{ JAN sitzt müde im Bus und schaut aus dem Fenster. Er
+  sieht die Stadt Zürich von oben im morgendlichen Nebel.}
+
+\scene{ext}{Koje - ETH}{Morgen}{ JAN trifft auf TIM. TIM wartet bereits rauchend
+  mit einem Kaffee auf JAN vor dem HIL-Eingang.}
+
+\scene{int}{Korridor - ETH}{Morgen}{ JAN und TIM gehen zusammen durch die
+  Korridore in Richtung Koje.}
+
+--- dialog --- Beziehung TIM-JAN soll klar werden. JANs Problem mit seinem Projekt
+und Computer wird angesprochen. TIM soll ihm helfen (ist zuversichtlich)
+Projektaufgabe soll auch klar werden.
+
+\subh{ALESSIA kommt dazu}
+
+--- dialog --- Veränderte Haltung von JAN zeigt sein Interesse and ALESSIA. TIM findet
+es lustig.
+
+\scene{int}{GUDZILLAs Büro}{Vormittag}{Dr. BROWN sitzt ungeduldig in GUDZILLAs
+  Büro und wartet. GUDZILLA tritt ein.}
+
+--- dialog --- GUDZILLA muss BROWN schlechte Nachrichten überbbringen. BROWN hat
+etwas anderes erwartet.
+
+\scene{int}{Koje - ETH}{Vormittag}{JAN sitzt frustriert vor seinem Computer. Das
+  Programm Dreamcatcher stürzt immer wieder ab. Er bittet TIM um Hilfe, aber der
+  kann ihm auch nicht helfen. Sie wenden sich an ALESSIA, da beide wissen wie gut
+  sie mit Computern umgehen kann.}
+
+--- dialog --- Schlussfolgerung ALESSIA, die Vorschlägt, dass er doch zum Helpdesk am
+Nachmittag gehen soll.
+
+\scene{int}{Helpdesk - ETH}{Nachmittag}{Dr. BROWN ist schlecht gelaunt. Er sitzt
+  am Helpdesk und erklärt gerade einem STUDENTEN, dass er ihm nicht helfen
+  kann. JAN wartet ab bis er an der Reihe ist und erklärt dann sein Problem.}
+
+--- dialog --- JAN erklärt sein Problem, BROWN ist zuerst genervt, entwickelt aber
+immer mehr Interesse für JANs Problem. Er muss den Laptop bis am Abend bei sich
+behalten um das Problem zu beheben. BROWN macht ihm einen Gefallen und arbeitet
+länger heute. Er wird JAN per Telefon benachrichtigen, wenn der Computer bereit
+ist. JAN wird noch mehr frustriert, gibt sich dann aber geschlagen.
+
+\scene{int}{Alumni Lounge - ETH}{Abend}{JAN sitzt frustriert und müde am
+  Tisch. Neben sich einen leeren Kaffeebecher. Er schaut immer wieder auf sein
+  Handy und wartet gestresst auf dein Anruf von BROWN. Gedankenverloren kritzelt
+  er in ein Notizbuch. Endlich läutet das Telefon. Der Computer ist
+  abholbereit. JAN packt hastig seine Sachen zusammen und geht.}
+
+\scene{int}{Helpdesk - ETH}{Abend}{BROWN übergibt JAN den Laptop. JAN ist
+  erleichtert.}
+
+--- dialog --- BROWN hat die neue Version installiert. JAN ist glücklich.
+
+\scene{int}{JANs Zimmer}{Nacht}{JAN startet seinen Computer und dann auch gleich
+  das Programm. Man sieht ihm an, dass er eigentlich überhaupt keine Motivation
+  mehr hat und lieber gleich schlafen gehen würde. Sobald das Programm
+  gestartet ist, fängt MIRA an zu sprechen.}
+
+\dialog{Mira}{Hallo, Ich bin Mira. Wie kann ich Ihnen helfen?}
+--- dialog --- MIRA stellt sich vor, und fragt wie sie helfen kann.
+
+\desc{JAN zögert zunächst. Er ist überfordert mit der neuen, viel selbstständigeren
+Version von Dreamcatcher. Bald aber erkennt er, dass es doch noch eine Chance
+für ein gutes Projekt hat und bekommt wieder Hoffnung und neue Energie. MIRA ist
+wie eine Teampartnerin/Sekretärin, die im Dialog mit JAN entwirft. JAN muss also
+nicht mehr am Computer sitzen und läuft im Zimmer rauf und runter während er
+MIRA den Entwurf diktiert. MIRA hinterfragt alles und bringt dadurch den Entwurf
+in eine bessere Richtung. Zusammen arbeiten sie bis spät in die Nacht.}
+
+\scene{int}{Plotterraum}{Am nächsten Morgen}{JAN steht müde aber glücklich beim
+  Plotter und sammelt seine Plots zusammen. TIM findet JAN und bringt ihm einen
+  Kaffee.}
+
+--- dialog --- TIM fragt JAN, ob es mit dem reparieren des Computers geklappt hat
+und ist erstaunt über JANs fertiges Projekt. JAN verheimlicht ihm MIRA. Sie
+müssen sich beeilen, weil die Kritik gleich anfängt.
+
+\scene{int}{Kritik - ETH}{Im Verlaufe des Tages}{JAN präsentiert sein
+  Projekt. Professor Brändi, Giovanni und eine weitere Architektin sitzen in der
+  vordersten Reihe. Dahinter sammeln sich die Studenten. }
+
+--- dialog --- JAN beendet seine Präsentation. Reaktion der Kritiker auf sein
+Projekt. Wollen wissen, wie er vorgegangen ist. JAN schafft es die Frage nicht
+zu beantworten und überzeugt mit einer anderen Antwort.
+
+\desc{Brändi und die Kritiker sind überzeugt und zufrieden mit dem Projekt. Sie finden
+JANs Ansatz sehr schön und intelligent gelöst.}
+
+\scene{int}{Dachterrasse - Apero}{Abend}{ JAN, TIM, ALESSIA und weitere Freunde
+  stehen auf der Dachterrasse und feiern das Ende der Kritik mit Gin Tonic.}
+
+--- dialog --- Die Studenten sind fröhlich und müde zugleich. Irgendwo findet eine
+WG Party statt und alle werden eingeladen. JAN lehnt ab mitzugehen. ALESSIA und TIM
+gehen aber mit.
+
+\end{document}
+
