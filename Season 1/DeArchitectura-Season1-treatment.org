@@ -238,7 +238,7 @@
 
 ** Zürcher Bevölkerung
     
-   Eine Gruppe 
+   Eine Gruppe Zürcher Stadtbewohner
 
 * Season 1 | Mira
   
@@ -398,87 +398,97 @@
 
 ** Episoden
 
-*** Episode 1 | Jan
+*** Episode 1 | Genesis
     
-    In der ersten Episode steht Jan im Vordergrund.
+    Die erste Episode wird aus der Perspektive von Jan Aebersold erzählt.
     
-    CAD wird parametrisiert ausgeführt (Dreamcatcher).
+    Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht
+    die Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für
+    seinen Eifer ist die kommende Kritik am Mittwoch Vormittag.
 
-    Jan schafft es nicht sofort dir richtigen Parameter einzustellen.
+    Jan ist mit seinem Projekt noch lange nicht so weit, dass er etwas zu
+    präsentieren oder besprechen hätte. Er schafft es einfach nicht die für
+    dieses Projekt notwendigen Parameter richtig einzustellen, so dass sich ihm
+    ein stimmiges Resultat offenbaren würde.
 
-    Kurz vor der Zwischenkritik läuft seine Lizenz zu Dreamcatcher aus,
-     
-**** Incident
+    Daher hat Jan sich mit seinem besten Freund Tim verabredet. Tim soll Jan
+    helfen einen Ansatz zu finden, damit dieser seinen Entwurf weiterentwickeln
+    kann. Die Zeit dafür hat Tim, da er seinen eigenen Entwurf immer schon Tage
+    vor der Abgabe fertig hat. Er ist von seiner Arbeitsmoral her das pure
+    Gegenteil von Jan.
 
-***** Brown
-     
-      Guzilla sucht Büro von Brown auf, um ihm zu vermitteln, dass seine
-      Forschungsgelder gestrichen werden.
+    Hastig wirft Jan alle Sachen, die er für den Tag braucht in seinen Rucksack
+    und macht sich auf den Weg an die ETH. Da er für seine Verabredung mit Tim
+    späht dran ist, warted dieser bereits auf Jan.
 
-***** Jan
+    In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu
+    generieren, den er dann weiter verarbeiten kann. Leider kann sich Jan in der
+    Anwesenheit von Alessia, einer Komilitonin sehr leicht ablenken.
+    
+    Parallel dazu sehen wir die Geschichte von Dr. Brown. Brown ist
+    Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine
+    Künstliche Intelligenz entwickelt, welche jedoch noch nicht ganz fertig
+    ist. An diesem Morgen hat Brown ein Treffen mit dem Präsidenten der ETH,
+    Lino Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit
+    an Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren
+    wird, und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt
+    Brown nur noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für
+    Computerprobleme den Studenten mit ihren technischen Schwierigkeiten zur
+    Setie steht.
 
-      Jans Lizenz für Dreamcatcher läuft kurz vor der Zwischenkritik aus.
+    Alle Versuche Gudzilla zu überreden, ihm einen Aufschub zu gewähren schlagen
+    fehl.
 
-**** Plotpoint 1
+    Unterdessen muss sich Jan zu allem Überfluss noch mit eben solchen
+    technischen Schwierigkeiten herumschlagen. Sein Parameterdesign-Programm
+    `Dreamfetcher' stürzt ständig ab. Auch Tim und Alessia, die sehr gut mit
+    Computern umgehen kann, können ihm nicht helfen, weshalb er sich gezwungen
+    fühlt, den Helpdesk aufzusuchen.
 
-     Jan findet dubioses Programm namens Mira und installiert es. Es ist noch
-     nicht vollständig ausgereift, trägt aber deutlich mehr zum Entwurf bei als
-     Dreamcatcher.
+    Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit
+    seine noch nicht fertige K.I. auszuprobieren, um letztendlich mit
+    offensichtlichen Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter
+    eingestellt zu werden. Er erzählt Jan also, dass er das Problem bis zum
+    Abend beheben werde. Jan kommt in eine riesige Not, da er so seine Abgabe
+    niemals schaffen wird. Resigniert stimmt er aber dennoch zu, da dies die
+    letzte Chance auf Erfolg ist.
 
-**** Midpoint
+    Brown installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich
+    bei ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er
+    habe lediglich eine neuere Version von Dreamfetcher installiert, die jedoch
+    viel mächtiger sei.
 
-     Jan brilliert an der Kritik. Gastkritiker sind Juroren des Amtes für
-     Städtebau.  Auf der Feier nach der Kritik kommen sich Ale und Jan näher.
-     
-     Es wird offenkundig, dass Mira gestolen wurde. ETH stellt erfolglose
-     Untersuchung an.  (Muss nicht erwähnt werden)
+    Jan probiert zuhause noch das schlimmste zu vermeiden, und ist überrascht,
+    wie eigenständig das Programm funktioniert. Mittels Sprachsteuerung ung der
+    Eigeninitiative der K.I. gelingt letztendlich der Vollständige Entwurf
+    seiner Abgabe. Noch dazu ist sie in diesem Fall nicht wie sonst besonders
+    durchschnittlich sondern überragend.
 
-**** Falling action
+    Seine Kritik läuft äusserst gut, und alle sind überrascht. In der Jury
+    sitzen neben Prof. Brändi noch Giovanni Benini vom Amt für Städtebau und
+    eine andere etablierte Architektin. Abends als die anderen Studenten ihren
+    kleinen Erfolg begiessen wollen, meldet sich Jan, der sonst für solche Dinge
+    stets an vorderster Front steht ab. Mira verlangt in ihrer Lernphase viel
+    Aufmerksamkeit und beansprucht so viel von Jans Zeit.
 
-     Jan verbringt weniger Zeit mit Ale und Tim, da er von Mira begeistert ist,
-     und ihren Wissenshunger stillen muss.
+    An diesem Abend kommen sich Tim und Alessia näher. Jan fällt am nächsten Tag
+    sofort auf, dass etwas anders ist. Jan und Tim haben eine
+    Auseinandersetzung, wo es um die Eifersucht gegenüber des jeweils anderen geht.
+    
+    Ohne auf eine richtig gute Lösung gekommen zu sein gehen die beiden
+    auseinander. Zuhause versucht Mira wieder von Jans Wissen zu profitieren. Er
+    ist aber nicht in der Stimmung und klappt den Laptop zu.
 
-     Tim ist eifersüchtig, da er von Jan überflügelt wurden. Er trifft sich mit
-     Ale, und sie stellen die Veränderung in Jans verhalten fest. Die zwei
-     kommen sich im gemeinsamen Trinken ein wenig näher.
-     
-     Jans privatleben geht troz seines Erfolges im Studium bergab, da er seine
-     Zeit quasi zur gänze Mira widmet. Als er von Ale und Tims nächtlicher
-     Eskapade erfährt fühlt er sich übergabgen.
-
-**** Plotpoint 2
-
-     Jan ist ständig Müde.  Wird von Brown überwacht, da er dessen
-     Versuchskaninchen ist.
-     
-   
-**** Resolution
-     
-     Auflösung, dass Brown selber Mira gestolen und verbreitet hat.
-     
-**** Punkte in Geschichte
-
-***** Lizenz für Dreamcatcher läuft aus / Dr. Brown werden die Mittel gestrichen
-
-***** Runterladen von Mira
-
-***** Jan wird besser im Unterricht, Verbring zeit mit Mira
-
-***** Jan brilliert an Zwischenkritik / Leak wird in Dr. Browns Labor entdeckt
-
-***** Mira verlangt mehr Aufmerksamkeit
-
-***** Tim und Ale kommen sich näher
-
-***** Jan und Tim haben Auseinandersetzung
-
-***** Brown überwacht Jan > Leak war von Brown
-     
-      Jan hat einmal mehr Mühe im Unterricht. Wieder steht eine Zwischenkritik
-      an. Wie immer ist er noch nicht fertig mit seiner Abgabe, während andere
-      mental schon den Liegestuhl hervorgenommen haben.
-
+    Auflösend sieht man am Schluss Brown hinter seinem Monitor sitzen, wo die
+    Pläne angezeigt werden, welche Jan tags zuvor präsentiert hat.
+    
+    
 *** Episode 2 | Giovanni
+    
+    Die zweite Episode wird aus der Perspektive von Giovanni Benini erzählt.
+    
+    Man sieht Giovanni zuhause. Seine Tochter
+
     
     Mira nimmt an einem Wettbewerb teil und gewinnt diesen.
 
@@ -491,28 +501,8 @@
     Beurteilung heraus, dass Mira eine Küstliche Intelligenz ist. Eine Debatte
     über das weitere Verhalten bricht aus.
     
-**** Wettbewerb
-     
      Ein Wettbewerb der Stadt wird von Giovanni betreut.  Wettbewerb neigt sich
      dem Ende zu.
-
-**** Incident
-
-**** Plot Point I
-
-**** Rising Action
-
-**** Midpoint
-
-**** Falling Action
-
-**** Plot Point II
-
-**** Resolution
-
-**** Cliffhanger
-
-**** Punkte in Geschichte
 
 ***** Beziehung/Situation zu hause + bei Arbeit
 
