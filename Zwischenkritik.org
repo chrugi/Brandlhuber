@@ -2,10 +2,12 @@
 
 * Format
 
-* Arbeiten [0/3][0%]
+* Arbeiten [0/4][0%]
 
 ** TODO Intro
 
 ** TODO Geschichte
 
 ** TODO Drehbuch
+
+** TODO Logo Schriftzug de Architectura
