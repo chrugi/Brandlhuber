@@ -1,22 +1,15 @@
-#+TITLE: De Architectura
+#+TITLE: Scenario
 #+SUBTITLE: Treatment
 #+AUTHOR: Sahra Roman \and Christian Sangvik
 #+DATE: \today
 
-#+DESCRIPTION:
-#+KEYWORDS: Mira,Brandlhuber,HS2017,HS17,TV,Station,StationPlus,Station+
-
-#+LATEX_CLASS: report
+#+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [11pt,a4paper,ngerman]
-
 #+LATEX_HEADER: \usepackage{ngerman}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
-
-#+LATEX_HEADER_EXTRA:
 #+LATEX_COMPILER: pdflatex
-
   
-* Generell
+* Generelle Beschreibung
   
   Die Serie beschäftigt sich mit den Möglichen Welten, in welchen wir
   möglicherweise leben würden, wenn gewisse andere Rahmenbedingungen gegeben
@@ -32,6 +25,7 @@
   ungefähr fünf Jahren.
   
   Die Technik ist einen Schritt weiter gekommen.
+
 
 * Cast und Rollen
 
@@ -179,7 +173,6 @@
     
    Er macht sich Probleme, wo keine sind, und vermag es nicht allzu gut sich
    auf das wesentliche zu konzentrieren.
-
     
 ** Studenten
     
@@ -198,7 +191,6 @@
 
     Die drei könnten grossen Enfluss auf weitere Gestaltung der
     Architekturausbildung haben.
-    
 
 ** Stadtpräsidentin Corinne Rauch
     
@@ -239,6 +231,7 @@
 ** Zürcher Bevölkerung
     
    Eine Gruppe Zürcher Stadtbewohner
+
 
 * Season 1 | Mira
   
@@ -396,272 +389,270 @@
 *** Resolution
     
 
-** Episoden
+* Episoden
 
-*** Episode 1 | Genesis
+** Episode 1 | Genesis
     
-    Die erste Episode wird aus der Perspektive von Jan Aebersold erzählt.
+   Die erste Episode wird aus der Perspektive von Jan Aebersold erzählt.
     
-    Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht
-    die Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für
-    seinen Eifer ist die kommende Kritik am Mittwoch Vormittag.
+   Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht
+   die Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für
+   seinen Eifer ist die kommende Kritik am Mittwoch Vormittag.
 
-    Jan ist mit seinem Projekt noch lange nicht so weit, dass er etwas zu
-    präsentieren oder besprechen hätte. Er schafft es einfach nicht die für
-    dieses Projekt notwendigen Parameter richtig einzustellen, so dass sich ihm
-    ein stimmiges Resultat offenbaren würde.
+   Jan ist mit seinem Projekt noch lange nicht so weit, dass er etwas zu
+   präsentieren oder besprechen hätte. Er schafft es einfach nicht die für
+   dieses Projekt notwendigen Parameter richtig einzustellen, so dass sich ihm
+   ein stimmiges Resultat offenbaren würde.
 
-    Daher hat Jan sich mit seinem besten Freund Tim verabredet. Tim soll Jan
-    helfen einen Ansatz zu finden, damit dieser seinen Entwurf weiterentwickeln
-    kann. Die Zeit dafür hat Tim, da er seinen eigenen Entwurf immer schon Tage
-    vor der Abgabe fertig hat. Er ist von seiner Arbeitsmoral her das pure
-    Gegenteil von Jan.
+   Daher hat Jan sich mit seinem besten Freund Tim verabredet. Tim soll Jan
+   helfen einen Ansatz zu finden, damit dieser seinen Entwurf weiterentwickeln
+   kann. Die Zeit dafür hat Tim, da er seinen eigenen Entwurf immer schon Tage
+   vor der Abgabe fertig hat. Er ist von seiner Arbeitsmoral her das pure
+   Gegenteil von Jan.
 
-    Hastig wirft Jan alle Sachen, die er für den Tag braucht in seinen Rucksack
-    und macht sich auf den Weg an die ETH. Da er für seine Verabredung mit Tim
-    späht dran ist, warted dieser bereits auf Jan.
+   Hastig wirft Jan alle Sachen, die er für den Tag braucht in seinen Rucksack
+   und macht sich auf den Weg an die ETH. Da er für seine Verabredung mit Tim
+   späht dran ist, warted dieser bereits auf Jan.
 
-    In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu
-    generieren, den er dann weiter verarbeiten kann. Leider kann sich Jan in der
-    Anwesenheit von Alessia, einer Komilitonin sehr leicht ablenken.
+   In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu
+   generieren, den er dann weiter verarbeiten kann. Leider kann sich Jan in der
+   Anwesenheit von Alessia, einer Komilitonin sehr leicht ablenken.
     
-    Parallel dazu sehen wir die Geschichte von Dr. Brown. Brown ist
-    Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine
-    Künstliche Intelligenz entwickelt, welche jedoch noch nicht ganz fertig
-    ist. An diesem Morgen hat Brown ein Treffen mit dem Präsidenten der ETH,
-    Lino Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit
-    an Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren
-    wird, und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt
-    Brown nur noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für
-    Computerprobleme den Studenten mit ihren technischen Schwierigkeiten zur
-    Setie steht.
+   Parallel dazu sehen wir die Geschichte von Dr. Brown. Brown ist
+   Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine
+   Künstliche Intelligenz entwickelt, welche jedoch noch nicht ganz fertig
+   ist. An diesem Morgen hat Brown ein Treffen mit dem Präsidenten der ETH,
+   Lino Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit
+   an Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren
+   wird, und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt
+   Brown nur noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für
+   Computerprobleme den Studenten mit ihren technischen Schwierigkeiten zur
+   Setie steht.
 
-    Alle Versuche Gudzilla zu überreden, ihm einen Aufschub zu gewähren schlagen
-    fehl.
+   Alle Versuche Gudzilla zu überreden, ihm einen Aufschub zu gewähren schlagen
+   fehl.
 
-    Unterdessen muss sich Jan zu allem Überfluss noch mit eben solchen
-    technischen Schwierigkeiten herumschlagen. Sein Parameterdesign-Programm
-    `Dreamfetcher' stürzt ständig ab. Auch Tim und Alessia, die sehr gut mit
-    Computern umgehen kann, können ihm nicht helfen, weshalb er sich gezwungen
-    fühlt, den Helpdesk aufzusuchen.
+   Unterdessen muss sich Jan zu allem Überfluss noch mit eben solchen
+   technischen Schwierigkeiten herumschlagen. Sein Parameterdesign-Programm
+   `Dreamfetcher' stürzt ständig ab. Auch Tim und Alessia, die sehr gut mit
+   Computern umgehen kann, können ihm nicht helfen, weshalb er sich gezwungen
+   fühlt, den Helpdesk aufzusuchen.
 
-    Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit
-    seine noch nicht fertige K.I. auszuprobieren, um letztendlich mit
-    offensichtlichen Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter
-    eingestellt zu werden. Er erzählt Jan also, dass er das Problem bis zum
-    Abend beheben werde. Jan kommt in eine riesige Not, da er so seine Abgabe
-    niemals schaffen wird. Resigniert stimmt er aber dennoch zu, da dies die
-    letzte Chance auf Erfolg ist.
+   Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit
+   seine noch nicht fertige K.I. auszuprobieren, um letztendlich mit
+   offensichtlichen Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter
+   eingestellt zu werden. Er erzählt Jan also, dass er das Problem bis zum
+   Abend beheben werde. Jan kommt in eine riesige Not, da er so seine Abgabe
+   niemals schaffen wird. Resigniert stimmt er aber dennoch zu, da dies die
+   letzte Chance auf Erfolg ist.
 
-    Brown installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich
-    bei ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er
-    habe lediglich eine neuere Version von Dreamfetcher installiert, die jedoch
-    viel mächtiger sei.
+   Brown installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich
+   bei ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er
+   habe lediglich eine neuere Version von Dreamfetcher installiert, die jedoch
+   viel mächtiger sei.
 
-    Jan probiert zuhause noch das schlimmste zu vermeiden, und ist überrascht,
-    wie eigenständig das Programm funktioniert. Mittels Sprachsteuerung ung der
-    Eigeninitiative der K.I. gelingt letztendlich der Vollständige Entwurf
-    seiner Abgabe. Noch dazu ist sie in diesem Fall nicht wie sonst besonders
-    durchschnittlich sondern überragend.
+   Jan probiert zuhause noch das schlimmste zu vermeiden, und ist überrascht,
+   wie eigenständig das Programm funktioniert. Mittels Sprachsteuerung ung der
+   Eigeninitiative der K.I. gelingt letztendlich der Vollständige Entwurf
+   seiner Abgabe. Noch dazu ist sie in diesem Fall nicht wie sonst besonders
+   durchschnittlich sondern überragend.
 
-    Seine Kritik läuft äusserst gut, und alle sind überrascht. In der Jury
-    sitzen neben Prof. Brändi noch Giovanni Benini vom Amt für Städtebau und
-    eine andere etablierte Architektin. Abends als die anderen Studenten ihren
-    kleinen Erfolg begiessen wollen, meldet sich Jan, der sonst für solche Dinge
-    stets an vorderster Front steht ab. Mira verlangt in ihrer Lernphase viel
-    Aufmerksamkeit und beansprucht so viel von Jans Zeit.
+   Seine Kritik läuft äusserst gut, und alle sind überrascht. In der Jury
+   sitzen neben Prof. Brändi noch Giovanni Benini vom Amt für Städtebau und
+   eine andere etablierte Architektin. Abends als die anderen Studenten ihren
+   kleinen Erfolg begiessen wollen, meldet sich Jan, der sonst für solche Dinge
+   stets an vorderster Front steht ab. Mira verlangt in ihrer Lernphase viel
+   Aufmerksamkeit und beansprucht so viel von Jans Zeit.
 
-    An diesem Abend kommen sich Tim und Alessia näher. Jan fällt am nächsten Tag
-    sofort auf, dass etwas anders ist. Jan und Tim haben eine
-    Auseinandersetzung, wo es um die Eifersucht gegenüber des jeweils anderen geht.
+   An diesem Abend kommen sich Tim und Alessia näher. Jan fällt am nächsten Tag
+   sofort auf, dass etwas anders ist. Jan und Tim haben eine
+   Auseinandersetzung, wo es um die Eifersucht gegenüber des jeweils anderen geht.
     
-    Ohne auf eine richtig gute Lösung gekommen zu sein gehen die beiden
-    auseinander. Zuhause versucht Mira wieder von Jans Wissen zu profitieren. Er
-    ist aber nicht in der Stimmung und klappt den Laptop zu.
+   Ohne auf eine richtig gute Lösung gekommen zu sein gehen die beiden
+   auseinander. Zuhause versucht Mira wieder von Jans Wissen zu profitieren. Er
+   ist aber nicht in der Stimmung und klappt den Laptop zu.
 
-    Auflösend sieht man am Schluss Brown hinter seinem Monitor sitzen, wo die
-    Pläne angezeigt werden, welche Jan tags zuvor präsentiert hat.
+   Auflösend sieht man am Schluss Brown hinter seinem Monitor sitzen, wo die
+   Pläne angezeigt werden, welche Jan tags zuvor präsentiert hat.
     
+** Episode 2 | Giovanni
     
-*** Episode 2 | Giovanni
+   Die zweite Episode wird aus der Perspektive von Giovanni Benini erzählt.
     
-    Die zweite Episode wird aus der Perspektive von Giovanni Benini erzählt.
+   Man sieht Giovanni zuhause. Seine Tochter Alessia, sein Sohn Luca und seine
+   Frau Laura leben alle gemeinsam im Hause. Die Verhältnisse zu Hause sind
+   grösstenteils harmonisch. Nur zwischen Alessia und Luca gibt es hin und wieder
+   Rankereien und Rivalitäten. Dies, weil die elterliche Erziehung streng ist,
+   und von beiden Leistungen erwartet werden. Giovanni hält die Ausbildung für
+   etwas des wichtigsten des Lebens.
+
+   Da Alessia ein Studium in Angriff genommen hat, und dort auch immer gute
+   Leistungen erzielt, wird sie oft als Vorbild für Luca vorgehalten, was
+   alleine schon diese Rivalität mitbeeinflusst.
+
+   Nach der morgendlichen Routine begibt sich Giovanni zur Arbeit. Am
+   Arbeitsplatz spürt man auch die freundliche Art unter den Mitarbeitern, denn
+   Giovanni hält nicht viel davon unmenschlich zu sein. Allerdings schwingt
+   auch immer Respekt und eine stilvolle, untergiebige Art im Umgang seiner
+   Kollegen zu ihm mit. Er nimmt seine Pflichten als Abteilungsleiter ernst,
+   und kümmert sich stets speditiv und rasch um alles was ansteht, denn er
+   aspiriert für das frei werdende Amt des Direktors des Stadtbauamtes in
+   Zürich. Diesbezüglich werden ihm gute Chancen beigemessen.
     
-    Man sieht Giovanni zuhause. Seine Tochter Alessia, sein Sohn Luca und seine
-    Frau Laura leben alle gemeinsam im Hause. Die Verhältnisse zu Hause sind
-    grösstenteils harmonisch. Nur zwischen Alessia und Luca gibt es hin und wieder
-    Rankereien und Rivalitäten. Dies, weil die elterliche Erziehung streng ist,
-    und von beiden Leistungen erwartet werden. Giovanni hält die Ausbildung für
-    etwas des wichtigsten des Lebens.
-
-    Da Alessia ein Studium in Angriff genommen hat, und dort auch immer gute
-    Leistungen erzielt, wird sie oft als Vorbild für Luca vorgehalten, was
-    alleine schon diese Rivalität mitbeeinflusst.
-
-    Nach der morgendlichen Routine begibt sich Giovanni zur Arbeit. Am
-    Arbeitsplatz spürt man auch die freundliche Art unter den Mitarbeitern, denn
-    Giovanni hält nicht viel davon unmenschlich zu sein. Allerdings schwingt
-    auch immer Respekt und eine stilvolle, untergiebige Art im Umgang seiner
-    Kollegen zu ihm mit. Er nimmt seine Pflichten als Abteilungsleiter ernst,
-    und kümmert sich stets speditiv und rasch um alles was ansteht, denn er
-    aspiriert für das frei werdende Amt des Direktors des Stadtbauamtes in
-    Zürich. Diesbezüglich werden ihm gute Chancen beigemessen.
+   Aktuell soll die Jurierung des erst jüngst abgehaltenen anonymen
+   Wettbewerbes vorbereitet werden. Man sieht die Jurymitglieder und andere
+   Kollegen des Amts für Städtebau gemeinsam über die diversen Einreichungen
+   diskutieren.
     
-    Aktuell soll die Jurierung des erst jüngst abgehaltenen anonymen
-    Wettbewerbes vorbereitet werden. Man sieht die Jurymitglieder und andere
-    Kollegen des Amts für Städtebau gemeinsam über die diversen Einreichungen
-    diskutieren.
+   Im Verlaufe der Jurierung stellt sich ein Projekt immer mehr in den
+   Vordergrund. Dieses Projekt ist herausragend, und erfüllt als einziges im
+   ganzen Teilnehmerfeld alle Bedingungen. Ausserdem spricht die geforderte
+   Abschätzung der Kosten für den Bau des Projektes eine ganz andere Sprache
+   als die anderen Beiträge. Nur gut die hälfte der Baukosten des
+   zweitgünstigsten soll das Projekt kosten. Dies macht die Jury natürlich
+   vorerst skeptisch, aber nach mehrmaligem überprüfen scheinen die Zahlen
+   plausibel.
+
+   Die Jury kürt folglich logisch das Projekt zum Sieger der Auslobung. Als
+   Giovanni nun nachsieht von wem der Beitrag stammt, staunt er nicht schlecht,
+   dass er über das Büro `Mira' noch nie etwas gehört hat. Nach kurzen
+   nachforschungen kommt Giovanni aber auf den richtigen Autor. Der Beitrag
+   wurde von einer Maschine eingereicht.
     
-    Im Verlaufe der Jurierung stellt sich ein Projekt immer mehr in den
-    Vordergrund. Dieses Projekt ist herausragend, und erfüllt als einziges im
-    ganzen Teilnehmerfeld alle Bedingungen. Ausserdem spricht die geforderte
-    Abschätzung der Kosten für den Bau des Projektes eine ganz andere Sprache
-    als die anderen Beiträge. Nur gut die hälfte der Baukosten des
-    zweitgünstigsten soll das Projekt kosten. Dies macht die Jury natürlich
-    vorerst skeptisch, aber nach mehrmaligem überprüfen scheinen die Zahlen
-    plausibel.
+   Als dies bekannt wird, werden alle Schritte eingeleitet, den Wettbewerbssieg
+   zu widerrufen.
 
-    Die Jury kürt folglich logisch das Projekt zum Sieger der Auslobung. Als
-    Giovanni nun nachsieht von wem der Beitrag stammt, staunt er nicht schlecht,
-    dass er über das Büro `Mira' noch nie etwas gehört hat. Nach kurzen
-    nachforschungen kommt Giovanni aber auf den richtigen Autor. Der Beitrag
-    wurde von einer Maschine eingereicht.
+   Bei einer ausserordentlichen Sitzung beraten sich die Architekten, wie nun
+   zu verfahren sei. Es entbrandet eine Grundsatzdiskussion über die Maschine
+   und deren Rolle bei Wettbewerben und im Gewerbe generell. Sollen künftig
+   beiträge von Programmen berücksichtigt werden?
+
+   In der Diskussion gibt es viel dafür und dawider. Gute Argumente aus beiden
+   Lagern werden angeführt. Letztendlich ringen sich die Architekten unter dem
+   Urteil von Giovanni durch, dem ganzen einen Versuch zu gestatten. Mira soll
+   unter Beweis stellen, wie sie ihre versprochen tiefen Kosten einhalten kann,
+   und soll den Wettbewerb für die Ausführung ausarbeiten.
+
+** Episode 3 | Dr. Brown
     
-    Als dies bekannt wird, werden alle Schritte eingeleitet, den Wettbewerbssieg
-    zu widerrufen.
+   Die dritte Episode wird aus der Perspektive von Dr. Stanislav Brown erzählt.
 
-    Bei einer ausserordentlichen Sitzung beraten sich die Architekten, wie nun
-    zu verfahren sei. Es entbrandet eine Grundsatzdiskussion über die Maschine
-    und deren Rolle bei Wettbewerben und im Gewerbe generell. Sollen künftig
-    beiträge von Programmen berücksichtigt werden?
-
-    In der Diskussion gibt es viel dafür und dawider. Gute Argumente aus beiden
-    Lagern werden angeführt. Letztendlich ringen sich die Architekten unter dem
-    Urteil von Giovanni durch, dem ganzen einen Versuch zu gestatten. Mira soll
-    unter Beweis stellen, wie sie ihre versprochen tiefen Kosten einhalten kann,
-    und soll den Wettbewerb für die Ausführung ausarbeiten.
-
-
-*** Episode 3 | Dr. Brown
-    
-    Die dritte Episode wird aus der Perspektive von Dr. Stanislav Brown erzählt.
-
-    Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit
-    auch Jan überwacht.
+   Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit
+   auch Jan überwacht.
 
     
 
-**** Punkte in Geschichte
+*** Punkte in Geschichte
     
-***** Alles läuft nach Plan, Brown beobachtet Jan weiterhin im geheimen
+**** Alles läuft nach Plan, Brown beobachtet Jan weiterhin im geheimen
+     
+**** Medienrummel um Mira > Wer ist der Erschaffer
 
-***** Medienrummel um Mira > Wer ist der Erschaffer
+**** Brown gibt sich zu erkennen
 
-***** Brown gibt sich zu erkennen
+**** TV interview goes viral
 
-***** TV interview goes viral
+**** Vorlesung > Angriff der Arch Studenten
 
-***** Vorlesung > Angriff der Arch Studenten
-
-***** Gudzilla findet heraus, dass Brown Mira gestohlen hat.
+**** Gudzilla findet heraus, dass Brown Mira gestohlen hat.
  
-***** Einladung nach MIT / internationale Vorträge
+**** Einladung nach MIT / internationale Vorträge
 
-***** Brown bekommt gute Angebote aus der Privatwirtschaft zum Weiterentwicklung seiner K.I.
+**** Brown bekommt gute Angebote aus der Privatwirtschaft zum Weiterentwicklung seiner K.I.
 
-***** Gudzilla erpresst Brown, damit dieser bleibt (Weiss dass Brown geleakt hat)
+**** Gudzilla erpresst Brown, damit dieser bleibt (Weiss dass Brown geleakt hat)
    
-*** Episode 4 | Stadtpräsidentin Rauch
+** Episode 4 | Stadtpräsidentin Rauch
    
-**** Punkte in Geschichte
+*** Punkte in Geschichte
 
-***** Rauch zuhause, schöne Beziehung
+**** Rauch zuhause, schöne Beziehung
 
-***** Release Abstimmung kommt vors Volk (Miras Projekt)
+**** Release Abstimmung kommt vors Volk (Miras Projekt)
 
-***** Positive Reaktion der Zürcher über Miras Projekt. Finanzpolitik wird besser
+**** Positive Reaktion der Zürcher über Miras Projekt. Finanzpolitik wird besser
 
-***** Rauch wird wiedergewählt
+**** Rauch wird wiedergewählt
 
-***** Giovanni sucht Gespräch mit Stadtpräsidentin, beklagt sich wegen steuerung der Server. Auch andere Anliegen der Architekten werden vorgetragen.
+**** Giovanni sucht Gespräch mit Stadtpräsidentin, beklagt sich wegen steuerung der Server. Auch andere Anliegen der Architekten werden vorgetragen.
 
-***** Rauch nimmt Kontakt mit Mira auf
+**** Rauch nimmt Kontakt mit Mira auf
 
-***** Massenentlassung im Amt für Städtebau
+**** Massenentlassung im Amt für Städtebau
       
-***** Mira übernimmt Amt für Städtebau
+**** Mira übernimmt Amt für Städtebau
    
-*** Episode 5 | Alessia
+** Episode 5 | Alessia
 
-**** Punkte in Geschichte
+*** Punkte in Geschichte
 
-***** Alessia ist sehr engagiert für die Architektur. Grosser Traum. Voller Stundenplan und sehr integriert
+**** Alessia ist sehr engagiert für die Architektur. Grosser Traum. Voller Stundenplan und sehr integriert
 
-***** Giovanni aufgebracht zuhause, wütend und verzweifelt. Verliert Job. Regt sich über sich selber auf
+**** Giovanni aufgebracht zuhause, wütend und verzweifelt. Verliert Job. Regt sich über sich selber auf
 
-***** Giovanni sieht keine Zukunft in der Architektur. Erwartet von Alessia, dass sie das Studium wechselt
+**** Giovanni sieht keine Zukunft in der Architektur. Erwartet von Alessia, dass sie das Studium wechselt
 
-***** Innerer Clinch, grenzt sich ab
+**** Innerer Clinch, grenzt sich ab
 
-***** Versöhnung mit Bruder
+**** Versöhnung mit Bruder
 
-***** Ale rebelliert
+**** Ale rebelliert
 
-***** Alessia redet mit Tim über Situation gesteht inneren Clinch. Gibt ihm Infos von zu hause.
+**** Alessia redet mit Tim über Situation gesteht inneren Clinch. Gibt ihm Infos von zu hause.
 
-***** Ale und Tim entscheiden sich Widerstand zu leisten.
+**** Ale und Tim entscheiden sich Widerstand zu leisten.
 
-***** Jan zeigt Alessia und Tim Mira
+**** Jan zeigt Alessia und Tim Mira
 
-*** Episode 6 | Tim
+** Episode 6 | Tim
 
-**** Punkte in Geschichte
+*** Punkte in Geschichte
 
-***** Ale wird wütend, Tim als Vermittler zwischen Jan und Ale
+**** Ale wird wütend, Tim als Vermittler zwischen Jan und Ale
 
-***** Versöhnung. Was könnte man tun? Alle wieder vereint
+**** Versöhnung. Was könnte man tun? Alle wieder vereint
 
-***** Gemeinsame Planung für Massnahmen gegen Mira
+**** Gemeinsame Planung für Massnahmen gegen Mira
 
-***** Anschläge
+**** Anschläge
 
-***** Niederlage der Studentenbewegung, Resignation
+**** Niederlage der Studentenbewegung, Resignation
 
-***** Tim vermag abermals alle zu motivieren
+**** Tim vermag abermals alle zu motivieren
 
-***** lange Krisensitzung
+**** lange Krisensitzung
 
-***** Mira Fail, Nur noch Baustelle in der Stadt
+**** Mira Fail, Nur noch Baustelle in der Stadt
 
-*** Episode 7 | Professor Brändi
+** Episode 7 | Professor Brändi
    
-**** Punkte in Geschichte
+*** Punkte in Geschichte
 
-***** Prof. Brändi versucht an ETH zu gelangen. Muss zu fuss kommen, da Infrastruktur erliegt.
+**** Prof. Brändi versucht an ETH zu gelangen. Muss zu fuss kommen, da Infrastruktur erliegt.
 
-***** Brändi und Studenten kommen zusammen.
+**** Brändi und Studenten kommen zusammen.
 
-***** Fünf Tage später haben sich die Leute an die gegebenheiten angepasst, ganz nach Brändis Vorbild zu fuss oder mit Velo
+**** Fünf Tage später haben sich die Leute an die gegebenheiten angepasst, ganz nach Brändis Vorbild zu fuss oder mit Velo
       
-      Bild auf dem man sieht, wie die Menschen die Strassen zur Fussgängerzone
-      gemacht haben.
+     Bild auf dem man sieht, wie die Menschen die Strassen zur Fussgängerzone
+     gemacht haben.
 
-***** Studenten gehen unter Führung von Brändi auf Baustelle, stoppen Materialzufuhr
+**** Studenten gehen unter Führung von Brändi auf Baustelle, stoppen Materialzufuhr
 
-***** Versuchen Brown zu finden, finden ihn
+**** Versuchen Brown zu finden, finden ihn
 
-***** Studenten und Brändi versuchen Bronw auf ihre seite zu bringen
+**** Studenten und Brändi versuchen Bronw auf ihre seite zu bringen
 
-***** Brown willigt ein zu helfen
+**** Brown willigt ein zu helfen
 
-***** Mira upgrade
+**** Mira upgrade
 
-***** Mira keine Alleinmacht mehr
+**** Mira keine Alleinmacht mehr
 
-***** Anders Denken, Mira stoppen, aber nicht radikal vernichten
+**** Anders Denken, Mira stoppen, aber nicht radikal vernichten
 
-*** Episode 8 | Gudzilla
+** Episode 8 | Gudzilla
    
-**** Punkte in Geschichte
+*** Punkte in Geschichte
 
-***** 
+**** 
