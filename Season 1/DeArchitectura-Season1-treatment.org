@@ -487,40 +487,69 @@
     
     Die zweite Episode wird aus der Perspektive von Giovanni Benini erzählt.
     
-    Man sieht Giovanni zuhause. Seine Tochter
+    Man sieht Giovanni zuhause. Seine Tochter Alessia, sein Sohn Luca und seine
+    Frau Laura leben alle gemeinsam im Hause. Die Verhältnisse zu Hause sind
+    grösstenteils harmonisch. Nur zwischen Alessia und Luca gibt es hin und wieder
+    Rankereien und Rivalitäten. Dies, weil die elterliche Erziehung streng ist,
+    und von beiden Leistungen erwartet werden. Giovanni hält die Ausbildung für
+    etwas des wichtigsten des Lebens.
 
+    Da Alessia ein Studium in Angriff genommen hat, und dort auch immer gute
+    Leistungen erzielt, wird sie oft als Vorbild für Luca vorgehalten, was
+    alleine schon diese Rivalität mitbeeinflusst.
+
+    Nach der morgendlichen Routine begibt sich Giovanni zur Arbeit. Am
+    Arbeitsplatz spürt man auch die freundliche Art unter den Mitarbeitern, denn
+    Giovanni hält nicht viel davon unmenschlich zu sein. Allerdings schwingt
+    auch immer Respekt und eine stilvolle, untergiebige Art im Umgang seiner
+    Kollegen zu ihm mit. Er nimmt seine Pflichten als Abteilungsleiter ernst,
+    und kümmert sich stets speditiv und rasch um alles was ansteht, denn er
+    aspiriert für das frei werdende Amt des Direktors des Stadtbauamtes in
+    Zürich. Diesbezüglich werden ihm gute Chancen beigemessen.
     
-    Mira nimmt an einem Wettbewerb teil und gewinnt diesen.
-
-    Beziehung zur Tochter. Will nur das beste für seine Tochter und erachtet die
-    Ausbildung als etwas des wichtigsten.
+    Aktuell soll die Jurierung des erst jüngst abgehaltenen anonymen
+    Wettbewerbes vorbereitet werden. Man sieht die Jurymitglieder und andere
+    Kollegen des Amts für Städtebau gemeinsam über die diversen Einreichungen
+    diskutieren.
     
-    Wettbewerb von hinter der Kulisse.
+    Im Verlaufe der Jurierung stellt sich ein Projekt immer mehr in den
+    Vordergrund. Dieses Projekt ist herausragend, und erfüllt als einziges im
+    ganzen Teilnehmerfeld alle Bedingungen. Ausserdem spricht die geforderte
+    Abschätzung der Kosten für den Bau des Projektes eine ganz andere Sprache
+    als die anderen Beiträge. Nur gut die hälfte der Baukosten des
+    zweitgünstigsten soll das Projekt kosten. Dies macht die Jury natürlich
+    vorerst skeptisch, aber nach mehrmaligem überprüfen scheinen die Zahlen
+    plausibel.
+
+    Die Jury kürt folglich logisch das Projekt zum Sieger der Auslobung. Als
+    Giovanni nun nachsieht von wem der Beitrag stammt, staunt er nicht schlecht,
+    dass er über das Büro `Mira' noch nie etwas gehört hat. Nach kurzen
+    nachforschungen kommt Giovanni aber auf den richtigen Autor. Der Beitrag
+    wurde von einer Maschine eingereicht.
     
-    Die Jury behandelt den Wettbewerb anonym und findet erst nach der
-    Beurteilung heraus, dass Mira eine Küstliche Intelligenz ist. Eine Debatte
-    über das weitere Verhalten bricht aus.
-    
-     Ein Wettbewerb der Stadt wird von Giovanni betreut.  Wettbewerb neigt sich
-     dem Ende zu.
+    Als dies bekannt wird, werden alle Schritte eingeleitet, den Wettbewerbssieg
+    zu widerrufen.
 
-***** Beziehung/Situation zu hause + bei Arbeit
+    Bei einer ausserordentlichen Sitzung beraten sich die Architekten, wie nun
+    zu verfahren sei. Es entbrandet eine Grundsatzdiskussion über die Maschine
+    und deren Rolle bei Wettbewerben und im Gewerbe generell. Sollen künftig
+    beiträge von Programmen berücksichtigt werden?
 
-***** Vorbereitung Jurierung
+    In der Diskussion gibt es viel dafür und dawider. Gute Argumente aus beiden
+    Lagern werden angeführt. Letztendlich ringen sich die Architekten unter dem
+    Urteil von Giovanni durch, dem ganzen einen Versuch zu gestatten. Mira soll
+    unter Beweis stellen, wie sie ihre versprochen tiefen Kosten einhalten kann,
+    und soll den Wettbewerb für die Ausführung ausarbeiten.
 
-***** Diskussion der Jury über Einreichungen
-
-***** Jury kürt Miras Projekt als Sieger
-
-***** Mira ist ein Programm
-
-***** Widerrufung des Siegerprojekts
-
-***** Diskussion der Jury über Mira - Grundsatzentschid
-
-***** Mira darf weitermachen
 
 *** Episode 3 | Dr. Brown
+    
+    Die dritte Episode wird aus der Perspektive von Dr. Stanislav Brown erzählt.
+
+    Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit
+    auch Jan überwacht.
+
+    
 
 **** Punkte in Geschichte
     
@@ -535,7 +564,7 @@
 ***** Vorlesung > Angriff der Arch Studenten
 
 ***** Gudzilla findet heraus, dass Brown Mira gestohlen hat.
-
+ 
 ***** Einladung nach MIT / internationale Vorträge
 
 ***** Brown bekommt gute Angebote aus der Privatwirtschaft zum Weiterentwicklung seiner K.I.
