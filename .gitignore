@@ -1,5 +1,7 @@
+/**/*.toc
 /**/*.aux
 /**/*.log
 /**/*.synctex.gz
 /**/*.tex~
+/**/.*.swp
 /**/texput.log
