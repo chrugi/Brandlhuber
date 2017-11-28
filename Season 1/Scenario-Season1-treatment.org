@@ -393,7 +393,7 @@
 
 ** Episode 1 | Genesis
     
-   Die erste Episode wird aus der Perspektive von Jan Aebersold erzählt.
+   Die erste Episode wird aus der Perspektive von /Jan Aebersold/ erzählt.
     
    Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht
    die Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für
@@ -477,7 +477,7 @@
     
 ** Episode 2 | Giovanni
     
-   Die zweite Episode wird aus der Perspektive von Giovanni Benini erzählt.
+   Die zweite Episode wird aus der Perspektive von /Giovanni Benini/ erzählt.
     
    Man sieht Giovanni zuhause. Seine Tochter Alessia, sein Sohn Luca und seine
    Frau Laura leben alle gemeinsam im Hause. Die Verhältnisse zu Hause sind
@@ -535,34 +535,76 @@
 
 ** Episode 3 | Dr. Brown
     
-   Die dritte Episode wird aus der Perspektive von Dr. Stanislav Brown erzählt.
+   Die dritte Episode wird aus der Perspektive von /Dr. Stanislav Brown/ erzählt.
 
    Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit
-   auch Jan überwacht.
+   auch Jan überwacht. Brown scheint zufrieden mit den Fortschritten, die sein
+   Programm während der letzten Stunden gemacht hat. Sein ausgeklügeltes
+   Lernmodul scheint gut zu funktionieren, und auf seine
+   Entscheidungsalgorithmen ist er stolz.
 
-    
+   In den Medien ist ein plötzliches, riesiges Interesse an der künstlichen
+   Intelligenz erwacht. Ab dem Zeitpunkt wo klar wurde, dass eine K.I. einen
+   Architekturwettbewerb gewonnen hat wollten alle über die Sensation
+   berichten. Die Umstände, dass die K.I. keinen Autor hat, der sich zu ihr
+   bekennt macht die ganze Geschichte noch spannender und sichert Quoten in den
+   Nachrichten wie zu Prime-Time-Zeiten.
 
-*** Punkte in Geschichte
-    
-**** Alles läuft nach Plan, Brown beobachtet Jan weiterhin im geheimen
-     
-**** Medienrummel um Mira > Wer ist der Erschaffer
+   Alle Spuren deuten Darauf hin, dass die K.I. aus einem Labor der ETH
+   stammt. Es wird offenkundig, dass das Programm /Mira/ aus einem Labor der
+   Robotik und Informatik des D-ARCH stammt, wo es scheinbar zuvor entwendet
+   wurde. Sicherheitsdebatten kommen auf, aber nichts vermag die Sensation zu
+   überbieten, welche die K.I. vollbracht hat.
 
-**** Brown gibt sich zu erkennen
-
-**** TV interview goes viral
-
-**** Vorlesung > Angriff der Arch Studenten
-
-**** Gudzilla findet heraus, dass Brown Mira gestohlen hat.
- 
-**** Einladung nach MIT / internationale Vorträge
-
-**** Brown bekommt gute Angebote aus der Privatwirtschaft zum Weiterentwicklung seiner K.I.
-
-**** Gudzilla erpresst Brown, damit dieser bleibt (Weiss dass Brown geleakt hat)
+   Mit steigendem Stolz gibt sich Dr. Brown nach einiger Zeit endlich als Autor
+   von Mira zu erkennen, verurteilt öffentlich den Diebstahl, hebt aber vor
+   allem die Errungenschaften und Vorzüge von Mira hervor. Die Berichterstattung
+   geht um die Welt und sorgt überal für Sensation. Natürlich gibt es immer
+   schon zu Beginn von etwas neuem Skeptiker, aber die Grundstimmung ist doch
+   sehr euphorisch.
    
-** Episode 4 | Stadtpräsidentin Rauch
+   Brown wird vielerorts eingeladen Mira vorzustellen und gemeinsam mit
+   prominenten und weniger prominenten zu diskutieren. Sei dies im Fernsehen
+   oder auch an Vorträgen und Schulen. Die ETH kann in diesem Trend natürlich
+   nicht hinten anstehen und veranstaltet eine Podiumsdiskussion.
+
+   Unter aller positiver Reaktion kann man hier im Hase aber schon eine grössere
+   Dichte an skeptischer Stimmen erkennen. Sie sind mira nicht generell negativ
+   entgegengestellt, hinterfragen sie jedoch mehr, als sie nur auf einen Sockel
+   der Errungenschaft zu stellen. Einige Architekturstudenten, darunter auch Tim
+   stellen ungemütliche Fragen, so dass Brown am Ende froh ist, dass die
+   Veranstaltung vorüber ist.
+
+   Unterdessen erfährt Gudzilla im Rahmen der internen Ermittlungen zum
+   Diebstahl von Mira aus dem Forschungsumfeld, dass Brown sie gestohlen hat. Er
+   möchte ihn aus taktischen Gründen nicht jetzt schon blossstellen, da der
+   Rummel viel positives Momentum in die Forschungskassen der ETH gebracht hat,
+   welches er nicht verspielen will. Ausserdem kann die ETH noch etwas mehr
+   positive Engramme in den Köpfen der Menschen brauchen. So behält Gudzilla
+   diese Erkenntnis vorerst für sich.
+
+   Brown wird auch an das MIT eingeladen, und bekommt dort auch schon im Voraus
+   ein angebot für die Forschung. Die Amerikaner, die der Entwicklung wesentlich
+   weniger skeptisch gegenüberstehen, als die Europäer, bejubeln Brown im
+   grossen Stil. Am Ende seiner Referatreihe kommen Vertreter von riesigen,
+   äusserst reichen Konzernen der digitalen Privatwirtschaft auf Brown zu, und
+   versuchen sich gegenseitig auszustechen und ihn für ihr jeweils eigenes
+   Unternehmen zur Weiterentwicklung von Mira zu gewinnen.
+
+   Als Brown vor hat der ETH nun den Rücken zu kehren und zu kündigen, um eines
+   der vielen Angebote anzunehmen, wird er von Gudzilla aber erpresst und zum
+   bleiben gezwungen. Er kann es sich schliesslich nicht leisten, dass sein
+   Diebstahl publik wird. Er wird zu einem etwas gekürzten gehalt wieder als
+   wissenschaftlicher Mitarbeiter eingestellt.
+
+** Episode 4 | Stadtpräsidentin Schmauch
+
+   Die vierte Episode wird aus der Perspektive der Zürcher /Stadtpräsidentin
+   Corinne Schmauch/ erzählt.
+   
+   Man sieht, wie die tüchtige Präsidentin Schmauch aus dem geschäftigen Alltag
+   mit vielen Telefonaten und Terminen nach Hause kommt. Mit dem übertreten der
+   Türschwelle wird sie gleichsam ein anderer Mensch
    
 *** Punkte in Geschichte
 
