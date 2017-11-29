@@ -858,20 +858,63 @@
 
 ** Episode 8 | Gudzilla
    
-*** Punkte in Geschichte
+   die achte und letzte Episode der ersten Saison wird aus der Perspektive von
+   /ETH Präsident Lino Gudzilla/ erzählt.
 
-**** 
+   Nachdem in den Medien das gewaltige Ausmass des Scheiterns vom Projekt Mira
+   diskutiert wird und somit auch die Reputation der ETH angegriffen ist,
+   entschliesst sich Gudzilla Dr. Brown zu entlassen, und dies öffentlich zu
+   demonstrieren. Man wolle nicht, dass sich kriminelle Elemente aim Lehrkörper
+   der ETH befinden. So wird Brown offiziell angeprangert, Mira gestohlen zu
+   haben, was ja die internen Untersuchungen der ETH ergeben hatten.
 
+   Da in den Forschungslaboratorien geheimhaltung herrscht, konnte die Polizei
+   bei ihren Ermittlungen aus Mangel an Informationen nicht zum gleichen Schluss
+   kommen. So wird aber Dr. Browns Entlassung öffentlich auch als fadenscheinig
+   angeprangert und lastet schwer auf den Schultern des amtierenden
+   ETH-Präsidenten. Zwar argumentiert er wahrheitsgemäss, doch kann er
+   öffentlich keine Argumente vorlegen.
+
+   Um der laufenden Abwärtsspirale Herr zu werden, ernennt Gudzilla den
+   beliebtesten Mann des Lehrkörpers, Prof. Arno Brändi, zum Dekan der Fakultät
+   der Architektur, um die ja das ganze Aufsehen ist, und beauftragt ihn mit der
+   Umstrukturierung der Lehre und des Departementes an sich, um einen
+   zukunftsweisenden Weg zu finden.
+
+   Unter der Federführung von Brändi erholt sich die Reputation der ETH
+   erstaunlich schnell. Man lobt den Umgang mit den neuen Möglichkeiten und dem
+   festhalten am bestehenden. Brändi scheint das Problem so gut anzugehen, dass
+   Gudzilla so quasi aus dem Schneider kommt.
+
+   Als nun Gudzilla der festen Überzeugung ist, dass sich die Wogen nun
+   endgültig geglättet haben, stirbt Brändi plötzlich bei einem tragischen
+   Unfall. Da nun der Mann der Stunde tot ist, muss Gudzilla schleunigst wieder
+   selber aktiv werden.
+
+   Dummerweise findet er niemanden, der die entstandene Lücke auch nur
+   ansatzweise so gut füllen könnte, wie dies Brändi getan hatte. Er möchte aber
+   nicht neue Unzufriedenheit streuen und vorschnell jemanden einsetzen, der am
+   Schluss mehr schaden anrichten könnte als bisher schon geschehen war.
+
+   Parallel dazu bekommt Giovanni Benini vom Präsidium der Stadt Zürich eine
+   neue Arbeitsstelle angeboten. Er soll künftig das Amt für den Städtebau als
+   Direktor anführen. Giovanni ist aber nicht im mindesten an der neuen Stelle
+   interessiert. Er hat nicht einfach vergessen, wie er vor kurzer Zeit einfach
+   abserviert wurde, und möchte nichts mehr mit seinem alten Arbeitgeber zu tun
+   haben.
+
+   Als Gudzilla eine Berichterstattung darüber sieht, ist er sich sicher, den
+   richtigen Mann für die Stelle gefunden zu haben. Er beruft Giovanni zum
+   Professor und setzt diesen gleich in das Amt des Dekans ein.
+
+   Im Rahmen der Antrittsvorlesung für Giovanni lässt Gudzilla nochmals alle
+   Ereignisse der vergangenen Zeit revue passieren. Im folgenden scheint ein
+   vollends harmonischer Umgang mit der K.I. gefunden worden zu sein, wo deren
+   Potenzial genutzt wird, sie sich aber nicht über die Menschen hinweg setzten
+   kann.
+   
+   Als letztes Bild sieht man, wie Dr. Brown in einem teuren Luxusauto im
+   sonnigen Kalifornien herumfährt und einen Anruf entgegen nimmt. Der Mann am
+   Apparat, offenbar persönlicher Sekretär des CEO fragt nach, was er denn für
+   die Präsentation von Mira 2.0 benötige...
      
-*** Punkte in Geschichte
-
-**** Gudzilla feuert Dr. Brown als das Ausmass des Scheiterns bekannt wird. (alles auf den Sündenbock schieben.)
-**** Ernennt Brändi zum Dekan des D-ARCH
-**** Reputation der ETH erholt sich schnell, da gut organisiert
-**** Brändi stirbt
-**** Findet niemanden um die entstandene Lücke zu füllen
-**** Giovanni lehnt neues Jobangebot im Amt für Städtebau ab
-**** Gudzilla beruft Giovanni Benini zum Prof und setzt ihn als Dekan ein
-**** Antrittsvorlesung von Gudzilla, wo alle ereignisse zusammengefasst werden
-**** Harmonie mit K.I.
-**** Letztes Bild: Brown entwickelt bei Google Mira 2.0
