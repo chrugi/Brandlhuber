@@ -13,9 +13,10 @@
 
   Die Serie beschäftigt sich mit den Möglichen Welten, in welchen wir
   möglicherweise leben würden, wenn gewisse andere Rahmenbedingungen gegeben
-  wären. Die Welten zwischen den einzelnen Seasons sind nicht die gleichen.
+  wären. In einer Season wird jeweils ein Szenario diskutiert. Die Welten
+  zwischen den einzelnen Seasons sind nicht die gleichen.
 
-  Das Ziel ist, eine konsistente Rahmenbedingung über eine komplette Season zu
+  Das Ziel ist, ein konsistentes Szenario über eine komplette Season zu
   beschreiben und ein möglicher Weg, hierin zu leben und Arbeiten. Innerhalb der
   Season wird eine chronologische Geschichte erzählt. In jeder Episode nehmen
   wir jedoch die Perspektive eines anderen Charakters ein.
@@ -24,9 +25,24 @@
   unmittelbaren Zukunft. Sie hat gegenüber unserer Welt einen Vorsprung von
   ungefähr fünf Jahren.
 
-  Die Technik ist einen Schritt weiter gekommen.
+  Die Technik ist im Bereich der Automation und Robotik, wie auch der
+  eigenstängigen Software einen Schritt weiter gekommen.
 
 * Cast und Rollen
+
+** Professor Arno Brändi
+
+   /Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät
+   der ETH Zürich.
+
+   Er ist zwar innovativ und hat es verstanden seine Architektur an die
+   Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
+   geblieben. Er erfreut sich grosser Beliebtheit bei den Studenten, da er mit
+   seiner Bestimmtheit, konstruktiven Kritik aber vor allem seiner
+   Menschlichkeit und Nahbarkeit punktet.
+
+   Auch unter seinen Kollegen geniesst er grossen Respekt, sowohl für seine
+   Architektur wie auch die Didaktik.
 
 ** Lino Gudzilla (ETH Präsident)
 
@@ -43,20 +59,6 @@
    Er is der direkte Vorgesetzte von Dr. Brown, wessen Forschung er aus mangel
    an Erfolg beenden will. Nach Dr. Browns Durchbruch wird dieser für ihn jedoch
    zu einem Vorzeigeexemplar der Forschung am Haus.
-
-** Professor Arno Brändi
-
-   /Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät
-   der ETH Zürich.
-
-   Er ist zwar innovativ und hat es verstanden seine Architektur an die
-   Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
-   geblieben. Er erfreut sich grosser Beliebtheit bei den Studenten, da er mit
-   seiner Bestimmtheit, konstruktiven Kritik aber vor allem seiner
-   Menschlichkeit und Nahbarkeit punktet.
-
-   Auch unter seinen Kollegen geniesst er grossen Respekt, sowohl für seine
-   Architektur wie auch die Didaktik.
 
 ** Dr. Stanislav Brown (Programmierer)
 
@@ -156,7 +158,7 @@
 
    Mit seinem Engagement in der Hochschulpolitik trägt er zum Wohle aller bei.
 
-   Jan ist seit langer zeit Tims bester Freund.
+   Jan ist seit langer Zeit Tims bester Freund.
 
 ** Jan Aebersold
 
@@ -170,7 +172,8 @@
    von /durchschnittlich/.
 
    Er macht sich Probleme, wo keine sind, und vermag es nicht allzu gut sich auf
-   das wesentliche zu konzentrieren.
+   das wesentliche zu konzentrieren und leidet häufig unter seinem schlechten
+   Zeitmanagement.
 
 ** Studenten
 
@@ -190,32 +193,43 @@
     Die drei könnten grossen Enfluss auf weitere Gestaltung der
     Architekturausbildung haben.
 
-** Stadtpräsidentin Corinne Rauch
+** Stadtpräsidentin Corinne Schmauch
 
-   Muss für Wiederwahl kämpfen, setzt Mira als Wahlkampfmittel ein, da Mira gut
-   ankommt bei der Bevölkerung.  Übergibt Amt des Städtebaus an Mira. Oder
-   reisst Mira es an sich?
+   /Schmauch/ ist eine sehr zielstrebige Person. Sie erreicht ihre Ziele
+   eigentlich immer. Politisch aktiv ist sie seit ihrer eigenen Zeit an der
+   Mittelschule.
+
+   In ihrem Privatleben ist sie aber eine sehr herzliche Person und führt mit
+   ihrem Mann eine glückliche Beziehung.
+
+   Aktuell muss sie für ihre Wiederwahl kämpfen, und setzt Mira als
+   Wahlkampfmittel ein, da Mira gut ankommt bei der Bevölkerung.  Übergibt Amt
+   des Städtebaus an Mira. Oder reisst Mira es an sich?
 
 ** Giovanni Benini (Vater von Ale)
 
-   Giovanni ist der Vater von Alessia. Er ist seit langer Zeit glücklich
+   /Giovanni/ ist der Vater von Alessia. Er ist seit langer Zeit glücklich
    verheiratet und wohnt zusammen mit seiner Frau und seinen zwei Kindern,
    Alessia und ihr jüngerer Bruder, in einem grossen Haus in einem gehobenen
    Gebiet der Stadt.
 
-   Verliert Job. Zwingt nachher Ale das Studium abzubrechen, obwohl es ihr
-   Traumberuf ist.  Kandidiert zum Direktor des Amtes für Städtebau.
+   Während der Mira-Krise verliert er jedoch seinen Job. Er möchte Alessia dazu
+   bewegen, ihr Studium abzubrechen, obwohl er weiss, dass dies ihr Traumberuf
+   ist, da es in der Architektur keine Zukunft zu geben scheint.
 
-   Strikt, formalistisch, ambitioniert.
+   Vor der Krise jedoch ist er selber passionierter Architekt und kandidiert für
+   das Amt des Direktors des Amtes für Städtebau. Um zum Amt zu kommen, neigt er
+   in der Phase vor der Krise dazu, viel Zeit im Büro zu verbringen.
 
-   Vermag es Familie und Arbeit zu trennen.  Er ist zwar herzlich, aber hat
-   Probleme, Gefühle zu zeigen.
+   Er ist ein wenig strikt und formalistisch und überaus ambitioniert.
+   Er ist zwar herzlich, aber hat Probleme, Gefühle zu zeigen.
 
-   Vater von zwei Kindern. Alessia ist das Vorzeigekind.  Der jüngere Sohn Dino
-   rebelliert zuhause und interessiert sich nicht für Architektur.
+   Privat vermag er es die Arbeit sehr gut vom Leben mit seiner Famile
+   abzutrennen.
 
-   Ist glücklich verheiratet, neigt jedoch seit seiner Kandidatur für das Amt
-   des Direktors dazu, zu viel Zeit im Büro abzusitzen.
+   Neben Alessia haben er und seine Frau noch einen jüngeren Sohn. Alessia ist
+   aber das Vorzeigekind. Der jüngere Sohn Luca rebelliert zuhause und
+   interessiert sich nicht für Architektur.
 
 ** Architekten
 
