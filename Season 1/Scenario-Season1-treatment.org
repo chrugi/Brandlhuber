@@ -8,9 +8,9 @@
 #+LATEX_HEADER: \usepackage{ngerman}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
 #+LATEX_COMPILER: pdflatex
-  
+
 * Generelle Beschreibung
-  
+
   Die Serie beschäftigt sich mit den Möglichen Welten, in welchen wir
   möglicherweise leben würden, wenn gewisse andere Rahmenbedingungen gegeben
   wären. Die Welten zwischen den einzelnen Seasons sind nicht die gleichen.
@@ -23,14 +23,13 @@
   In der ersten Season befinden wir uns in einer möglichen Welt in der
   unmittelbaren Zukunft. Sie hat gegenüber unserer Welt einen Vorsprung von
   ungefähr fünf Jahren.
-  
-  Die Technik ist einen Schritt weiter gekommen.
 
+  Die Technik ist einen Schritt weiter gekommen.
 
 * Cast und Rollen
 
 ** Lino Gudzilla (ETH Präsident)
-    
+
    Der Präsident der Eidgenössischen Technischen Hochschule in Zürich.
 
    Er ist ein ambintionierter und seriöser Mensch.
@@ -42,14 +41,14 @@
    gewisse Projekte nicht unterstützen will und kann.
 
    Er is der direkte Vorgesetzte von Dr. Brown, wessen Forschung er aus mangel
-   an Erfolg beenden will. Nach Dr. Browns Durchbruch wird dieser für ihn
-   jedoch zu einem Vorzeigeexemplar der Forschung am Haus.
-    
+   an Erfolg beenden will. Nach Dr. Browns Durchbruch wird dieser für ihn jedoch
+   zu einem Vorzeigeexemplar der Forschung am Haus.
+
 ** Professor Arno Brändi
-    
+
    /Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät
    der ETH Zürich.
-    
+
    Er ist zwar innovativ und hat es verstanden seine Architektur an die
    Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
    geblieben. Er erfreut sich grosser Beliebtheit bei den Studenten, da er mit
@@ -60,15 +59,15 @@
    Architektur wie auch die Didaktik.
 
 ** Dr. Stanislav Brown (Programmierer)
-    
+
    /Dr. Brown/ ist ein Programmierer an der ETH. Er ist ausgebildeter aber
    gescheiterter Architekt, und hat sich in seinem Schaffen der Technologie
    zugewendet. Im Rahmen seiner Arbeit hat er den Ansatz des CAD zeichnens
    weiterentwickelt, und an einem Programm namens `Dreamcatcher'
    mitgeschrieben. /Dreamcatcher/ ist ein Programm, welches das Design von
-   Architektur um ein vielfaches vereinfachen soll. Mit der Eingabe von
-   diversen relevanten Parametern produziert das Programm verschiedene Lösungen
-   zur architektonischen Gestaltung. Der Architekt wählt dann aus der Liste der
+   Architektur um ein vielfaches vereinfachen soll. Mit der Eingabe von diversen
+   relevanten Parametern produziert das Programm verschiedene Lösungen zur
+   architektonischen Gestaltung. Der Architekt wählt dann aus der Liste der
    Resultate eines aus, welches er dann verfeinert.
 
    Brown hat diese Automation nie vollends befriedigt. Für seine Forschung hat
@@ -86,27 +85,27 @@
    selber.
 
 ** Mira (K.I.)
-   
+
    Für mira wird nur eine Stimme gebraucht, sie manifestiert sich nicht
-   physisch. 
-    
+   physisch.
+
    /Mira/ ist eine künstliche Intelligenz. Sie ist ein Programm, welches von
    Dr. Brown geschrieben wurde, welches den architektonischen Entwurf
    automatisieren kann. Gegenüber einer gewöhnlichen K.I. meistert Mira nicht
-   nur logische Entscheidungen sondern auch /intuitive/. Sie hat die
-   Fähigkeiten /zu beurteilen/ und die Welt, wie auch ihr eigenes `Denken'
-   /reflexiv/ zu betrachten und zu hinterfragen. Im Gegensatz zu anderen
-   Erzählungen mit künstlichen Intelligenzen hat Mira jedoch keine empathischen
+   nur logische Entscheidungen sondern auch /intuitive/. Sie hat die Fähigkeiten
+   /zu beurteilen/ und die Welt, wie auch ihr eigenes `Denken' /reflexiv/ zu
+   betrachten und zu hinterfragen. Im Gegensatz zu anderen Erzählungen mit
+   künstlichen Intelligenzen hat Mira jedoch keine empathischen
    Fähigkeiten. Ebenfalls tritt Mira auch nicht physisch in Erscheinung.
 
    In Verbindung mit dem Benutzer tritt Mira über ein sprachliches Interface,
    wie auch über den visuellen Kanal.
-    
+
    Mira ist keineswegs ein bösartiges Programm welches die Weltherrschaft an
    sich reissen will, sondern nur pragmatisch interessiert, das ihr gegebene
    Problem möglichst effizient zu lösen. Da sie für den Architekturentwurf
    programmiert wurde, beschränkt sich ihr tun hierauf.
-    
+
    Hierin geht sie aber um ein vielfaches weiter als ein Vorgängerprogramm von
    ihr namens `Dreamcatcher'. Sie sucht sich Entwurfsparameter eigenständig
    zusammen und entscheidet nicht nur basierend auf logischen Daten, welcher
@@ -114,27 +113,26 @@
    Gesellschaft und des Kontext fliessen bei ihrem Entwurf ebenso ein, wie die
    Anforderungen des Baurechtes.
 
-   Zu beginn verhält sich /Mira/ wie ein Kind, welches alles lernen und
-   erfragen muss. Sie muss sich ihre eigene Wissensdatenbank anfertigen und
-   vergisst niemals. Ebenso denkt sie alle Ansätze weiter. Mit wachsendem
-   Wissen ist sie dann in der Lage, selber kreative und konstruktive
-   Entscheidungen zu treffen.
-    
+   Zu beginn verhält sich /Mira/ wie ein Kind, welches alles lernen und erfragen
+   muss. Sie muss sich ihre eigene Wissensdatenbank anfertigen und vergisst
+   niemals. Ebenso denkt sie alle Ansätze weiter. Mit wachsendem Wissen ist sie
+   dann in der Lage, selber kreative und konstruktive Entscheidungen zu treffen.
+
    Prinzipiell macht Mira die Entwicklung eines Menschen durch. Dies jedoch in
    kürzester Zeit, weshalb sie vielmehr die Entwicklung /aller/ Menschen
    durchmacht.
-    
+
    Da sie sich nicht linear entwickeln muss ist sie gleichsam eine einzelne
    Entität, die jedoch wie ein komplettes globales Netzwerk funktioniert.
-    
-   Limitierungen hat die K.I. jdeoch immernoch. Dies vor allem im
-   künstlerischen Aspekt. Auch steht die Frage noch offen, was denn beim
-   /Scheitern/ an einem Projekt passiert.
+
+   Limitierungen hat die K.I. jdeoch immernoch. Dies vor allem im künstlerischen
+   Aspekt. Auch steht die Frage noch offen, was denn beim /Scheitern/ an einem
+   Projekt passiert.
 
 ** Alessia [Ale] Benini
-    
+
    /Alessia/ ist eine Studentin am Lehrstuhl Brändi.
-    
+
    Sie kommt aus gutem Haus, hat in ihrem Leben viel Wohlstand genossen, ist
    aber trozdem nicht zu einem verwöhnten Mädchen geworden. Ihre Eltern sind
    relativ streng in der Erziehung, haben ihr nichts in den Schoss gelegt, und
@@ -149,39 +147,39 @@
    gemeinsame Basis für ein gutes zusammensein gefunden.
 
 ** Tim Bergmann
-    
+
    /Tim/ ist ebenfalls Student am Lehrstuhl Brändi.
 
    Er ist der Musterschüler jeder Klasse. Er ist intelligent und versteht
    Zusammenhänge häufig schneller als jeder sonst. Da er sehr hilfsbereit und
    empathisch ist, ist er äusserst beliebt bei den anderen Studenten.
-    
+
    Mit seinem Engagement in der Hochschulpolitik trägt er zum Wohle aller bei.
-    
+
    Jan ist seit langer zeit Tims bester Freund.
 
 ** Jan Aebersold
-    
+
    /Jan/ war in seinem Leben nicht immer gut gestellt. Er lebt zusammen mit
    seiner alleine erziehenden Mutter in einer kleinen Wohnung.
-    
-   Er ist sympathisch und zugänglich. Sein Fokus in seinem Leben liegt in
-   seinem sozialen Umfeld. Architektur ist für Jan nicht nebensächlich, er ist
-   aber nicht besonders gut im Studium. Widerum ist er auch nirgends wirklich
+
+   Er ist sympathisch und zugänglich. Sein Fokus in seinem Leben liegt in seinem
+   sozialen Umfeld. Architektur ist für Jan nicht nebensächlich, er ist aber
+   nicht besonders gut im Studium. Widerum ist er auch nirgends wirklich
    schlecht. Wenn es um die schulischen Leistungen geht, ist er die Inkarnation
    von /durchschnittlich/.
-    
-   Er macht sich Probleme, wo keine sind, und vermag es nicht allzu gut sich
-   auf das wesentliche zu konzentrieren.
-    
+
+   Er macht sich Probleme, wo keine sind, und vermag es nicht allzu gut sich auf
+   das wesentliche zu konzentrieren.
+
 ** Studenten
-    
+
    Das Gros der Studenten. Wir fokussieren hier auf die Studenten des
    Lehrstuhles Brändi. Es werden daher ca. 10 bis 20 Einzelne Studenten
-   benötigt. 
+   benötigt.
 
 *** Dreigespann
-    
+
     Die drei Studenten Alessia, Tim und Jan stehen in einer Art
     Dreiecksbeziehung, wo Spannungen auf verschiedenen Ebenen bestehen.
 
@@ -193,115 +191,115 @@
     Architekturausbildung haben.
 
 ** Stadtpräsidentin Corinne Rauch
-    
+
    Muss für Wiederwahl kämpfen, setzt Mira als Wahlkampfmittel ein, da Mira gut
    ankommt bei der Bevölkerung.  Übergibt Amt des Städtebaus an Mira. Oder
    reisst Mira es an sich?
-    
+
 ** Giovanni Benini (Vater von Ale)
-     
+
    Giovanni ist der Vater von Alessia. Er ist seit langer Zeit glücklich
    verheiratet und wohnt zusammen mit seiner Frau und seinen zwei Kindern,
    Alessia und ihr jüngerer Bruder, in einem grossen Haus in einem gehobenen
    Gebiet der Stadt.
-     
+
    Verliert Job. Zwingt nachher Ale das Studium abzubrechen, obwohl es ihr
    Traumberuf ist.  Kandidiert zum Direktor des Amtes für Städtebau.
-     
+
    Strikt, formalistisch, ambitioniert.
-     
+
    Vermag es Familie und Arbeit zu trennen.  Er ist zwar herzlich, aber hat
    Probleme, Gefühle zu zeigen.
 
-   Vater von zwei Kindern. Alessia ist das Vorzeigekind.  Der jüngere Sohn
-   Dino rebelliert zuhause und interessiert sich nicht für Architektur.
-     
+   Vater von zwei Kindern. Alessia ist das Vorzeigekind.  Der jüngere Sohn Dino
+   rebelliert zuhause und interessiert sich nicht für Architektur.
+
    Ist glücklich verheiratet, neigt jedoch seit seiner Kandidatur für das Amt
    des Direktors dazu, zu viel Zeit im Büro abzusitzen.
-    
+
 ** Architekten
-    
+
    Eine kleine Gruppe von Architekten.
-  
+
 ** Medien Zürich
-    
+
    Einige Journalisten, die bei Pressekonferenzen dabei sind und ein
    Fernsehteam.
 
 ** Zürcher Bevölkerung
-    
+
    Eine Gruppe Zürcher Stadtbewohner
 
 
 * Season 1 | Mira
-  
+
   Die Geschichte erzählt aus der Perspektive von wechselnden Protagonisten aber
   mit Mira als Hauptfigur.
 
 ** Geschichte
-   
+
 *** Setup
-   
+
      Dr. Brown hat Erfolg mit der Programmierung der K.I.
 
 *** Plotpoint I
-    
+
     Mira nimmt an Wettbewerb teil und gewinnt. Die Menschen sind begeistert vom
     Design und den vorgeschlagenen Kosten und Bauzeiten.
-   
+
 *** Rising Action
-    
+
     Lagerbildung. Zürcher nehmen Mira positiv auf, durch alle Vorteile,
     Architekten kämpfen aber dagegen an, weil sie obsolet werden.
 
 *** Peak
-    
+
     Mira übernimmt Amt für Städtebau. Mit dem läuft Mira auf vieler Hardware,
     was ein Ausschalten quasi unmöglich macht.
 
 *** Falling Action
-    
+
     Mittlerweile hat Mira viele Feinde, da sie nach und nach alle überflüssig
     macht. Jemand versucht Mira auszuschalten. Anschläge werden
     verübt. Studentenbewegungen wehren sich mittlwerweile aktiv gegen Mira.
 
 *** Plotpoint II
-    
+
     Mira Failure
-   
+
     Mira entwickelt die "perfekte" Architektur, kommt ans Ende des
     Lernprozesses. Allerdings sind die Menschen nicht so weit, das Resultat zu
     akzeptieren. Für die beteiligten Menschen fehlt der Prozess. Wir können
     keine Endgültige Lösung akzeptieren, wenn wir nicht verstehen können, wie
     man darauf kommt. Ausserdem brauchen wir zeit, um uns an Neues zu
     gewöhnen. Im Endeffekt ist Mira einfach zu schnell für den Menschen.
-    
+
     Es muss ein prinzipieller Fehler vorliegen, wenn das Endresultat der
     Entwicklung nicht angenommen wird. Wenn das Resultat quasi falsch ist, kann
     die Methode nicht stimmen.
-    
+
     Mira kommt an ihre Grenzen. Irgendwann ist jeder Wettbewerb gelöst, und
     dann?  Infrastrukturelle Engpässe Im Versuch, die Architektur komplett neu
     zu denken, und allen Balast wie auch die Geschichte abzuwerfen, entwickelt
     Mira die "perfekte" Architektur.
 
 *** Resolution
-    
+
     Studium passt sich an neue Gegebenhenheiten an, Menschen lernen, damit
     umzugehen, und eine neue Rolle in der Architektur einzunehmen. Brändi, der
     konservative Professor initiiert Versöhnung mit der Maschine. Botschaft am
     Ende: Alle haben sich damit abgefunden, dass Mira mittlerweile Teil der
     Gesellschaft wird. Man sieht aber, wie Brown Mira 2.0 entwickelt.
     Hoffnungsvolles aber ungewisses Ende.
-    
+
 ** Geschichte
-   
+
    Die erste Season wird in acht Episoden erzählt. Jede aus der Sicht eines
    anderen Protagonisten.
 
    Es geht um die Geschichte der Architekten, Architekturstudenten und die Rolle
    der Technik in der Gesellschaft.
-   
+
    Die Geschichte spielt in der nahen Zukunft, circa fünf Jahre von uns
    entfernt. Die Gegeben- und Gepflogenheiten in der Gesellschaft sind den
    unseren weitestgehend ähnlich, nur hat sich das Handwerk der Architekten
@@ -320,13 +318,13 @@
    lediglich darin, dass wir weniger Zeit darauf verwenden, die Gedanken in
    Pläne zu übersetzen, da dieser Prozess mittels Software weitgehend
    automatisiert wurde.
-   
+
    Forschung im Bereich der Künstlichen Intelligenz und Softwareautomation
    werden an der ETH Zürich gross geschrieben.
 
-   Ein Entwickler an der ETH, /Dr. Brown/, der seines Zeichens auch ausgebildeter
-   Architekt ist, es jedoch nie richtig geschafft hat in der Welt der
-   Architekten Fuss zu fassen, hat sich der Automation des Entwurfsprozesses
+   Ein Entwickler an der ETH, /Dr. Brown/, der seines Zeichens auch
+   ausgebildeter Architekt ist, es jedoch nie richtig geschafft hat in der Welt
+   der Architekten Fuss zu fassen, hat sich der Automation des Entwurfsprozesses
    verschrieben. Er hat bereits an Dreamcatcher mitgeschrieben, und ist in
    seinem Forschungsprojekt nun damit beschäftigt, die Software grundlegend
    weiter zu entwickeln und sie mit den Ansätzen der Künstlichen Intelligenz zu
@@ -355,7 +353,7 @@
    frei werdende Amt des Direktors für Städtebau der Stadt Zürich ist, ringt
    sich unter Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen, und
    die Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
-   
+
    Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Brown/
    von den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und
    stellt sein Werk gerne und umfassend vor.
@@ -367,7 +365,7 @@
    gegenüber. Durch /Mira/ und ihre effizienten Ansätze können die Kosten für
    Planung und Erstellung eines Gebäudes extrem gesenkt werden.
 
-    
+
 *** Mira geburt
 
 *** Mira nimmt Teil an Wettbewerb
@@ -387,14 +385,13 @@
 *** Designer arbeiten mit Mira. Aber Brown hat schon Mira 2.0 in Entwicklung
 
 *** Resolution
-    
 
 * Episoden
 
 ** Episode 1 | Genesis
-    
+
    Die erste Episode wird aus der Perspektive von /Jan Aebersold/ erzählt.
-    
+
    Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht
    die Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für
    seinen Eifer ist die kommende Kritik am Mittwoch Vormittag.
@@ -417,15 +414,15 @@
    In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu
    generieren, den er dann weiter verarbeiten kann. Leider kann sich Jan in der
    Anwesenheit von Alessia, einer Komilitonin sehr leicht ablenken.
-    
+
    Parallel dazu sehen wir die Geschichte von Dr. Brown. Brown ist
    Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine
    Künstliche Intelligenz entwickelt, welche jedoch noch nicht ganz fertig
-   ist. An diesem Morgen hat Brown ein Treffen mit dem Präsidenten der ETH,
-   Lino Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit
-   an Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren
-   wird, und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt
-   Brown nur noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für
+   ist. An diesem Morgen hat Brown ein Treffen mit dem Präsidenten der ETH, Lino
+   Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit an
+   Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren wird,
+   und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt Brown nur
+   noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für
    Computerprobleme den Studenten mit ihren technischen Schwierigkeiten zur
    Setie steht.
 
@@ -438,53 +435,53 @@
    Computern umgehen kann, können ihm nicht helfen, weshalb er sich gezwungen
    fühlt, den Helpdesk aufzusuchen.
 
-   Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit
-   seine noch nicht fertige K.I. auszuprobieren, um letztendlich mit
-   offensichtlichen Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter
-   eingestellt zu werden. Er erzählt Jan also, dass er das Problem bis zum
-   Abend beheben werde. Jan kommt in eine riesige Not, da er so seine Abgabe
-   niemals schaffen wird. Resigniert stimmt er aber dennoch zu, da dies die
-   letzte Chance auf Erfolg ist.
+   Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit seine
+   noch nicht fertige K.I. auszuprobieren, um letztendlich mit offensichtlichen
+   Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter eingestellt zu
+   werden. Er erzählt Jan also, dass er das Problem bis zum Abend beheben
+   werde. Jan kommt in eine riesige Not, da er so seine Abgabe niemals schaffen
+   wird. Resigniert stimmt er aber dennoch zu, da dies die letzte Chance auf
+   Erfolg ist.
 
    Brown installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich
-   bei ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er
-   habe lediglich eine neuere Version von Dreamfetcher installiert, die jedoch
-   viel mächtiger sei.
+   bei ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er habe
+   lediglich eine neuere Version von Dreamfetcher installiert, die jedoch viel
+   mächtiger sei.
 
    Jan probiert zuhause noch das schlimmste zu vermeiden, und ist überrascht,
    wie eigenständig das Programm funktioniert. Mittels Sprachsteuerung ung der
-   Eigeninitiative der K.I. gelingt letztendlich der Vollständige Entwurf
-   seiner Abgabe. Noch dazu ist sie in diesem Fall nicht wie sonst besonders
+   Eigeninitiative der K.I. gelingt letztendlich der Vollständige Entwurf seiner
+   Abgabe. Noch dazu ist sie in diesem Fall nicht wie sonst besonders
    durchschnittlich sondern überragend.
 
-   Seine Kritik läuft äusserst gut, und alle sind überrascht. In der Jury
-   sitzen neben Prof. Brändi noch Giovanni Benini vom Amt für Städtebau und
-   eine andere etablierte Architektin. Abends als die anderen Studenten ihren
-   kleinen Erfolg begiessen wollen, meldet sich Jan, der sonst für solche Dinge
-   stets an vorderster Front steht ab. Mira verlangt in ihrer Lernphase viel
+   Seine Kritik läuft äusserst gut, und alle sind überrascht. In der Jury sitzen
+   neben Prof. Brändi noch Giovanni Benini vom Amt für Städtebau und eine andere
+   etablierte Architektin. Abends als die anderen Studenten ihren kleinen Erfolg
+   begiessen wollen, meldet sich Jan, der sonst für solche Dinge stets an
+   vorderster Front steht ab. Mira verlangt in ihrer Lernphase viel
    Aufmerksamkeit und beansprucht so viel von Jans Zeit.
 
    An diesem Abend kommen sich Tim und Alessia näher. Jan fällt am nächsten Tag
-   sofort auf, dass etwas anders ist. Jan und Tim haben eine
-   Auseinandersetzung, wo es um die Eifersucht gegenüber des jeweils anderen geht.
-    
+   sofort auf, dass etwas anders ist. Jan und Tim haben eine Auseinandersetzung,
+   wo es um die Eifersucht gegenüber des jeweils anderen geht.
+
    Ohne auf eine richtig gute Lösung gekommen zu sein gehen die beiden
    auseinander. Zuhause versucht Mira wieder von Jans Wissen zu profitieren. Er
    ist aber nicht in der Stimmung und klappt den Laptop zu.
 
    Auflösend sieht man am Schluss Brown hinter seinem Monitor sitzen, wo die
    Pläne angezeigt werden, welche Jan tags zuvor präsentiert hat.
-    
+
 ** Episode 2 | Giovanni
-    
+
    Die zweite Episode wird aus der Perspektive von /Giovanni Benini/ erzählt.
-    
+
    Man sieht Giovanni zuhause. Seine Tochter Alessia, sein Sohn Luca und seine
    Frau Laura leben alle gemeinsam im Hause. Die Verhältnisse zu Hause sind
-   grösstenteils harmonisch. Nur zwischen Alessia und Luca gibt es hin und wieder
-   Rankereien und Rivalitäten. Dies, weil die elterliche Erziehung streng ist,
-   und von beiden Leistungen erwartet werden. Giovanni hält die Ausbildung für
-   etwas des wichtigsten des Lebens.
+   grösstenteils harmonisch. Nur zwischen Alessia und Luca gibt es hin und
+   wieder Rankereien und Rivalitäten. Dies, weil die elterliche Erziehung streng
+   ist, und von beiden Leistungen erwartet werden. Giovanni hält die Ausbildung
+   für etwas des wichtigsten des Lebens.
 
    Da Alessia ein Studium in Angriff genommen hat, und dort auch immer gute
    Leistungen erzielt, wird sie oft als Vorbild für Luca vorgehalten, was
@@ -492,40 +489,38 @@
 
    Nach der morgendlichen Routine begibt sich Giovanni zur Arbeit. Am
    Arbeitsplatz spürt man auch die freundliche Art unter den Mitarbeitern, denn
-   Giovanni hält nicht viel davon unmenschlich zu sein. Allerdings schwingt
-   auch immer Respekt und eine stilvolle, untergiebige Art im Umgang seiner
-   Kollegen zu ihm mit. Er nimmt seine Pflichten als Abteilungsleiter ernst,
-   und kümmert sich stets speditiv und rasch um alles was ansteht, denn er
-   aspiriert für das frei werdende Amt des Direktors des Stadtbauamtes in
-   Zürich. Diesbezüglich werden ihm gute Chancen beigemessen.
-    
-   Aktuell soll die Jurierung des erst jüngst abgehaltenen anonymen
-   Wettbewerbes vorbereitet werden. Man sieht die Jurymitglieder und andere
-   Kollegen des Amts für Städtebau gemeinsam über die diversen Einreichungen
-   diskutieren.
-    
+   Giovanni hält nicht viel davon unmenschlich zu sein. Allerdings schwingt auch
+   immer Respekt und eine stilvolle, untergiebige Art im Umgang seiner Kollegen
+   zu ihm mit. Er nimmt seine Pflichten als Abteilungsleiter ernst, und kümmert
+   sich stets speditiv und rasch um alles was ansteht, denn er aspiriert für das
+   frei werdende Amt des Direktors des Stadtbauamtes in Zürich. Diesbezüglich
+   werden ihm gute Chancen beigemessen.
+
+   Aktuell soll die Jurierung des erst jüngst abgehaltenen anonymen Wettbewerbes
+   vorbereitet werden. Man sieht die Jurymitglieder und andere Kollegen des Amts
+   für Städtebau gemeinsam über die diversen Einreichungen diskutieren.
+
    Im Verlaufe der Jurierung stellt sich ein Projekt immer mehr in den
    Vordergrund. Dieses Projekt ist herausragend, und erfüllt als einziges im
    ganzen Teilnehmerfeld alle Bedingungen. Ausserdem spricht die geforderte
-   Abschätzung der Kosten für den Bau des Projektes eine ganz andere Sprache
-   als die anderen Beiträge. Nur gut die hälfte der Baukosten des
-   zweitgünstigsten soll das Projekt kosten. Dies macht die Jury natürlich
-   vorerst skeptisch, aber nach mehrmaligem überprüfen scheinen die Zahlen
-   plausibel.
+   Abschätzung der Kosten für den Bau des Projektes eine ganz andere Sprache als
+   die anderen Beiträge. Nur gut die hälfte der Baukosten des zweitgünstigsten
+   soll das Projekt kosten. Dies macht die Jury natürlich vorerst skeptisch,
+   aber nach mehrmaligem überprüfen scheinen die Zahlen plausibel.
 
    Die Jury kürt folglich logisch das Projekt zum Sieger der Auslobung. Als
    Giovanni nun nachsieht von wem der Beitrag stammt, staunt er nicht schlecht,
    dass er über das Büro `Mira' noch nie etwas gehört hat. Nach kurzen
    nachforschungen kommt Giovanni aber auf den richtigen Autor. Der Beitrag
    wurde von einer Maschine eingereicht.
-    
+
    Als dies bekannt wird, werden alle Schritte eingeleitet, den Wettbewerbssieg
    zu widerrufen.
 
-   Bei einer ausserordentlichen Sitzung beraten sich die Architekten, wie nun
-   zu verfahren sei. Es entbrandet eine Grundsatzdiskussion über die Maschine
-   und deren Rolle bei Wettbewerben und im Gewerbe generell. Sollen künftig
-   beiträge von Programmen berücksichtigt werden?
+   Bei einer ausserordentlichen Sitzung beraten sich die Architekten, wie nun zu
+   verfahren sei. Es entbrandet eine Grundsatzdiskussion über die Maschine und
+   deren Rolle bei Wettbewerben und im Gewerbe generell. Sollen künftig beiträge
+   von Programmen berücksichtigt werden?
 
    In der Diskussion gibt es viel dafür und dawider. Gute Argumente aus beiden
    Lagern werden angeführt. Letztendlich ringen sich die Architekten unter dem
@@ -534,8 +529,9 @@
    und soll den Wettbewerb für die Ausführung ausarbeiten.
 
 ** Episode 3 | Dr. Brown
-    
-   Die dritte Episode wird aus der Perspektive von /Dr. Stanislav Brown/ erzählt.
+
+   Die dritte Episode wird aus der Perspektive von /Dr. Stanislav Brown/
+   erzählt.
 
    Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit
    auch Jan überwacht. Brown scheint zufrieden mit den Fortschritten, die sein
@@ -562,7 +558,7 @@
    geht um die Welt und sorgt überal für Sensation. Natürlich gibt es immer
    schon zu Beginn von etwas neuem Skeptiker, aber die Grundstimmung ist doch
    sehr euphorisch.
-   
+
    Brown wird vielerorts eingeladen Mira vorzustellen und gemeinsam mit
    prominenten und weniger prominenten zu diskutieren. Sei dies im Fernsehen
    oder auch an Vorträgen und Schulen. Die ETH kann in diesem Trend natürlich
@@ -601,7 +597,7 @@
 
    Die vierte Episode wird aus der Perspektive der Zürcher /Stadtpräsidentin
    Corinne Schmauch/ erzählt.
-   
+
    Man sieht, wie die tüchtige Präsidentin Schmauch aus dem geschäftigen Alltag
    mit vielen Telefonaten und Terminen nach Hause kommt. Mit dem übertreten der
    Türschwelle wird sie gleichsam ein anderer Mensch. Im Privatleben mit ihrem
@@ -643,7 +639,7 @@
    darüber beschwert haben, dass sie kaum zu neuen Aufträgen kommen und sogar
    bereits bestehende Aufträge abgezogen werden aus Gründen der
    Finanzoptimierung der Bauherren.
-   
+
    Schmauch gesteht ein, dass sie zu wenig im Bild ist, sie ist aber gewillt der
    Sache auf den Grund zu gehen und nimmt Kontakt mit Mira auf. In ihrer
    gemeinsamen Unterhaltung zeigt Mira der Präsidentin auf, wo sie bisher
@@ -660,11 +656,11 @@
    nicht unbedingt gebraucht würden, sollen gestrichen werden. So zeigt sich
    nach und nach, dass Mira die Kontrolle über das Amt für Städtebau nun
    vollständig an sich gerissen hat.
-   
+
 ** Episode 5 | Alessia
-   
+
    Die fünfte Episode wird aus der Perspektive von /Alessia Benini/ erzählt.
-   
+
    Zu Beginn sieht man, wie Alessia Feuer und Flamme für ihre Rolle als
    angehende Architektin ist. Sie ist im Studium äusserst engagiert und auch bei
    allen Komillitonen beliebt. Sie scheut sich nicht auch mal für das Wohle
@@ -706,7 +702,7 @@
    Freunden ab.
 
    Die Wendung kommt für sie von einer sehr unerwarteten Seite. Es ist plötzlich
-   Luca der mit  einer versöhnlichen Art ankommt. Er versteht ihre Not, und
+   Luca der mit einer versöhnlichen Art ankommt. Er versteht ihre Not, und
    möchte sie unterstützen, auch wenn er konkret nicht genau weiss, wie das
    aussehen soll. Für Alessia ist dies zumindest eine Aufmunterung in sich und
    sie schöpft neue Kraft. Sie will nicht kampflos aufgeben.
@@ -730,9 +726,9 @@
    Zeit über Mira auf seinem Computer am laufen hatte.
 
 ** Episode 6 | Tim
-   
+
    Die sechste Episode wird aus der Perspektive von /Tim Bergmann/ erzählt.
-   
+
    Nachdem sich Jan am Ende der letzten Episode den Tim und Alessia anvertraut
    hatte, war in ihrem Kreis der ehemaligen besten Freunde eine eisige Kälte
    eingezogen. Alessia hatte Jan indirekt für alles verantwortlich gemacht, was
@@ -742,7 +738,7 @@
    Schaden genommen hatte. Auch wenn es in Zukunft vermutlich nie mehr ganz so
    sein würde, wie es vorher gewesen war. Die unbeschwerte Lockerheit würde wohl
    nie wieder in diesem Masse zurückkehren.
-   
+
    Als Tim Alessia endlich davon überzeugt, dass ihr Schmollen nichts bringen
    wird für ihre Zukunft gelingt es ihm die kleine Gruppe wieder zu
    vereinen. Jan hat ein schlechtes Gewissen, da er sich auch mitverantwortlich
@@ -778,7 +774,7 @@
    Mit dem Fehlschlag der Bewegung macht sich nun allgemein eine Resignation bei
    den jungen Architekten breit. Aber Tim vermag es noch einmal alle zu
    motivieren und vom weitermachen zu überzeugen.
-   
+
    Gemeinsam halten die Studenten unter Tims Feder noch einmal eine lange
    Krisensitzung ab, die so lange dauert, dass die Studenten die ganze Nacht
    gemeinsam am Hönggerberg verbringen.
@@ -793,7 +789,7 @@
    Vogelperspektive sieht und erkennt, dass sonst nichts mehr geht.
 
 ** Episode 7 | Professor Brändi
-   
+
    Die siebte Episode wird aus der Perspektive von /Professor Arno Brändi/
    erzählt.
 
@@ -831,13 +827,13 @@
    vielversprechender, den sich die Studenten gar nicht überlegt gehabt
    hatten. So wollen sie die ohnehin schon prekäre Situation der Versorgung der
    Baustellen noch künstlich verknappen.
-   
+
    In zwei Detachementen versuchen die Studenten also wirksam zu werden. Nach
    langem Suchen und recherchieren finden die Studenten, die mit Brändi
    unterwegs durch die ganze Stadt ziehen Dr. Brown. Brown wollte erst wieder
    auftauchen, wenn er eine Verbesserung für Mira bereit hat, die eine Solche
    Situation unmöglich macht.
-   
+
    Nach intensivem Einreden von Brändi auf Brown willigt dieser endlich ein, den
    Studenten zu helfen, und für sie enen Patch für Mira zu schreiben, der Mira
    einschränken soll. Nach nur einem Tag kommt er mit dem fertigen Patch zu
@@ -857,7 +853,7 @@
    sie auflehnt, sondern sie mitgestaltet.
 
 ** Episode 8 | Gudzilla
-   
+
    die achte und letzte Episode der ersten Saison wird aus der Perspektive von
    /ETH Präsident Lino Gudzilla/ erzählt.
 
@@ -912,9 +908,8 @@
    vollends harmonischer Umgang mit der K.I. gefunden worden zu sein, wo deren
    Potenzial genutzt wird, sie sich aber nicht über die Menschen hinweg setzten
    kann.
-   
+
    Als letztes Bild sieht man, wie Dr. Brown in einem teuren Luxusauto im
    sonnigen Kalifornien herumfährt und einen Anruf entgegen nimmt. Der Mann am
    Apparat, offenbar persönlicher Sekretär des CEO fragt nach, was er denn für
    die Präsentation von Mira 2.0 benötige...
-     
