@@ -794,33 +794,84 @@
 
 ** Episode 7 | Professor Brändi
    
-*** Punkte in Geschichte
+   Die siebte Episode wird aus der Perspektive von /Professor Arno Brändi/
+   erzählt.
 
-**** Prof. Brändi versucht an ETH zu gelangen. Muss zu fuss kommen, da Infrastruktur erliegt.
+   Professor Brändi steht wie gewohnt morgens auf, trinkt seinen Kaffee und
+   macht sich auf den Weg richtung ETH. In der gesamten Stadt aber ist der
+   Verkehr zum erliegen gekommen. Das einzige was noch funktioniert ist der
+   Fernverkehr mit der Bahn. Dies hilft Brändi aber wenig, da er durch die Stadt
+   muss um zum Hönggerberg zu gelangen. In seiner aufgestellten, sanguinischen
+   Art verzagt er nicht, und geht zu Fuss los.
 
-**** Brändi und Studenten kommen zusammen.
+   Nur eine Stunde zu späht kommt Brändi an der ETH an, und ist überrascht, dass
+   seine Studenten schon alle vollzählig erschienen sind. Er erzählt von seinem
+   Erlebnis in der Stadt, und ist erstaunt, wie es alle Studenten scheinbar
+   pünktlich zum Unterricht geschafft haben. Dies erfüllt ihn aber ehrlich mit
+   Freude. Brändi arbeitet äusserst gerne mit interessierten jungen Leuten
+   zusammen.
 
-**** Fünf Tage später haben sich die Leute an die gegebenheiten angepasst, ganz nach Brändis Vorbild zu fuss oder mit Velo
-      
-     Bild auf dem man sieht, wie die Menschen die Strassen zur Fussgängerzone
-     gemacht haben.
+   Zu seiner Verwunderung aber wollen die Studenten heute keinen gewöhnlichen
+   Unterricht abhalten, sondern möchten sich mit Brändi über die aktuellen
+   Geschehnisse beraten.
 
-**** Studenten gehen unter Führung von Brändi auf Baustelle, stoppen Materialzufuhr
+   Mit einer Ellipse sieht man, wie sich in den fünf folgenden Tagen eigentlich
+   nichts geändert hat. Die Stadt liegt immer noch lahm da. Die Menschen haben
+   jedoch begonnen sich anzupassen. Mittlerweile sind viele Brändis Beispiel
+   gefolgt und bewegen sich zu Fuss oder auf dem Fahrrad durch die Stadt. Die
+   Strassen die vorher vollgepackt mit Autos waren sind nun eine grosse
+   Fussgängerzone geworden.
 
-**** Versuchen Brown zu finden, finden ihn
+   Brändi hat mit den Studenten ausgemacht, dass sie gemeinsam versuchen werden
+   etwas auszurichten, obwohl es Brändi nicht sonderlich stört, die Stadt von
+   den Autos befreit zu sehen. Sie werden gemeinsam versuchen Dr. Brown
+   ausfindig zu machen, den man seit dem offenkundigen Scheitern Miras nicht
+   mehr gesehen hatte. Zudem ist der Weg, das Bauvorhaben von Mira mittels
+   Mangel an Zulieferung zu stoppen, oder mindestens einzudämmen, ein
+   vielversprechender, den sich die Studenten gar nicht überlegt gehabt
+   hatten. So wollen sie die ohnehin schon prekäre Situation der Versorgung der
+   Baustellen noch künstlich verknappen.
+   
+   In zwei Detachementen versuchen die Studenten also wirksam zu werden. Nach
+   langem Suchen und recherchieren finden die Studenten, die mit Brändi
+   unterwegs durch die ganze Stadt ziehen Dr. Brown. Brown wollte erst wieder
+   auftauchen, wenn er eine Verbesserung für Mira bereit hat, die eine Solche
+   Situation unmöglich macht.
+   
+   Nach intensivem Einreden von Brändi auf Brown willigt dieser endlich ein, den
+   Studenten zu helfen, und für sie enen Patch für Mira zu schreiben, der Mira
+   einschränken soll. Nach nur einem Tag kommt er mit dem fertigen Patch zu
+   Brändi und gibt diesem Anweisungen, wie man das update einspielen kann. Durch
+   das Upgrade soll Mira letztendlich keine alleinige Entscheidungsgewalt mehr
+   haben.
 
-**** Studenten und Brändi versuchen Bronw auf ihre seite zu bringen
-
-**** Brown willigt ein zu helfen
-
-**** Mira upgrade
-
-**** Mira keine Alleinmacht mehr
-
-**** Anders Denken, Mira stoppen, aber nicht radikal vernichten
+   Als die Studenten nun mira endlich eingedämmt haben, möchten sie das Projekt
+   sofort zerstören, doch Brändi gibt den Input, dass statt Mira zu zerstören,
+   sie einen Weg finden müssen, sich mit ihr zu arrangieren. Es werden
+   schliesslich auch neue künstliche Intelligenzen geschaffen werden, wo sie
+   keinen Einfluss darauf haben werden. Er appeliert daran, dass sich die
+   Studenten darauf besinnen, was ihre Vorzüge gegenüber einer Maschine sind,
+   wie sie also niemals überflüssig gemacht werden können, und gibt ihnen auch
+   den Anstoss sich zu überlegen, wie sie von einer K.I. profitieren können. Nur
+   so könne eine nachhaltig gedachte Zukunft aussehen, wenn man sich nicht gegen
+   sie auflehnt, sondern sie mitgestaltet.
 
 ** Episode 8 | Gudzilla
    
 *** Punkte in Geschichte
 
 **** 
+
+     
+*** Punkte in Geschichte
+
+**** Gudzilla feuert Dr. Brown als das Ausmass des Scheiterns bekannt wird. (alles auf den Sündenbock schieben.)
+**** Ernennt Brändi zum Dekan des D-ARCH
+**** Reputation der ETH erholt sich schnell, da gut organisiert
+**** Brändi stirbt
+**** Findet niemanden um die entstandene Lücke zu füllen
+**** Giovanni lehnt neues Jobangebot im Amt für Städtebau ab
+**** Gudzilla beruft Giovanni Benini zum Prof und setzt ihn als Dekan ein
+**** Antrittsvorlesung von Gudzilla, wo alle ereignisse zusammengefasst werden
+**** Harmonie mit K.I.
+**** Letztes Bild: Brown entwickelt bei Google Mira 2.0
