@@ -29,7 +29,6 @@
   eigenstängigen Software einen Schritt weiter gekommen.
 
 * Cast und Rollen
-
 ** Professor Arno Brändi
 
    /Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät
@@ -221,8 +220,8 @@
    das Amt des Direktors des Amtes für Städtebau. Um zum Amt zu kommen, neigt er
    in der Phase vor der Krise dazu, viel Zeit im Büro zu verbringen.
 
-   Er ist ein wenig strikt und formalistisch und überaus ambitioniert.
-   Er ist zwar herzlich, aber hat Probleme, Gefühle zu zeigen.
+   Er ist ein wenig strikt und formalistisch und überaus ambitioniert.  Er ist
+   zwar herzlich, aber hat Probleme, Gefühle zu zeigen.
 
    Privat vermag er es die Arbeit sehr gut vom Leben mit seiner Famile
    abzutrennen.
@@ -244,72 +243,11 @@
 
    Eine Gruppe Zürcher Stadtbewohner
 
-
 * Season 1 | Mira
 
-  Die Geschichte erzählt aus der Perspektive von wechselnden Protagonisten aber
-  mit Mira als Hauptfigur.
-
-** Geschichte
-
-*** Setup
-
-     Dr. Brown hat Erfolg mit der Programmierung der K.I.
-
-*** Plotpoint I
-
-    Mira nimmt an Wettbewerb teil und gewinnt. Die Menschen sind begeistert vom
-    Design und den vorgeschlagenen Kosten und Bauzeiten.
-
-*** Rising Action
-
-    Lagerbildung. Zürcher nehmen Mira positiv auf, durch alle Vorteile,
-    Architekten kämpfen aber dagegen an, weil sie obsolet werden.
-
-*** Peak
-
-    Mira übernimmt Amt für Städtebau. Mit dem läuft Mira auf vieler Hardware,
-    was ein Ausschalten quasi unmöglich macht.
-
-*** Falling Action
-
-    Mittlerweile hat Mira viele Feinde, da sie nach und nach alle überflüssig
-    macht. Jemand versucht Mira auszuschalten. Anschläge werden
-    verübt. Studentenbewegungen wehren sich mittlwerweile aktiv gegen Mira.
-
-*** Plotpoint II
-
-    Mira Failure
-
-    Mira entwickelt die "perfekte" Architektur, kommt ans Ende des
-    Lernprozesses. Allerdings sind die Menschen nicht so weit, das Resultat zu
-    akzeptieren. Für die beteiligten Menschen fehlt der Prozess. Wir können
-    keine Endgültige Lösung akzeptieren, wenn wir nicht verstehen können, wie
-    man darauf kommt. Ausserdem brauchen wir zeit, um uns an Neues zu
-    gewöhnen. Im Endeffekt ist Mira einfach zu schnell für den Menschen.
-
-    Es muss ein prinzipieller Fehler vorliegen, wenn das Endresultat der
-    Entwicklung nicht angenommen wird. Wenn das Resultat quasi falsch ist, kann
-    die Methode nicht stimmen.
-
-    Mira kommt an ihre Grenzen. Irgendwann ist jeder Wettbewerb gelöst, und
-    dann?  Infrastrukturelle Engpässe Im Versuch, die Architektur komplett neu
-    zu denken, und allen Balast wie auch die Geschichte abzuwerfen, entwickelt
-    Mira die "perfekte" Architektur.
-
-*** Resolution
-
-    Studium passt sich an neue Gegebenhenheiten an, Menschen lernen, damit
-    umzugehen, und eine neue Rolle in der Architektur einzunehmen. Brändi, der
-    konservative Professor initiiert Versöhnung mit der Maschine. Botschaft am
-    Ende: Alle haben sich damit abgefunden, dass Mira mittlerweile Teil der
-    Gesellschaft wird. Man sieht aber, wie Brown Mira 2.0 entwickelt.
-    Hoffnungsvolles aber ungewisses Ende.
-
-** Geschichte
-
    Die erste Season wird in acht Episoden erzählt. Jede aus der Sicht eines
-   anderen Protagonisten.
+   anderen Protagonisten. Die Hautpfigur der ersten Season ist jedoch zweifellos
+   Mira, die künstliche Intelligenz.
 
    Es geht um die Geschichte der Architekten, Architekturstudenten und die Rolle
    der Technik in der Gesellschaft.
@@ -379,29 +317,61 @@
    gegenüber. Durch /Mira/ und ihre effizienten Ansätze können die Kosten für
    Planung und Erstellung eines Gebäudes extrem gesenkt werden.
 
+   Gleichzeitig wehren sich aber bereits einige Architekten gegen die Neuerung,
+   da sie das Gefühl haben, sie könnten durch eine künstliche Intelligenz
+   obsolet werden.
 
-*** Mira geburt
+   Dies geschieht auch einigermassen. Da Mira mit der Ausarbeitung von
+   Ausführungsplänen viele Schritte eines Architekten selbstständig erledigen
+   kann.
 
-*** Mira nimmt Teil an Wettbewerb
+   Im Rahmen der weiteren Rationalisierung übernimmt /Mira/ letztendlich in
+   geheimer Zustimmung von Stadtpräsidentin /Schmauch/ das gesamte Amt für
+   Städtebau der Stadt Zürich.
 
-*** Mira gewinnt Wettbewerb
+   Mittlerweile läuft /Mira/ auf vielen unterschiedlichen Computern, die
+   untereinander vernetzt sind. So lernt /Mira/ äusserst schnell und wird immer
+   noch besser und effizienter als Architekt. Das Verteilt-sein auf vielen
+   Computern macht zudem ein eigentliches schliessen des Programmes quasi
+   unmöglich.
 
-*** Medienrummel um Mira, Positive Reaktion der Zürcher
+   Mit der Zeit hat /Mira/ sich viele Feinde gemacht, da durch sie viele
+   Menschen ihre Beschäftigung verloren haben. Es gibt Anschläge auf sie, welche
+   aber allesamt erfolglos bleiben. Am prominentesten dabei sind die grossen
+   Studentenaufstände, die letztendlich das Ziel verfolgen, sich eine eigene
+   Zukunft zu geben.
 
-*** Mira übernimmt Amt für Städtebau
+   Das Gros der Bevölkerung ist aber immernoch begeistert von den Möglichkeiten,
+   die Mira bietet, da so viel Geld anderweitig benutzt werden kann, was sonst
+   nicht möglich wäre.
 
-*** Anschläge auf Mira (von feindlichem Lager)
+   Letztendlich scheitert /Mira/ aber an ihren eigenen Ansätzen. Durch den
+   Versuch, das Bauen so sehr zu beschleunigen, und die Möglichkeit alles
+   anstehende quasi zeitgleich abzuarbeiten, scheitert Mira an der
+   Infrastruktur, die nicht im nötigen Mass gewachsen ist um eine ganze Stadt
+   gleichzeitig umzubauen. Der Verkehr kommt zum erliegen und in der Stadt
+   bricht ein kleines Chaos aus.
 
-*** Mira Fail
+   Die Studenten schaffen es mit der Hilfe von Dr. Brown Miras Möglichkeiten
+   einzudämmen und sie im Rahmen zu halten.
 
-*** Veränderte Einstellung des Departements für Architektur gegenüber Mira
+   Unter Prof. Arno Brändi wird das Studium grundlegend neu strukturiert. Die
+   Menschen müssen lernen mit künstlichen Intelligenzen umzugehen, da sicherlich
+   neue erscheinen werden. Die Architekten müssen nur herausfinden, in welchen
+   Bereichen sie der Maschine überlegen sind, und wo sie folglich nicht
+   überflüssig gemacht werden können. Gleichzeitig sollen sie aber auch profit
+   aus den Möglichkeiten mit dem Umgang mit künstlichen Intelligenzen ziehen.
 
-*** Designer arbeiten mit Mira. Aber Brown hat schon Mira 2.0 in Entwicklung
+   Brändi vermittelt so zwischen alt und neu in eine Richtung die nachhaltig
+   ist.
 
-*** Resolution
+   Als Brändi stirbt, wird diese Entwicklung aber beibehalten und die Zukunft
+   kann anbrechen.
+
+   Paralell dazu entwickelt Dr. Brown bereits an einer Weiterentwicklung von
+   Mira. Mira 2.0 wird möglicherweise bald Realität.
 
 * Episoden
-
 ** Episode 1 | Genesis
 
    Die erste Episode wird aus der Perspektive von /Jan Aebersold/ erzählt.
