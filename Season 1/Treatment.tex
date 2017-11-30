@@ -3,28 +3,28 @@
 \usepackage[T1]{fontenc}
 \usepackage{ngerman}
 \addtokomafont{disposition}{\rmfamily}
-\author{Sahra Roman \and Christian Sangvik}
+\author{Sahra Roman \& Christian Sangvik}
 \date{\today}
 \title{Scenario}
 \subtitle{Treatment}
 
+  \renewcommand{\ttdefault}{pcr}
+  \newcommand{\linia}{\rule{.8\textwidth}{.1pt}}
 
-  \makeatletter \renewcommand{\maketitle}{ \texttt{
+  \makeatletter
+  \renewcommand{\maketitle}{
   \begin{center}
-        \uppercase{\tiny{ETH Zürich
+        \uppercase{\texttt{\tiny{ETH Zürich
           \enspace{}|\enspace{}D-ARCH
           \enspace{}|\enspace{}Professur Arno Brandlhuber
-          \enspace{}|\enspace{}Herbstsemester 2017}}\\ \linia{}\\
-          \vspace*{7cm} \uppercase{\Huge{@title}}\\
-          \vspace*{2cm} \uppercase{\normalsize{von}}\\
-          \vspace*{1cm} \uppercase{\LARGE{\MakeUppercase{\@author}}}\\
+          \enspace{}|\enspace{}Herbstsemester 2017}}}\\ \linia{}\\
+          \vspace*{7cm} \uppercase{\Huge{\MakeUppercase{\@title}}}\\
+          \vspace*{2cm} \uppercase{\LARGE{\MakeUppercase{\@subtitle}}}\\
+          \vspace*{4cm} \uppercase{\large{\MakeUppercase{\@author}}}\\
         \clearpage
-          \vspace*{3cm} \textbf{\huge{\MakeUppercase{\@title}}}\\
-          \vspace*{1cm}
-          \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
-          \vspace*{2cm}
       \end{center}
-  }} \makeatother
+  }
+  \makeatother
 
 \begin{document}
 
