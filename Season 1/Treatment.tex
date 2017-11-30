@@ -1,5 +1,3 @@
-% Created 2017-11-29 Mit 09:47
-% Intended LaTeX compiler: pdflatex
 \documentclass[11pt,a4paper,ngerman]{scrreprt}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -9,6 +7,24 @@
 \date{\today}
 \title{Scenario}
 \subtitle{Treatment}
+
+
+  \makeatletter \renewcommand{\maketitle}{ \texttt{
+  \begin{center}
+        \uppercase{\tiny{ETH Zürich
+          \enspace{}|\enspace{}D-ARCH
+          \enspace{}|\enspace{}Professur Arno Brandlhuber
+          \enspace{}|\enspace{}Herbstsemester 2017}}\\ \linia{}\\
+          \vspace*{7cm} \uppercase{\Huge{@title}}\\
+          \vspace*{2cm} \uppercase{\normalsize{von}}\\
+          \vspace*{1cm} \uppercase{\LARGE{\MakeUppercase{\@author}}}\\
+        \clearpage
+          \vspace*{3cm} \textbf{\huge{\MakeUppercase{\@title}}}\\
+          \vspace*{1cm}
+          \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
+          \vspace*{2cm}
+      \end{center}
+  }} \makeatother
 
 \begin{document}
 
