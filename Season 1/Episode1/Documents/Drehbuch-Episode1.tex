@@ -1,32 +1,42 @@
 \documentclass[a4paper,ngerman,11pt]{scrartcl}
 
-  \usepackage[utf8]{inputenc} \usepackage[T1]{fontenc} \usepackage{ngerman}
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{ngerman}
 
   \title{Episode I}
   \subtitle{Genesis}
   \author{Sahra Roman \& Christian Sangvik}
   \date{\today}
 
-  \renewcommand{\familydefault}{\ttdefault} \renewcommand{\ttdefault}{pcr}
+  \renewcommand{\familydefault}{\ttdefault}
+  \renewcommand{\ttdefault}{pcr}
 
   \newcommand{\linia}{\rule{.8\textwidth}{.1pt}}
 
-  \makeatletter \renewcommand{\maketitle}{ \texttt{
+  \makeatletter
+  \renewcommand{\maketitle}{\texttt{
   \begin{center}
-        \uppercase{\tiny{ETH Zürich
-          \enspace{}|\enspace{}D-ARCH
-          \enspace{}|\enspace{}Professur Arno Brandlhuber
-          \enspace{}|\enspace{}Herbstsemester 2017}}\\ \linia{}\\
-          \vspace*{7cm} \uppercase{\Huge{Scenario}}\\
-          \vspace*{2cm} \uppercase{\normalsize{von}}\\
-          \vspace*{1cm} \uppercase{\LARGE{\MakeUppercase{\@author}}}\\
-        \clearpage
-          \vspace*{3cm} \textbf{\huge{\MakeUppercase{\@title}}}\\
-          \vspace*{1cm}
-          \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
-          \vspace*{2cm}
-      \end{center}
-  }} \makeatother
+    \uppercase{\tiny{
+        ETH Zürich
+        \enspace{}|\enspace{}
+        D-ARCH
+        \enspace{}|\enspace{}
+        Professur Arno Brandlhuber
+        \enspace{}|\enspace{}
+        Herbstsemester 2017}}\\
+    \linia{}\\
+      \vspace*{7cm} \uppercase{\Huge{Scenario}}\\
+      \vspace*{2cm} \uppercase{\normalsize{von}}\\
+      \vspace*{1cm} \uppercase{\LARGE{\MakeUppercase{\@author}}}\\
+    \clearpage
+      \vspace*{3cm} \textbf{\huge{\MakeUppercase{\@title}}}\\
+      \vspace*{1cm}
+      \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
+      \vspace*{2cm}
+  \end{center}
+  }}
+  \makeatother
 
   \newcommand{\desc}[1]{
     \vspace*{12pt}
@@ -39,12 +49,12 @@
   \newcommand{\fadeout}{
     \noindent\uppercase{Fade out:}\\}
 
-  \newcommand{\trans}[1]{ \hfill\uppercase{{#1}:}\\ }
+  \newcommand{\trans}[1]{\hfill\uppercase{{#1}:}\\}
 
   \newcommand{\subh}[1]{
     \vspace*{12pt}
     \noindent\uppercase{{#1}\\}
-    \vspace*{12pt} }
+    \vspace*{12pt}}
 
   \newcommand{\dialog}[2]{
     \begin{center}
