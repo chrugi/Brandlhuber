@@ -6,7 +6,7 @@
 
   \title{Episode I}
   \subtitle{Genesis}
-  \author{Sahra Roman \& Christian Sangvik}
+  \author{Sahra Roman \and Christian Sangvik}
   \date{\today}
 
   \renewcommand{\familydefault}{\ttdefault}
@@ -15,9 +15,11 @@
   \newcommand{\linia}{\rule{.8\textwidth}{.1pt}}
 
   \makeatletter
-  \renewcommand{\maketitle}{\texttt{
-  \begin{center}
-    \uppercase{\tiny{
+  \renewcommand{\maketitle}{
+  \texttt{
+      \pagestyle{empty}
+      \begin{center}
+      \uppercase{\tiny{
         ETH Zürich
         \enspace{}|\enspace{}
         D-ARCH
@@ -25,12 +27,21 @@
         Professur Arno Brandlhuber
         \enspace{}|\enspace{}
         Herbstsemester 2017}}\\
-    \linia{}\\
-      \vspace*{7cm} \uppercase{\Huge{Scenario}}\\
-      \vspace*{2cm} \uppercase{\normalsize{von}}\\
-      \vspace*{1cm} \uppercase{\LARGE{\MakeUppercase{\@author}}}\\
+      \linia{}\\
+        \vspace*{7cm} \uppercase{\Huge{Scenario}}\\
+        \vspace*{3cm} \uppercase{\normalsize{Drehbuch}}\\
+        \vspace*{0cm} \uppercase{\LARGE{\MakeUppercase{Episode I}}}\\
+        \vspace*{1.5cm} \uppercase{\normalsize{von}}\\
+        %\vspace*{1cm} \uppercase{\LARGE{\MakeUppercase{\@author}}}\\
+          \vspace*{0cm} \uppercase{\LARGE{\MakeUppercase{Sahra Roman \&}}}\\
+          \vspace*{0cm} \uppercase{\LARGE{\MakeUppercase{Christian Sangvik}}}\\
     \clearpage
-      \vspace*{3cm} \textbf{\huge{\MakeUppercase{\@title}}}\\
+      {~}
+    \clearpage
+      \pagestyle{myheadings}
+      \setcounter{page}{1}
+      \vspace*{3cm}
+      \textbf{\huge{\MakeUppercase{\@title}}}\\
       \vspace*{1cm}
       \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
       \vspace*{2cm}
@@ -78,7 +89,8 @@
 
   \newcommand{\scene}[4]{
     \vspace*{12pt}
-    \noindent\nopagebreak{\uppercase{#1}.\quad{}\uppercase{#2}\quad{}-\quad{}\uppercase{#3}}\\\desc{#4}
+    \noindent{\uppercase{{#1}.\quad{}{#2}\quad{}-\quad{}{#3}}}\\
+    \desc{#4}
   }
 
 
