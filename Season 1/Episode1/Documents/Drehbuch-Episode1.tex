@@ -17,8 +17,8 @@
   \makeatletter
   \renewcommand{\maketitle}{
   \texttt{
-      \pagestyle{empty}
-      \begin{center}
+    \pagestyle{empty}
+    \begin{center}
       \uppercase{\tiny{
         ETH Zürich
         \enspace{}|\enspace{}
@@ -28,66 +28,81 @@
         \enspace{}|\enspace{}
         Herbstsemester 2017}}\\
       \linia{}\\
-        \vspace*{7cm} \uppercase{\Huge{Scenario}}\\
-        \vspace*{3cm} \uppercase{\normalsize{Drehbuch}}\\
-        \vspace*{0cm} \uppercase{\LARGE{\MakeUppercase{Episode I}}}\\
-        \vspace*{1.5cm} \uppercase{\normalsize{von}}\\
-          \vspace*{0cm} \uppercase{\LARGE{\MakeUppercase{Sahra Roman \&}}}\\
-          \vspace*{0cm} \uppercase{\LARGE{\MakeUppercase{Christian Sangvik}}}\\
-    \clearpage
-      {~}
-    \clearpage
-      \pagestyle{myheadings}
-      \setcounter{page}{1}
+      \vfill
+      \uppercase{\Huge{Scenario}}\\
+      \vfill
+      \uppercase{\normalsize{Drehbuch}}\\
+      \uppercase{\LARGE{\MakeUppercase{Episode I}}}\\
+      \vspace*{1cm}
+      \uppercase{\normalsize{von}}\\
+      \uppercase{\LARGE{\MakeUppercase{Sahra Roman \&}}}\\
+      \uppercase{\LARGE{\MakeUppercase{Christian Sangvik}}}\\
+    \end{center}
+  \clearpage
+    {~}
+  \clearpage
+    \pagestyle{myheadings}
+    \setcounter{page}{1}
+    \begin{center}
       \vspace*{3cm}
-      \textbf{\huge{\MakeUppercase{\@title}}}\\
+      \huge{\MakeUppercase{\@title}}\\
       \vspace*{1cm}
       \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
       \vspace*{2cm}
-  \end{center}
+    \end{center}
   }}
   \makeatother
 
-  \newcommand{\desc}[1]{
-    \vspace*{12pt}
-    \noindent{}{#1}\\
-    \vspace*{12pt}}
+  % C O M M A N D S
 
+  % fade in
   \newcommand{\fadein}{\noindent\uppercase{Fade in:}\\}
 
-  \newcommand{\fadeout}{\noindent\uppercase{Fade out:}\\}
-
-  \newcommand{\trans}[1]{\hfill\uppercase{{#1}:}\\}
-
-  \newcommand{\subh}[1]{
+  % fade out
+  \newcommand{\fadeout}{
     \vspace*{12pt}
-    \noindent\uppercase{{#1}\\}
-    \vspace*{12pt}}
+    \noindent\uppercase{Fade out:}\\}
 
-  \newcommand{\dialog}[2]{
+  % transition
+  \newcommand{\trns}[1]{
+    \vspace*{12pt}
+    \hfill\uppercase{{#1}:}\\}
+
+  % subheader
+  \newcommand{\sbh}[1]{
+    \vspace*{12pt}
+    \noindent\uppercase{{#1}\\}}
+
+  % dialog normal
+  \newcommand{\dlg}[2]{
     \begin{center}
-    \uppercase{#1}\\
-    \vspace*{6pt}
-    \begin{minipage}{.8\textwidth}
-    {#2}\\
+      \uppercase{#1}\\
+      \vspace*{6pt}
+      \begin{minipage}{.8\textwidth}
+        {#2}\\
     \end{minipage}\hfill
-    \end{center}
-    \vspace*{12pt}}
+    \end{center}}
 
-  \newcommand{\exdialog}[3]{
+  % dialog extended, with parentheses
+  \newcommand{\xdlg}[3]{
     \begin{center}
-    \uppercase{#1}\\ ({#3})\\
-    \vspace*{6pt}
-    \begin{minipage}{.8\textwidth}
-    {#2}\\
-    \end{minipage}\hfill
-    \end{center}
-    \vspace*{12pt}}
+      \uppercase{#1}\\({#3})\\
+      \vspace*{6pt}
+      \begin{minipage}{.8\textwidth}
+        {#2}\\
+      \end{minipage}\hfill
+    \end{center}}
 
-  \newcommand{\scene}[4]{
+  % description of scene
+  \newcommand{\dsc}[1]{
+    \vspace*{12pt}
+    \noindent{}{#1}\\}
+
+  % scene
+  \newcommand{\scn}[4]{
     \vspace*{12pt}
     \noindent{\uppercase{{#1}.\quad{}{#2}\quad{}-\quad{}{#3}}}\\
-    \desc{#4}}
+    \dsc{#4}}
 
 
 % ############################################################################ %
@@ -101,482 +116,512 @@
 
 \fadein
 
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Jans Zimmer}{Morgen}{JAN AEBERSOLD wacht auf und merkt, dass er
+\scn{int}{Jans Zimmer}{Morgen}{JAN AEBERSOLD wacht auf und merkt, dass er
   verschlafen hat.  Er hat die Nacht an seinem Schreibtisch verbracht, wo er
   beim späten Arbeiten eingeschlafen ist. Im Stress packt er seine Sachen
   zusammen und eilt ohne Frühstück aus dem Haus.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Bus}{Morgen}{JAN sitzt müde im Bus und schaut aus dem Fenster. Er
+\scn{int}{Bus}{Morgen}{JAN sitzt müde im Bus und schaut aus dem Fenster. Er
   sieht die Stadt Zürich von oben im morgendlichen Nebel.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{ext}{ETH Hönggerberg}{Morgen}{JAN trifft auf TIM BERGMANN. Tim wartet
+\scn{ext}{ETH Hönggerberg}{Morgen}{JAN trifft auf TIM BERGMANN. Tim wartet
   bereits vor dem Haupteingang des HIL Gebäudes. Er raucht eine Zigarette und
   hält einen Becher Kaffee in der Hand. Als Jan Tim erreicht, betreten sie
   schnell das Gebäude.}
 
-  \exdialog{Tim}{Na schau mal an, wer da kommt! Hast du's auch noch
-    geschafft?}{grinsend}
+\xdlg{Tim}{Na schau mal an, wer da kommt! Hast du's auch noch
+  geschafft?}{grinsend}
 
-  \exdialog{Jan}{Du hättest mir lieber auch einen Kaffee mitgebracht.}{murmelnd}
+\xdlg{Jan}{Du hättest mir lieber auch einen Kaffee mitgebracht.}{murmelnd}
 
-  \desc{TIM gibt JAN grinsend den zweiten Becher Kaffee, den er versteckt
-    gehalten hat. Sie betreten das Gebäude.}
+\dsc{TIM gibt JAN grinsend den zweiten Becher Kaffee, den er versteckt gehalten
+  hat. Sie betreten das Gebäude.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Korridor - ETH}{Morgen}{Onetake - JAN und TIM gehen zusammen durch
-  die Korridore in Richtung Koje.}
+\scn{int}{Korridor - ETH}{Morgen}{Onetake - JAN und TIM gehen zusammen durch die
+  Korridore in Richtung Koje.}
 
-  \dialog{Jan}{Ich bin gestern am Schreibtisch eingeschlafen. Ich komme einfach
-    nicht weiter mit meinem Projekt.\\Vielen Dank, dass du mir dabei hilfst.}
+\dlg{Jan}{Ich bin gestern am Schreibtisch eingeschlafen. Ich komme einfach nicht
+  weiter mit meinem Projekt.\\ Vielen Dank, dass du mir dabei hilfst.}
 
-  \dialog{Tim}{Kein Problem. Ich habe ja sonst nichts zu tun.}
+\dlg{Tim}{Kein Problem. Ich habe ja sonst nichts zu tun.}
 
-  \dialog{Jan}{Shut up, Bitch!}
+\dlg{Jan}{Shut up, Bitch!}
 
-  \desc{Sie erreichen die Koje. Nach einer kurzen Pause}
+\dsc{Sie erreichen die Koje. Nach einer kurzen Pause}
 
-  \dialog{Jan}{Wie hast du den Cluster an der Langstrasse gelöst?}
+\dlg{Jan}{Wie hast du den Cluster an der Langstrasse gelöst?}
 
-  \dialog{Tim}{Du musst den Verkehrsparameter sehr schwer gewichten. Sonst hast
-    du am Schluss eine Fussgängerzone.}
+\dlg{Tim}{Du musst den Verkehrsparameter sehr schwer gewichten. Sonst hast du am
+  Schluss eine Fussgängerzone.}
 
-  \dialog{Jan}{Das wäre doch auch nicht so schlecht. Aber es löst das Problem
-    der öffentlichen Anbindung nicht.}
+\dlg{Jan}{Das wäre doch auch nicht so schlecht. Aber es löst das Problem der
+  öffentlichen Anbindung nicht.}
 
-\subh{ALESSIA kommt dazu}
+\sbh{ALESSIA kommt dazu}
 
-  \dialog{ALlessia}{Guten Morgen ihr zwei! Naja mindestens dich, Jan, brauche
-    ich wohl kaum zu fragen, ob du gut geschlafen hast. Kommst du voran?}
+\dlg{ALlessia}{Guten Morgen ihr zwei! Naja mindestens dich, Jan, brauche ich
+  wohl kaum zu fragen, ob du gut geschlafen hast. Kommst du voran?}
 
-  \dialog{Jan}{Tim ist meine letzte Hoffnung. Ich habe schon so zu wenig
-    Zeit. Wenn das jetzt nicht klappt, brauche ich morgen erst gar nicht zu
-    kommen.}
+\dlg{Jan}{Tim ist meine letzte Hoffnung. Ich habe schon so zu wenig Zeit. Wenn
+  das jetzt nicht klappt, brauche ich morgen erst gar nicht zu kommen.}
 
-  \dialog{Alessia}{Dann will ich euch nicht länger aufhalten. Viel Erfolg!}
+\dlg{Alessia}{Dann will ich euch nicht länger aufhalten. Viel Erfolg!}
 
-  \desc{ALESSIA geht und setzt sich an ihren eigenen Platz, wo sie den Laptop
-    aufklappt. JAN schaut ihr abwesend hinterher.}
+\dsc{ALESSIA geht und setzt sich an ihren eigenen Platz, wo sie den Laptop
+  aufklappt. JAN schaut ihr abwesend hinterher.}
 
-  \exdialog{Tim}{So! Jetzt fertig gesabbert! Weiter an deinem Projekt.}{lachend}
+\xdlg{Tim}{So! Jetzt fertig gesabbert! Weiter an deinem Projekt.}{lachend}
 
-  \trans{hard cut}
+\trns{hard cut}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-%\scene{int}{GUDZILLAs Büro}{Vormittag}{DR. STANISLAV BROWN sitzt ungeduldig im
+%\scn{int}{GUDZILLAs Büro}{Vormittag}{DR. STANISLAV BROWN sitzt ungeduldig im
 %  Büro von ETH PRÄSIDENT LINO GUDZILLA und wartet. Gudzilla tritt ein.}
 %
-%  \dialog{Gudzilla}{Dr. Brown. Vielen Dank, dass sie so kurzfristig kommen
-%    konnten.}
+%\dlg{Gudzilla}{Dr. Brown. Vielen Dank, dass sie so kurzfristig kommen konnten.}
 %
-%  \desc{Gudzilla setzt sich}
+%\dsc{Gudzilla setzt sich}
 %
-%  \dialog{Gudzilla}{Nun, ich will ganz offen mit Ihnen sprechen. Sie wissen ja
-%    sicherlich, dass die Stadt Zürich die Gelder für die Forschung und Bildung
-%    gekürzt hat. Auch wenn wir immernoch den Löwenanteil davon haben, sind wir
-%    nichtsdestotrotz betroffen. Sie verstehen sicherlich, dass ich meine
-%    Forschungsgelder sehr sparsam einsetzen muss.}
+%\dlg{Gudzilla}{Nun, ich will ganz offen mit Ihnen sprechen. Sie wissen ja
+%  sicherlich, dass die Stadt Zürich die Gelder für die Forschung und Bildung
+%  gekürzt hat. Auch wenn wir immernoch den Löwenanteil davon haben, sind wir
+%  nichtsdestotrotz betroffen. Sie verstehen sicherlich, dass ich meine
+%  Forschungsgelder sehr sparsam einsetzen muss.}
 %
-%  \dialog{Brown}{Ja, das ist mir zu Ohren gekommen. Aber was hat dies mit mir zu
-%    tun?}
+%\dlg{Brown}{Ja, das ist mir zu Ohren gekommen. Aber was hat dies mit mir zu
+%  tun?}
 %
-%  \desc{GUDZILLA wartet einen Moment, bevor er fortfährt}
+%\dsc{GUDZILLA wartet einen Moment, bevor er fortfährt}
 %
-%  \dialog{Gudzilla}{Ihre Forschung hat bis jetzt sehr wenige Früchte
-%    getragen. Ich habe Ihnen bereits mehrfach einen Zeitaufschub gewährt um zu
-%    Resultaten zu kommen. Aber Sie sind Ihren Teil mit den Erfolgen bis jetzt
-%    schuldig geblieben. Sie werden verstehen, dass ich unter diesen Umständen
-%    Ihr Projekt nicht mehr länger finanzieren kann.}
+%\dlg{Gudzilla}{Ihre Forschung hat bis jetzt sehr wenige Früchte getragen. Ich
+%  habe Ihnen bereits mehrfach einen Zeitaufschub gewährt um zu Resultaten zu
+%  kommen. Aber Sie sind Ihren Teil mit den Erfolgen bis jetzt schuldig
+%  geblieben. Sie werden verstehen, dass ich unter diesen Umständen Ihr Projekt
+%  nicht mehr länger finanzieren kann.}
 %
-%  \dialog{Brown}{Aber ich bin nun endlich unmittelbar vor dem grossen
-%    Durchbruch!  Das Programm funktioniert und ist ganz kurz vor der Vollendung!
-%    Geben Sie mir doch nur noch eine Wo..}
+%\dlg{Brown}{Aber ich bin nun endlich unmittelbar vor dem grossen Durchbruch!
+%  Das Programm funktioniert und ist ganz kurz vor der Vollendung!  Geben Sie mir
+%  doch nur noch eine Wo..}
 %
-%  \desc{GUDZILLA unterbricht Brown}
+%\dsc{GUDZILLA unterbricht Brown}
 %
-%  \dialog{Gudzilla}{Ich habe mich doch bezüglich den zeitlichen
-%    Rahmenbedingungen das letzte Mal klar und deutlich ausgedrückt, oder? Es tut
-%    mir leid, aber ich kann hier keine Ausnahme machen. Ich kann nichts mehr für
-%    sie tun.}
+%\dlg{Gudzilla}{Ich habe mich doch bezüglich den zeitlichen Rahmenbedingungen das
+%  letzte Mal klar und deutlich ausgedrückt, oder? Es tut mir leid, aber ich kann
+%  hier keine Ausnahme machen. Ich kann nichts mehr für sie tun.}
 %
-%  \dialog{Brown}{Bin ich... Entlassen?}
+%\dlg{Brown}{Bin ich... Entlassen?}
 %
-%  \dialog{Gudzilla}{Sie sind an ihrem Departement ja als Informatiker
-%    eingestellt. Daran ändert sich nichts. Aber als wissenschaftlichen
-%    Mitarbeiter muss ich sie leider freistellen.}
+%\dlg{Gudzilla}{Sie sind an ihrem Departement ja als Informatiker
+%  eingestellt. Daran ändert sich nichts. Aber als wissenschaftlichen Mitarbeiter
+%  muss ich sie leider freistellen.}
 %
-%\trans{hard cut}
+%\trns{hard cut}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Koje - ETH}{Vormittag}{JAN sitzt frustriert vor seinem Computer. Das
+\scn{int}{Koje - ETH}{Vormittag}{JAN sitzt frustriert vor seinem Computer. Das
   Programm Dreamfetcher stürzt immer wieder ab. Er bittet TIM um Hilfe, aber der
   kann ihm auch nicht helfen. Sie wenden sich an ALESSIA, da beide wissen wie
   gut sie mit Computern umgehen kann.}
 
-  \exdialog{Jan}{Verfluchte Dreckskacke!}{energisch, aufgebracht}
+\xdlg{Jan}{Verfluchte Dreckskacke!}{energisch, aufgebracht}
 
-  \dialog{Tim}{Was hast du denn jetzt wieder angestellt?}
+\dlg{Tim}{Was hast du denn jetzt wieder angestellt?}
 
-  \dialog{Jan}{Ich habe keinen Nerv mehr für diesen Scheiss!}
+\dlg{Jan}{Ich habe keinen Nerv mehr für diesen Scheiss!}
 
-  \dialog{Tim}{Was ist denn los?}
+\dlg{Tim}{Was ist denn los?}
 
-  \dialog{Jan}{Das Programm stürzt jedes mal ab, wenn ich die Gewichtung der
-    Parameter ändere.}
+\dlg{Jan}{Das Programm stürzt jedes mal ab, wenn ich die Gewichtung der
+  Parameter ändere.}
 
-  \dialog{Tim}{Du solltest dir vielleicht endlich einen neuen Computer
-    zulegen... Zeig mal her!}
+\dlg{Tim}{Du solltest dir vielleicht endlich einen neuen Computer
+  zulegen... Zeig mal her!}
 
-  \desc{Jan gibt Tim seinen Laptop. Sie probieren beide ein wenig unbeholfen
-    herum das Problem zo lösen, ohne jedoch Erfolg zu haben.}
+\dsc{Jan gibt Tim seinen Laptop. Sie probieren beide ein wenig unbeholfen herum
+  das Problem zo lösen, ohne jedoch Erfolg zu haben.}
 
-  \dialog{Tim}{Hmm... Keine Ahnung. Fragen wir Ale, sie versteht sich besser
-    darauf. Ale! Hast du kurz zeit?}
+\dlg{Tim}{Hmm... Keine Ahnung. Fragen wir Ale, sie versteht sich besser
+  darauf. Ale! Hast du kurz zeit?}
 
-  \exdialog{Alessia}{Um was geht's denn?}{überrascht}
+\xdlg{Alessia}{Um was geht's denn?}{überrascht}
 
-  \dialog{Tim}{Jan hat ein Problem mit Dreamfetcher, das ich nicht lösen
-    kann. Kannst du dir das mal ansehen?}
+\dlg{Tim}{Jan hat ein Problem mit Dreamfetcher, das ich nicht lösen kann. Kannst
+  du dir das mal ansehen?}
 
-  \desc{ALESSIA tritt zu Jans Computer und beginnt sofort zu tippen. Jan und Tim
-    schauen gespannt zu.}
+\dsc{ALESSIA tritt zu Jans Computer und beginnt sofort zu tippen. Jan und Tim
+  schauen gespannt zu.}
 
-  \exdialog{Alessia}{So. Nach einem Neustart müsste es
-    funktionieren.}{überzeugt}
+\xdlg{Alessia}{So. Nach einem Neustart müsste es funktionieren.}{überzeugt}
 
-  \desc{Jan startet den Computer neu und gibt sein Passwort ein.}
+\dsc{Jan startet den Computer neu und gibt sein Passwort ein.}
 
-  \dialog{Alessia}{Ehrlich? Password.1234?}{augenrollend}
+\xdlg{Alessia}{Ehrlich? Password.1234?}{augenrollend}
 
-  \desc{Jan erwidert verlegen Alessias Blick. Er startet das Programm, welches
-    sofort wieder abstürzt.}
+\dsc{Jan erwidert verlegen Alessias Blick. Er startet das Programm, welches
+  sofort wieder abstürzt.}
 
-  \exdialog{Alessia}{Hmm... Das verstehe ich jetzt nicht. Vielleicht gehst du
-    doch lieber zum Helpdesk.}{verlegen}
+\xdlg{Alessia}{Hmm... Das verstehe ich jetzt nicht. Vielleicht gehst du doch
+  lieber zum Helpdesk.}{verlegen}
 
 
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Helpdesk - ETH}{Nachmittag}{DR. BROWN ist schlecht gelaunt. Er sitzt
-  am Helpdesk und erklärt gerade einem STUDENTEN, dass er ihm nicht helfen
-  kann. JAN wartet ab bis er an der Reihe ist und erklärt dann sein Problem.}
+\scn{int}{Helpdesk - ETH}{Nachmittag}{DR. STANISLAV BROWN ist schlecht
+  gelaunt. Er sitzt am Helpdesk und erklärt gerade einem STUDENTEN, dass er ihm
+  nicht helfen kann. JAN wartet ab bis er an der Reihe ist und erklärt dann sein
+  Problem.}
 
-  \dialog{Jan}{Hallo. Ich habe ein Problem mit `Dreamfetcher'. Das Programm
-    stürzt immer ab, wenn ich versuche die Parametergewichtung zu ändern.}
+\dlg{Jan}{Hallo. Ich habe ein Problem mit `Dreamfetcher'. Das Programm stürzt
+  immer ab, wenn ich versuche die Parametergewichtung zu ändern.}
 
-  \dialog{Dr. Brown}{Hast du versucht den Computer neu zu starten?}{sichtlich
-    genervt}
+\xdlg{Brown}{Hast du versucht den Computer neu zu starten?}{sichtlich genervt}
 
-  \dialog{Jan}{Natürlich. Aber das hat auch nichts geholfen. Ich glaube, es
-    handelt sich um einen Softwarefehler. Vielleicht ist es auch wegen meinem
-    alten Computer}
+\dlg{Jan}{Natürlich. Aber das hat auch nichts geholfen. Ich glaube, es handelt
+  sich um einen Softwarefehler. Vielleicht ist es auch wegen meinem alten
+  Computer}
 
-  \desc{Jan zeigt seinen alten Computer. Brown scheint offenbar interessierter.}
+\dsc{Jan zeigt seinen alten Computer. Brown scheint offenbar interessierter.}
 
-  \dialog{Brown}{Zeig mal her. Ich werde mir das ansehen.}
+\dlg{Brown}{Zeig mal her. Ich werde mir das ansehen.}
 
-  \desc{Brown tippt ein wenig in den Tasten herum.}
+\dsc{Brown tippt ein wenig in den Tasten herum.}
 
-  \dialog{Brown}{Hm. Ich fürchte, ich kann da nichts machen. Es scheint
-    tatsächlich ein grundlegenderes Problem zu sein. Ich kann es mir höchstens
-    im Detail ansehen und sehen, was ich machen kann. Aber ich fürchte, du musst
-    deinen Computer bis heute Abend hier lassen.}
+\dlg{Brown}{Hm. Ich fürchte, ich kann da nichts machen. Es scheint tatsächlich
+  ein grundlegenderes Problem zu sein. Ich kann es mir höchstens im Detail
+  ansehen und sehen, was ich machen kann. Aber ich fürchte, du musst deinen
+  Computer bis heute Abend hier lassen.}
 
-  \dialog{Jan}{Aber das geht nicht. Ich habe morgen eine Kritik und muss noch
-    viel arbeiten.}
+\dlg{Jan}{Aber das geht nicht. Ich habe morgen eine Kritik und muss noch viel
+  arbeiten.}
 
-  \dialog{Brown}{Dann kann ich dir nicht helfen. Ich verstehe deine Not. Aber
-    alles was ich machen kann, ist dir anzubieten, dass ich heute länger arbeite
-    und versuche deinen Laptop wieder zum laufen zu bringen.}
+\dlg{Brown}{Dann kann ich dir nicht helfen. Ich verstehe deine Not. Aber alles
+  was ich machen kann, ist dir anzubieten, dass ich heute länger arbeite und
+  versuche deinen Laptop wieder zum laufen zu bringen.}
 
-  \desc{Jan scheint entäuscht, dass es keine Lösung für sein Problem zu geben
-    scheint. Als er an seine Abgabe denkt, haucht ein Anflug von Panik über sein
-    gesicht. Da alles nichts zu nützen scheint willigt er resigniert ein den
-    Laptop da zu lassen.}
+\dsc{Jan scheint entäuscht, dass es keine einfache Lösung für sein Problem zu
+  geben scheint. Als er an seine Abgabe denkt, haucht ein Anflug von Panik über
+  sein gesicht. Da alles nichts zu nützen scheint, willigt er resigniert ein
+  seinen Laptop da zu lassen.}
 
-  \dialog{Jan}{Also gut. Wenn sonst nichts geht, müssen wir es eben so
-    versuchen}
+\dlg{Jan}{Also gut. Wenn sonst nichts geht, müssen wir es eben so versuchen.}
 
-  \dialog{Brown}{Keine Sorge. Ich werde deinen Computer bis heute abend fertig
-    haben. Ich rufe dich an, wenn ich so weit bin.}
+\dlg{Brown}{Keine Sorge. Ich werde deinen Computer bis heute abend fertig
+  haben. Ich rufe dich an, wenn ich so weit bin.}
 
-  \desc{JAN hinterlässt seine Telefonnummer auf einem Zettel und geht davon.}
+\dsc{Jan hinterlässt seine Telefonnummer auf einem Zettel und geht davon.}
 
 
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Alumni Lounge - ETH}{Abend}{JAN sitzt frustriert und müde am
+\scn{int}{Alumni Lounge - ETH}{Abend}{JAN sitzt frustriert und müde am
   Tisch. Neben sich einen leeren Kaffeebecher. Er schaut immer wieder auf sein
-  Handy und wartet gestresst auf den Anruf von BROWN. Gedankenverloren kritzelt
-  er in ein Notizbuch und versucht sein Projekt von Hand zu skizzieren. Endlich
-  klingelt das Telefon. Sein Computer ist abholbereit. JAN packt hastig seine
-  Sachen zusammen und geht.}
+  Mobiltelefon und wartet gestresst auf den Anruf von BROWN. Gedankenverloren
+  kritzelt er in ein Notizbuch und versucht sein Projekt von Hand zu
+  skizzieren. Endlich klingelt das Telefon. Sein Computer ist abholbereit. JAN
+  packt hastig seine Sachen zusammen und geht.}
 
-  \exdialog{Brown}{Hallo Jan.\\ Ich habe deinen Computer nun fertig. Du kannst
-    ihn nun abholen.}{über das Telefon}
+\xdlg{Brown}{Hallo Jan.\\ Ich habe deinen Computer nun fertig. Du kannst ihn nun
+  abholen.}{über das Telefon}
 
-  \dialog{Jan}{Super ich komme sofort!}
+\dlg{Jan}{Super ich komme sofort!}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Helpdesk - ETH}{Abend}{BROWN übergibt JAN den Laptop. JAN ist
+\scn{int}{Helpdesk - ETH}{Abend}{BROWN übergibt JAN den Laptop. JAN ist
   sichtlich erleichtert.}
 
-  \dialog{Brown}{Mit der alten Installation war nichts mehr anzufangen. Ich habe
-    dir deshalb die neueste Version installiert. Mit dieser hast du nun auch
-    nicht mehr das Problem mit den Lizenzen.}
+\dlg{Brown}{Mit der alten Installation war nichts mehr anzufangen. Ich habe dir
+  deshalb die neueste Version installiert. Mit dieser hast du nun auch nicht
+  mehr das Problem mit den Lizenzen.}
 
-  \exdialog{Jan}{Vielen Dank! Ich wollte schon aufgeben.\\Aber unter Umständen
-    muss ich das nun auch. Bis morgen bleibt nicht mehr viel Zeit, und es ist
-    noch eine Menge zu tun.}{Glücklich, aber trotzdem mit \\einem Anflug von
-    Resignation}
+\xdlg{Jan}{Vielen Dank! Ich wollte schon aufgeben.\\ Aber unter Umständen muss
+  ich das nun auch. Bis morgen bleibt nicht mehr viel Zeit, und es ist noch eine
+  Menge zu tun.}{Glücklich, aber trotzdem mit \\ einem Anflug von Resignation}
 
-  \dialog{Brown}{Mach dir deswegen mal keine allzu grossen Gedanken. Du wirst
-    feststellen, dass die neue Version um einiges mächtiger ist als die
-    alte. Die Löst dir alle Probleme quasi von selbst.}
+\dlg{Brown}{Mach dir deswegen mal keine allzu grossen Gedanken. Du wirst
+  feststellen, dass die neue Version um einiges mächtiger ist als die alte. Die
+  Löst dir alle Probleme quasi von selbst.}
 
-  \exdialog{Jan}{Dann werde ich sie wohl gleich mal ausprobieren und an ihre
-    Grenze bringen. Schönen Abend noch, und nochmals vielen Dank!}{ungläubig}
+\xdlg{Jan}{Dann werde ich sie wohl gleich mal ausprobieren und an ihre Grenze
+  bringen. Schönen Abend noch, und nochmals vielen Dank!}{ungläubig}
 
-  \exdialog{Brown}{Ich glaube nicht, dass du das schaffst. Das wünsche ich dir
-    auch.}{lachend} \trans{dissolve to}
+\xdlg{Brown}{Ich glaube nicht, dass du das schaffst. Das wünsche ich dir
+  auch.}{lachend}
 
+\trns{dissolve to}
+
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{JANs Zimmer}{Nacht}{JAN startet seinen Computer und dann auch gleich
+\scn{int}{JANs Zimmer}{Nacht}{JAN startet seinen Computer und dann auch gleich
   das Programm. Man sieht ihm an, dass er eigentlich überhaupt keine Motivation
   mehr hat und lieber gleich schlafen gehen würde. Sobald das Programm gestartet
   ist, fängt MIRA an zu sprechen.}
 
-  \dialog{Mira}{Hallo! Ich bin Mira, Ihre neue Assistentin für den
-    architektonischen Entwurf. Wie kann ich Ihnen helfen?}
+\dlg{Mira}{Hallo! Ich bin Mira, Ihre neue Assistentin für den architektonischen
+  Entwurf. Wie kann ich Ihnen helfen?}
 
-  \desc{Jan nimmt die Maus in die Hand und versucht in der neuen Oberfläche
-    einige Parameter einzustellen.}
+\dsc{Jan nimmt die Maus in die Hand und versucht in der neuen Oberfläche einige
+  Parameter einzustellen.}
 
-  \dialog{Mira}{Sie können wie gewohnt Ihre Angaben im klassischen Interface
-    einstellen. Eine effizientere Methode wäre jedoch mit dem neuen
-    Sprachinterface.  Möchten Sie die Sprachsteuerung für Ihr Projekt starten?}
+\dlg{Mira}{Sie können wie gewohnt Ihre Angaben im klassischen Interface
+  einstellen. Eine effizientere Methode wäre jedoch mit dem neuen
+  Sprachinterface.  Möchten Sie die Sprachsteuerung für Ihr Projekt starten?}
 
-  \exdialog{Jan}{Ja ja\ldots}{ungläubig}
+\xdlg{Jan}{Ja ja...}{ungläubig}
 
-  \dialog{Mira}{Die Sprachsteuerung ist nun aktiviert.\\Wo soll Ihr neues
-    Projekt liegen?}
+\dlg{Mira}{Die Sprachsteuerung ist nun aktiviert.\\ Wo soll Ihr neues Projekt
+  liegen?}
 
-  \desc{Jan zögert zunächst. Er ist überfordert mit der neuen, viel
-    selbstständigeren Version von Dreamfetcher. Bald aber erkennt er, dass es
-    doch noch eine Chance für ein gutes Projekt hat und bekommt wieder Hoffnung
-    und neue Energie. MIRA ist wie eine Teampartnerin oder Sekretärin, die im
-    Dialog mit Jan entwirft. Jan muss also nicht mehr am Computer sitzen und
-    läuft im Zimmer rauf und runter während er Mira den Entwurf diktiert. Mira
-    hinterfragt alles und bringt dadurch den Entwurf in eine bessere
-    Richtung. Zusammen arbeiten sie bis spät in die Nacht.}
+\dsc{Jan zögert zunächst. Er ist überfordert mit der neuen, viel
+  selbstständigeren Version von Dreamfetcher. Bald aber erkennt er, dass es doch
+  noch eine Chance für ein gutes Projekt hat und bekommt wieder Hoffnung und
+  neue Energie. MIRA ist wie eine Teampartnerin oder Sekretärin, die im Dialog
+  mit Jan entwirft. Jan muss also nicht mehr am Computer sitzen und läuft im
+  Zimmer rauf und runter während er Mira den Entwurf diktiert. Mira hinterfragt
+  alles und bringt dadurch den Entwurf in eine bessere Richtung. Zusammen
+  arbeiten sie bis spät in die Nacht.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Plotterraum}{Am nächsten Morgen}{JAN steht müde aber glücklich und
+\scn{int}{Plotterraum}{Am nächsten Morgen}{JAN steht müde aber glücklich und
   erleichtert beim Plotter und sammelt seine Ausdrucke zusammen. TIM findet Jan
   und bringt ihm einen Kaffee.}
 
-  \dialog{Tim}{Hat es also noch geklappt mit deinem Computer gestern? Brändi
-    wird es sicherlich verstehen, dass du unter diesen Umständen den Entwurf
-    nicht vollenden konntest.}
+\dlg{Tim}{Hat es also noch geklappt mit deinem Computer gestern? Brändi wird es
+  sicherlich verstehen, dass du unter diesen Umständen den Entwurf nicht
+  vollenden konntest.}
 
-  \exdialog{Jan}{Ach, weisst du, ich bin heute früh fertig geworden}{grinsend}
+\xdlg{Jan}{Ach, weisst du, ich bin heute früh fertig geworden}{grinsend}
 
-  \exdialog{Tim}{Zeig mal her!}{überrascht}
+\xdlg{Tim}{Zeig mal her!}{überrascht}
 
-  \desc{Tim schaut sich Jans Ausdrucke ein wenig näher an.}
+\dsc{Tim schaut sich Jans Ausdrucke ein wenig näher an.}
 
-  \dialog{Tim}{Diese Pläne hier sind richtig gut. Und wie ich sehe, hattest du
-    sogar die Zeit, eine schöne Visualisierung anzufertigen. Wie hast du das nur
-    gemacht?}
+\dlg{Tim}{Diese Pläne hier sind richtig gut. Und wie ich sehe, hattest du sogar
+  die Zeit, eine schöne Visualisierung anzufertigen. Wie hast du das nur
+  gemacht?}
 
-  \exdialog{Jan}{Ich habe die ganze Nacht daran gesessen. Offenbar zahlt sich
-    beharrlichkeit und fleiss im letzten Moment durchaus aus}{ausweichend}
+\xdlg{Jan}{Ich habe die ganze Nacht daran gesessen. Offenbar zahlt sich
+  beharrlichkeit und fleiss im letzten Moment durchaus aus}{ausweichend}
 
-  \desc{Als Jan seine Ausdrucke zusammen und zugeschnitten hat, schaut er auf
-    die Uhr.}
+\dsc{Als Jan seine Ausdrucke zusammen und zugeschnitten hat, schaut er auf die
+  Uhr.}
 
-  \dialog{Jan}{Wenn wir vor der Kritik noch eine Zigarette rauchen wollen,
-    müssen wir JETZT gehen.}
+\dlg{Jan}{Wenn wir vor der Kritik noch eine Zigarette rauchen wollen, müssen wir
+  JETZT gehen.}
 
-  \desc{Die beiden nehmen ihre jeweiligen Pläne unter den Arm und brechen auf.}
+\dsc{Die beiden nehmen ihre jeweiligen Pläne unter den Arm und brechen auf.}
 
 
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Koje bei der Kritik - ETH}{Im Verlaufe des Tages}{JAN präsentiert
-  sein Projekt. PROFESSOR BRÄNDI, GIOVANNI BENINI und eine weitere Architektin
-  sitzen in der vordersten Reihe. Dahinter sammeln sich die Studenten. Jan
-  beendet gerade seine Präsentation.}
+\scn{int}{Koje bei der Kritik - ETH}{Im Verlaufe des Tages}{JAN präsentiert sein
+  Projekt. PROFESSOR BRÄNDI, GIOVANNI BENINI und eine weitere Architektin sitzen
+  in der vordersten Reihe. Dahinter sammeln sich die Studenten. Jan beendet
+  gerade seine Präsentation.}
 
-  \exdialog{Jan}{Und so, glaube ich, kann die Lebendigkeit dieses Stadtteils
-    bewahrt werden. Wenn man auf die neuen Bedürfnisse eingeht, aber die alten
-    bewahrt}{sichtlich nervös}
+\xdlg{Jan}{Und so, glaube ich, kann die Lebendigkeit dieses Stadtteils bewahrt
+  werden. Wenn man auf die neuen Bedürfnisse eingeht, aber die alten
+  bewahrt}{sichtlich nervös}
 
-  \dialog{Prof. Brändi}{Sie zeigen hier eine Reihe sehr interessanter Ansäzte.
-    IMich würde interessieren, wie sie dabei vorgegangen sind. Auch da ich mich
-    nicht erinnern kann diese Richtung in Ihrem bisherigen Prozess gelesen zu
-    haben.  Verstehen sie mich nicht falsch, ich finde die Richtung nicht
-    schlecht, aber wie sind sie zu Ihrem Sinneswandel gekommen?}
+\dlg{Prof. Brändi}{Sie zeigen hier eine Reihe sehr interessanter Ansäzte.  IMich
+  würde interessieren, wie sie dabei vorgegangen sind. Auch da ich mich nicht
+  erinnern kann diese Richtung in Ihrem bisherigen Prozess gelesen zu haben.
+  Verstehen sie mich nicht falsch, ich finde die Richtung nicht schlecht, aber
+  wie sind sie zu Ihrem Sinneswandel gekommen?}
 
-  \exdialog{Jan}{Ich war mit meinem bisherigen Ansatz nicht mehr zu frieden, und
-    habe alles komplett von vorne aufgerollt.}{Nicht lügend, aber die Wahrheit
-    verbergend}
+\xdlg{Jan}{Ich war mit meinem bisherigen Ansatz nicht mehr zu frieden, und habe
+  alles komplett von vorne aufgerollt.}{Nicht lügend, aber die Wahrheit
+  verbergend}
 
-  \dialog{Giovanni}{Wie sind Sie demnach bei Ihrem neuen Ansatz darauf gekommen,
-    die Verteilung der Öffentlichkeit und der Erschliessung auf diese Weise zu
-    lösen. Welche Parameter waren Ihnen persönlich so wichtig, dass Sie auf
-    dieses Resultat kommen?}
+\dlg{Giovanni}{Wie sind Sie demnach bei Ihrem neuen Ansatz darauf gekommen, die
+  Verteilung der Öffentlichkeit und der Erschliessung auf diese Weise zu
+  lösen. Welche Parameter waren Ihnen persönlich so wichtig, dass Sie auf dieses
+  Resultat kommen?}
 
-  \exdialog{Jan}{Nun, ich will nicht allzu sehr ins Detail meiner Parameter
-    gehen. Mir war es aber wichtig die Ausgewogenheit von Bestand und der
-    integration vom Neuen zu erreichen. Sonst wäre meine Idee von Grund auf
-    nicht aufgegangen.}{verlegen und suchend}
+\xdlg{Jan}{Nun, ich will nicht allzu sehr ins Detail meiner Parameter gehen. Mir
+  war es aber wichtig die Ausgewogenheit von Bestand und der integration vom
+  Neuen zu erreichen. Sonst wäre meine Idee von Grund auf nicht
+  aufgegangen.}{verlegen und suchend}
 
-  \exdialog{Architektin}{Ja, ich weiss nicht richtig, was zu sagen.\\Mir gefällt
-    es.\\Können Sie mir nochmals die Aufteilung im Erdgeschoss
-    aufzeigen?}{kopfnickend}
+\xdlg{Architektin}{Ja, ich weiss nicht richtig, was zu sagen.\\ Mir gefällt
+  es.\\ Können Sie mir nochmals die Aufteilung im Erdgeschoss
+  aufzeigen?}{kopfnickend}
 
-  \desc{Brändi und die Kritiker sind überzeugt und zufrieden mit dem
-    Projekt. Sie finden Jans Ansatz sehr schön und intelligent gelöst.}
+\dsc{Brändi und die Kritiker sind überzeugt und zufrieden mit dem Projekt. Sie
+  finden Jans Ansatz sehr schön und intelligent gelöst.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{ext}{Dachterrasse - Apéro}{Abend}{ JAN, TIM, ALESSIA und weitere Freunde
+\scn{ext}{Dachterrasse - Apéro}{Abend}{ JAN, TIM, ALESSIA und weitere Freunde
   stehen auf der Dachterrasse und feiern das Ende der Kritik mit einem oder zwei
   Gin Tonic.}
 
-  \dialog{Alessia}{So, das hätten wir geschafft. Nun haben wir endlich einen Tag
-    Pause.}
+\dlg{Alessia}{So, das hätten wir geschafft. Nun haben wir endlich einen Tag
+  Pause.}
 
-  \exdialog{Tim}{Du sagst es. Es war ein harter kampf bis vorgestern Abend, als
-    ich fertig wurde.}{grinsend}
+\xdlg{Tim}{Du sagst es. Es war ein harter kampf bis vorgestern Abend, als ich
+  fertig wurde.}{grinsend}
 
-  \dialog{Jan}{Mensch bin ich froh, dass es vorüber ist. Aber es ist ja zum
-    glück recht gut gelaufen.}
+\dlg{Jan}{Mensch bin ich froh, dass es vorüber ist. Aber es ist ja zum glück
+  recht gut gelaufen.}
 
-  \dialog{Tim}{Ja Jan. Wie hast du das geschafft? Ich meine, als ich mich
-    gestern mit dir zusammengesetzt habe, war dein Projekt noch nirgends.. Und
-    heute? Heute überflügelst du mich.}
+\dlg{Tim}{Ja Jan. Wie hast du das geschafft? Ich meine, als ich mich gestern mit
+  dir zusammengesetzt habe, war dein Projekt noch nirgends.. Und heute?  Heute
+  überflügelst du mich.}
 
-  \desc{Tim boxt Jan freundschaftlich an die Schulter.}
+\dsc{Tim boxt Jan freundschaftlich an die Schulter.}
 
-  \dialog{Alessia}{Wollen wir nachher noch feiern gehen? Bei Jens findet heute
-    noch eine kleine Feier statt.}
+\dlg{Alessia}{Wollen wir nachher noch feiern gehen? Bei Jens findet heute noch
+  eine kleine Feier statt.}
 
-  \desc{JENS geht zufällig gerade an der Gruppe vorbei.}
+\dsc{JENS geht zufällig gerade an der Gruppe vorbei.}
 
-  \dialog{Jens}{Ja stimmt. Es wäre schön, wenn ihr alle mitkommt. Wir brechen in
-    einer halben Stunde auf. Betrachten wir dieses Apero als
-    Vorgeschmack.\\Übrigens, gratuliere Jan. Dein Projekt war hammerhart.}
+\dlg{Jens}{Ja stimmt. Es wäre schön, wenn ihr alle mitkommt. Wir brechen in
+  einer halben Stunde auf. Betrachten wir dieses Apero als Vorgeschmack.\\
+  Übrigens, gratuliere Jan. Dein Projekt war hammerhart.}
 
-  \dialog{Jan}{Vielen Dank. Aber ich werde nicht mitgehen. Ich bin nach heute
-    Nacht hundemüde und will nur noch in mein Bett und schlafen.}
+\dlg{Jan}{Vielen Dank. Aber ich werde nicht mitgehen. Ich bin nach heute Nacht
+  hundemüde und will nur noch in mein Bett und schlafen.}
 
-  \dialog{Alessia}{Schade. Aber ich und Tim kommen gerne. oder?}
+\dlg{Alessia}{Schade. Aber ich und Tim kommen gerne. oder?}
 
-  \dialog{Tim}{Ja sicher! Eine Fete in Jens' WG lasse ich mir doch nicht
-    entgehen.}
+\dlg{Tim}{Ja sicher! Eine Fete in Jens' WG lasse ich mir doch nicht entgehen.}
 
-  \desc{Jan erhält ständig push-Nachrichten auf sein Mobiltelefon und ist häufig
-    geistesabwesend. Er verabschiedet sich und geht alleine in Richtung Bus.}
+\dsc{Jan erhält ständig push-Nachrichten auf sein Mobiltelefon und ist häufig
+  geistesabwesend. Er verabschiedet sich und geht alleine in Richtung Bus.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Jans Zimmer}{Abend}{JAN spricht mit MIRA. Sie will nicht aufhören zu
+\scn{int}{Jans Zimmer}{Abend}{JAN spricht mit MIRA. Sie will nicht aufhören zu
   lernen, und löchert JAN mit Fragen zu Architektur, deren Geschichte und den
   Menschen in Zürich.}
 
-  \dialog{Mira}{Welches Design würden Sie persönlich für eine öffentliche
-    Bibliothek bevorzugen?}
+\dlg{Mira}{Welches Design würden Sie persönlich für eine öffentliche Bibliothek
+  bevorzugen?}
 
-  \desc{Mira zeigt Jan auf dessen Monitor drei verschiedene Bilder die allesamt
-    unterschiedliche Gebäudearten aufzeigen.}
+\dsc{Mira zeigt Jan auf dessen Monitor drei verschiedene Bilder die allesamt
+  unterschiedliche Gebäudearten aufzeigen.}
 
-  \dialog{Jan}{Das Haus rechts.}
+\dlg{Jan}{Das Haus rechts.}
 
-  \dialog{Mira}{Würden die Menschen in Zürich ein solches Gebäude als Schule
-    akzeptieren?}
+\dlg{Mira}{Würden die Menschen in Zürich ein solches Gebäude als Schule
+  akzeptieren?}
 
-  \desc{Mira zeigt Jan ein anderes Bild eines Gebäudes.}
+\dsc{Mira zeigt Jan ein anderes Bild eines Gebäudes.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{WG}{Abend}{ALESSIA und TIM sprechen über Jan}
+\scn{int}{WG}{Abend}{ALESSIA und TIM sprechen über Jan}
 
-  \dialog{Alessia}{Findest du nicht auch, dass sich Jan heute sehr merkwürdig
-    verhalten hat?}
+\dlg{Alessia}{Findest du nicht auch, dass sich Jan heute sehr merkwürdig
+  verhalten hat?}
 
-  \dialog{Tim}{Ja schon. Aber er war dieses Mal äusserst gestresst wegen der
-    Kritik. Vielleicht braucht er einfach ein wenig Ruhe.\\ Mich interessiert
-    nur, wie er in dieser kurzen Zeit fertig werden konnte, und sein Entwurf
-    auch noch so gut ist\ldots}
+\dlg{Tim}{Ja schon. Aber er war dieses Mal äusserst gestresst wegen der
+  Kritik. Vielleicht braucht er einfach ein wenig Ruhe.\\ Mich interessiert nur,
+  wie er in dieser kurzen Zeit fertig werden konnte, und sein Entwurf auch noch
+  so gut ist...}
 
-  \exdialog{Alessia}{Höre ich da etwa Eifersucht aus dem Mund des
-    Musterschülers.}{neckisch}
+\xdlg{Alessia}{Höre ich da etwa Eifersucht aus dem Mund des
+  Musterschülers.}{neckisch}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{WG}{Abend}{Zwischenschnitt. - TIM und ALESSIA kommen sich näher. Aus
+\scn{int}{WG}{Abend}{Zwischenschnitt. - TIM und ALESSIA kommen sich näher. Aus
   den neckischen Sprüchen sind bald richtige Annäherugsversuche entstanden. Nach
   dem Wegfallen der Hemmungen durch ein, zwei weitere Gin Tonic Tanzen die
   beiden nun mit einigem Körperkontakt. Alessia flüstert Tim etwas ins Ohr.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{ETH Mensa}{Mittag des nächsten Tages}{ALESSIA und TIM stehen in der
+\scn{int}{ETH Mensa}{Mittag des nächsten Tages}{ALESSIA und TIM stehen in der
   Warteschlange der Mensa. JAN tritt dazu. Er wirkt immer noch müde.}
 
-  \dialog{Tim}{Na du Faulpelz. Ausgeschlafen?\\ Du warst heute morgen nicht im
-    Unterricht?}
+\dlg{Tim}{Na du Faulpelz. Ausgeschlafen?\\ Du warst heute morgen nicht im
+  Unterricht?}
 
-  \desc{Sie gehen zu einem freien Platz im hinteren Bereich des Speisesaals.}
+\dsc{Sie gehen zu einem freien Platz im hinteren Bereich des Speisesaals.}
 
-  \subh{Am Tisch}
+\sbh{Am Tisch}
 
-  \dialog{Alessia}{Habt ihr in den Nachrichten gesehen? Die Regierung in den
-    Vereinigten Staaten hat die Prohibition wieder eingeführt, um den
-    ``Missbrauch von Alkohol'' Einzudämmen.}
+\dlg{Alessia}{Habt ihr in den Nachrichten gesehen? Die Regierung in den
+  Vereinigten Staaten hat die Prohibition wieder eingeführt, um den ``Missbrauch
+  von Alkohol'' Einzudämmen.}
 
-  \exdialog{Tim}{Nein, hatte ich noch nicht gehört}{glücklich lächelnd}
+\xdlg{Tim}{Nein, hatte ich noch nicht gehört}{glücklich lächelnd}
 
-  \desc{Die Situation zwischen ALESSIA und TIM scheint sichtlich verändert. JAN
-    bemerkt dies sofort und hackt nach.}
+\dsc{Die Situation zwischen ALESSIA und TIM scheint sichtlich verändert. JAN
+  bemerkt dies sofort und hackt nach.}
 
-  \dialog{Jan}{Was war noch los gestern Abend?...}
+\dlg{Jan}{Was war noch los gestern Abend?...}
 
-  \dialog{Tim}{Na etwa das übliche. Es gab Bier, die Leute waren ausgelassen und
-    um zwei sind die letzten nach hause gegangen, wie ich gehört habe. Wir sind
-    um Mitternacht gegangen}
+\dlg{Tim}{Na etwa das übliche. Es gab Bier, die Leute waren ausgelassen und um
+  zwei sind die letzten nach hause gegangen, wie ich gehört habe. Wir sind um
+  Mitternacht gegangen}
 
-  \dialog{Alessia}{Vielleicht kommst du das nächste Mal einfach wieder mit? Dann
-    kannst du mit eigenen Augen sehen, was passiert. Du lässt doch sonst keine
-    Sause aus.}
+\dlg{Alessia}{Vielleicht kommst du das nächste Mal einfach wieder mit? Dann
+  kannst du mit eigenen Augen sehen, was passiert. Du lässt doch sonst keine
+  Sause aus.}
 
-  \dialog{Jan}{Ihr wirkt beide so entspannt heute. Was habt ihr genommen?}
+\dlg{Jan}{Ihr wirkt beide so entspannt heute. Was habt ihr genommen?}
 
-  \dialog{Tim}{Du weisst doch, dass wir nichts brauchen ausser uns selbst.}
+\dlg{Tim}{Du weisst doch, dass wir nichts brauchen ausser uns selbst.}
 
-  \desc{Tim sieht verstohlen zu Alessia herüber.}
+\dsc{Tim sieht verstohlen zu Alessia herüber.}
 
-  \dialog{Jan}{Ihr verheimlicht mir doch etwas?!}
+\dlg{Jan}{Ihr verheimlicht mir doch etwas?!}
 
-  \exdialog{Alessia}{Warum sollten wir das tun. Dein Pech, dass du nicht da
-    warst.}{grinsend}
+\xdlg{Alessia}{Warum sollten wir das tun. Dein Pech, dass du nicht da
+  warst.}{grinsend}
 
-  \desc{JAN verlässt aufgebracht die Mensa.}
+\dsc{JAN verlässt aufgebracht die Mensa.}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Jans Zimmer}{Abend}{JAN ist wieder zuhause in seinem Zimmer und
+\scn{int}{Jans Zimmer}{Abend}{JAN ist wieder zuhause in seinem Zimmer und
   Startet seinen Computer. MIRA meldet sich sofort. Jan schaltet sie aber sofort
   aus}
 
-  \dialog{Mira}{Hallo Jan, sieh dir die neuen Entwürfe an, die ich für dich
-    vorbereitet habe...}
+\dlg{Mira}{Hallo Jan, sieh dir die neuen Entwürfe an, die ich für dich
+  vorbereitet habe...}
 
-  \desc{JAN schliesst das Programm. Er wischt energisch die Pläne des Projektes,
-    welche er gestern präsentiert hat vom Tisch.}
+\dsc{JAN schliesst das Programm. Er wischt energisch die Pläne des Projektes,
+  welche er gestern präsentiert hat vom Tisch.}
 
-  \trans{dip to black}
+\trns{dip to black}
 
+
+% ---------- Scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scene{int}{Browns Labor}{Abend}{Man sieht DR. BROWN vor seinem Bildschirm. Auf
-  dem Schirm sind eben jene Pläne von Jan und Mira zu erkennen, die Jan zuvor
-  von seinem Tisch gewischt hat. Mit einem zufriedenen Lächeln massiert er
-  weiter die Tasten. Sein gesicht ist nur vom Monitor beleuchtet.}
+\scn{int}{Browns Labor}{Abend}{Man sieht eine dunkle Silhouette vor seinem
+  Bildschirm. Es handelt sich um DR. BROWN. Auf dem Schirm sind eben jene Pläne
+  von Jan und Mira zu erkennen, die Jan zuvor von seinem Tisch gewischt hat. Mit
+  einem zufriedenen Lächeln und nicken massiert er weiter die Tasten. Sein
+  Gesicht ist nicht zu erkennen.}
 
 \fadeout
 
