@@ -1,10 +1,10 @@
 #+TITLE: Scenario
-#+SUBTITLE: Treatment
 #+AUTHOR: Sahra Roman \and Christian Sangvik
 #+DATE: \today
 
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [11pt,a4paper,ngerman]
+#+LATEX_HEADER: Treatment
 #+LATEX_HEADER: \usepackage{ngerman}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
 #+LATEX_COMPILER: pdflatex
