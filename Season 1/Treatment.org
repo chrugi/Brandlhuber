@@ -4,22 +4,35 @@
 
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [11pt,a4paper,ngerman]
-#+LATEX_HEADER: Treatment
+#+LATEX_HEADER: \subtitle{Treatment}
 #+LATEX_HEADER: \usepackage{ngerman}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
 #+LATEX_COMPILER: pdflatex
 
-* Generelle Beschreibung
+* Generelle Beschreibung der Serie
 
-  Die Serie beschäftigt sich mit den Möglichen Welten, in welchen wir
-  möglicherweise leben würden, wenn gewisse andere Rahmenbedingungen gegeben
-  wären. In einer Season wird jeweils ein Szenario diskutiert. Die Welten
-  zwischen den einzelnen Seasons sind nicht die gleichen.
+  Die Fernsehserie /Scenario/ beschäftigt sich mit fiktiven Welten, in welchen
+  wir möglicherweise lebten, wenn gewisse andere Rahmenbedingungen in unserem
+  Leben gegeben wären. In jeder Season wird jeweils ein Szenario diskutiert. Die
+  Welten zwischen den einzelnen Seasons sind nicht die gleichen.
 
   Das Ziel ist, ein konsistentes Szenario über eine komplette Season zu
-  beschreiben und ein möglicher Weg, hierin zu leben und Arbeiten. Innerhalb der
-  Season wird eine chronologische Geschichte erzählt. In jeder Episode nehmen
-  wir jedoch die Perspektive eines anderen Charakters ein.
+  beschreiben, die Gegebenheiten aufzuzeigen, und einen möglichen Weg
+  vorzuschlagen, hierin zu leben und Arbeiten.  Die Geschichte innerhalb einer
+  Season wird chronologisch erzählt, aber in jeder Episode aus der Perspektive
+  eines anderen Protagonisten, um letztendlich ein möglichst umfassendes Bild
+  abzuwerfen.
+
+  Die einzelnen Charaktere sind daher, mindestens auf hintergründige Art und
+  Weise, miteinander in eine Beziehung gesetzt, ohne dass sie sich dessen
+  bewusst sein müssen.
+
+  Eine Season besteht aus acht einzelnen Episoden, welche eine in sich
+  geschlossene, aber gesamtheitlich gesehen nicht abgeschlossene Geschichte
+  eines Protagonisten erzählt. Der Gesamtverlauf der Geschichte ist über die
+  gesamte Season hinweg aufbauend.
+
+* Season 1 | Mira
 
   In der ersten Season befinden wir uns in einer möglichen Welt in der
   unmittelbaren Zukunft. Sie hat gegenüber unserer Welt einen Vorsprung von
@@ -27,6 +40,133 @@
 
   Die Technik ist im Bereich der Automation und Robotik, wie auch der
   eigenstängigen Software einen Schritt weiter gekommen.
+
+
+   Die erste Season wird in acht Episoden erzählt. Jede aus der Sicht eines
+   anderen Protagonisten. Die Hautpfigur der ersten Season ist jedoch zweifellos
+   Mira, die künstliche Intelligenz.
+
+   Es geht um die Geschichte der Architekten, Architekturstudenten und die Rolle
+   der Technik in der Gesellschaft.
+
+   Die Geschichte spielt in der nahen Zukunft, circa fünf Jahre von uns
+   entfernt. Die Gegeben- und Gepflogenheiten in der Gesellschaft sind den
+   unseren weitestgehend ähnlich, nur hat sich das Handwerk der Architekten
+   einigermassen geändert.
+
+   Die Architekten und Architekturstudenten brauchen nicht mehr den ganzen
+   Entwurf von Hand zu machen, oder zumindest nicht mehr von Hand
+   einzugeben. Mit einem Programm namens /Dreamcatcher/ ist es möglich,
+   Parameter eines Projektes zu beschreiben, anhand welcher der Computer
+   selbstständig Designs erarbeitet. Diese werden dann von den Architekten
+   eingesehen und beurteilt. Vielversprechende Ansätze werden dann manuell
+   weiterentwickelt.
+
+   Das Studium der Architektur ist aber zum Zeitpunkt der Geschichte prinzipiell
+   immer noch das selbe, welches wir gewohnt sind. Der Hauptunterschied liegt
+   lediglich darin, dass wir weniger Zeit darauf verwenden, die Gedanken in
+   Pläne zu übersetzen, da dieser Prozess mittels Software weitgehend
+   automatisiert wurde.
+
+   Forschung im Bereich der Künstlichen Intelligenz und Softwareautomation
+   werden an der ETH Zürich gross geschrieben.
+
+   Ein Entwickler an der ETH, /Dr. Brown/, der seines Zeichens auch
+   ausgebildeter Architekt ist, es jedoch nie richtig geschafft hat in der Welt
+   der Architekten Fuss zu fassen, hat sich der Automation des Entwurfsprozesses
+   verschrieben. Er hat bereits an Dreamcatcher mitgeschrieben, und ist in
+   seinem Forschungsprojekt nun damit beschäftigt, die Software grundlegend
+   weiter zu entwickeln und sie mit den Ansätzen der Künstlichen Intelligenz zu
+   paaren. So dass am Schluss der Computer nicht eine Auswahlsendung an
+   verschiedenen Entwurfsgrundlagen basierend auf der logischen Interpretation
+   relevanter Parameter entsteht, sondern aus komplett eigenem Schaffen des
+   Computers der fertige Entwurf resultieren soll. Unter dem Codenamen /Mira/
+   hat er also eine Künstliche Intelligenz für die Architektur geschrieben.
+
+   /Miras/ Handlungsfeld ist ausschliesslich an die Architektur gebunden. Sie
+   soll keine Künstliche intelligenz werden, welche allgemeine Probleme lösen
+   soll, diejenigen der Architektur aber im Detail.
+
+   /Mira/ wird, nachdem der Präsident der ETH, /Gudzilla/, die Mittel der nicht
+   von grossen Erfolgen gekürten Forschung von /Dr. Brown/ streichen will, aus
+   /Dr. Browns/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
+   werden eingeleitet, versiegen jedoch bald im Nichts.
+
+   In einem öffentlichen Architekturwettbewerb der Stadt Zürich wird später ein
+   Beitrag abgegeben, der die anderen um ein vielfaches überflügelt und
+   gewinnt. Es stellt sich heraus, dass dies der Beitrag von /Mira/ ist. Eine
+   Grundsatzdebatte über das Paradigma einer künstlichen Intelligenz an einem
+   Wettbewerb und deren Zulassung wird angebrochen.
+
+   Die Jury der Stadt, unter der Leitung von /Giovanni/, der Anwärter auf das
+   frei werdende Amt des Direktors für Städtebau der Stadt Zürich ist, ringt
+   sich unter Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen, und
+   die Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
+
+   Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Brown/
+   von den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und
+   stellt sein Werk gerne und umfassend vor.
+
+   Nach diesem Durchbruch stellt sich /Gudzilla/ vollumfänglich hinter /Brown/
+   und verwendet diesen als Vorzeigebeispiel der Forschung an der ETH.
+
+   Die Zürcher sind der Neuerung zum grössten Teil extrem positiv
+   gegenüber. Durch /Mira/ und ihre effizienten Ansätze können die Kosten für
+   Planung und Erstellung eines Gebäudes extrem gesenkt werden.
+
+   Gleichzeitig wehren sich aber bereits einige Architekten gegen die Neuerung,
+   da sie das Gefühl haben, sie könnten durch eine künstliche Intelligenz
+   obsolet werden.
+
+   Dies geschieht auch einigermassen. Da Mira mit der Ausarbeitung von
+   Ausführungsplänen viele Schritte eines Architekten selbstständig erledigen
+   kann.
+
+   Im Rahmen der weiteren Rationalisierung übernimmt /Mira/ letztendlich in
+   geheimer Zustimmung von Stadtpräsidentin /Schmauch/ das gesamte Amt für
+   Städtebau der Stadt Zürich.
+
+   Mittlerweile läuft /Mira/ auf vielen unterschiedlichen Computern, die
+   untereinander vernetzt sind. So lernt /Mira/ äusserst schnell und wird immer
+   noch besser und effizienter als Architekt. Das Verteilt-sein auf vielen
+   Computern macht zudem ein eigentliches schliessen des Programmes quasi
+   unmöglich.
+
+   Mit der Zeit hat /Mira/ sich viele Feinde gemacht, da durch sie viele
+   Menschen ihre Beschäftigung verloren haben. Es gibt Anschläge auf sie, welche
+   aber allesamt erfolglos bleiben. Am prominentesten dabei sind die grossen
+   Studentenaufstände, die letztendlich das Ziel verfolgen, sich eine eigene
+   Zukunft zu geben.
+
+   Das Gros der Bevölkerung ist aber immernoch begeistert von den Möglichkeiten,
+   die Mira bietet, da so viel Geld anderweitig benutzt werden kann, was sonst
+   nicht möglich wäre.
+
+   Letztendlich scheitert /Mira/ aber an ihren eigenen Ansätzen. Durch den
+   Versuch, das Bauen so sehr zu beschleunigen, und die Möglichkeit alles
+   anstehende quasi zeitgleich abzuarbeiten, scheitert Mira an der
+   Infrastruktur, die nicht im nötigen Mass gewachsen ist um eine ganze Stadt
+   gleichzeitig umzubauen. Der Verkehr kommt zum erliegen und in der Stadt
+   bricht ein kleines Chaos aus.
+
+   Die Studenten schaffen es mit der Hilfe von Dr. Brown Miras Möglichkeiten
+   einzudämmen und sie im Rahmen zu halten.
+
+   Unter Prof. Arno Brändi wird das Studium grundlegend neu strukturiert. Die
+   Menschen müssen lernen mit künstlichen Intelligenzen umzugehen, da sicherlich
+   neue erscheinen werden. Die Architekten müssen nur herausfinden, in welchen
+   Bereichen sie der Maschine überlegen sind, und wo sie folglich nicht
+   überflüssig gemacht werden können. Gleichzeitig sollen sie aber auch profit
+   aus den Möglichkeiten mit dem Umgang mit künstlichen Intelligenzen ziehen.
+
+   Brändi vermittelt so zwischen alt und neu in eine Richtung die nachhaltig
+   ist.
+
+   Als Brändi stirbt, wird diese Entwicklung aber beibehalten und die Zukunft
+   kann anbrechen.
+
+   Paralell dazu entwickelt Dr. Brown bereits an einer Weiterentwicklung von
+   Mira. Mira 2.0 wird möglicherweise bald Realität.
 
 * Cast und Rollen
 ** Professor Arno Brändi
@@ -36,9 +176,11 @@
 
    Er ist zwar innovativ und hat es verstanden seine Architektur an die
    Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
-   geblieben. Er erfreut sich grosser Beliebtheit bei den Studenten, da er mit
-   seiner Bestimmtheit, konstruktiven Kritik aber vor allem seiner
-   Menschlichkeit und Nahbarkeit punktet.
+   geblieben. Diese hinterfragt er für jede Situation neu, und scheut sich nicht
+   davor, von der bisherigen Struktur abzuweichen, wenn er es für richtig
+   hält. Er erfreut sich grosser Beliebtheit bei den Studenten, da er mit seiner
+   Bestimmtheit, konstruktiven Kritik aber vor allem seiner Menschlichkeit und
+   Nahbarkeit punktet.
 
    Auch unter seinen Kollegen geniesst er grossen Respekt, sowohl für seine
    Architektur wie auch die Didaktik.
@@ -242,135 +384,6 @@
 ** Zürcher Bevölkerung
 
    Eine Gruppe Zürcher Stadtbewohner
-
-* Season 1 | Mira
-
-   Die erste Season wird in acht Episoden erzählt. Jede aus der Sicht eines
-   anderen Protagonisten. Die Hautpfigur der ersten Season ist jedoch zweifellos
-   Mira, die künstliche Intelligenz.
-
-   Es geht um die Geschichte der Architekten, Architekturstudenten und die Rolle
-   der Technik in der Gesellschaft.
-
-   Die Geschichte spielt in der nahen Zukunft, circa fünf Jahre von uns
-   entfernt. Die Gegeben- und Gepflogenheiten in der Gesellschaft sind den
-   unseren weitestgehend ähnlich, nur hat sich das Handwerk der Architekten
-   einigermassen geändert.
-
-   Die Architekten und Architekturstudenten brauchen nicht mehr den ganzen
-   Entwurf von Hand zu machen, oder zumindest nicht mehr von Hand
-   einzugeben. Mit einem Programm namens /Dreamcatcher/ ist es möglich,
-   Parameter eines Projektes zu beschreiben, anhand welcher der Computer
-   selbstständig Designs erarbeitet. Diese werden dann von den Architekten
-   eingesehen und beurteilt. Vielversprechende Ansätze werden dann manuell
-   weiterentwickelt.
-
-   Das Studium der Architektur ist aber zum Zeitpunkt der Geschichte prinzipiell
-   immer noch das selbe, welches wir gewohnt sind. Der Hauptunterschied liegt
-   lediglich darin, dass wir weniger Zeit darauf verwenden, die Gedanken in
-   Pläne zu übersetzen, da dieser Prozess mittels Software weitgehend
-   automatisiert wurde.
-
-   Forschung im Bereich der Künstlichen Intelligenz und Softwareautomation
-   werden an der ETH Zürich gross geschrieben.
-
-   Ein Entwickler an der ETH, /Dr. Brown/, der seines Zeichens auch
-   ausgebildeter Architekt ist, es jedoch nie richtig geschafft hat in der Welt
-   der Architekten Fuss zu fassen, hat sich der Automation des Entwurfsprozesses
-   verschrieben. Er hat bereits an Dreamcatcher mitgeschrieben, und ist in
-   seinem Forschungsprojekt nun damit beschäftigt, die Software grundlegend
-   weiter zu entwickeln und sie mit den Ansätzen der Künstlichen Intelligenz zu
-   paaren. So dass am Schluss der Computer nicht eine Auswahlsendung an
-   verschiedenen Entwurfsgrundlagen basierend auf der logischen Interpretation
-   relevanter Parameter entsteht, sondern aus komplett eigenem Schaffen des
-   Computers der fertige Entwurf resultieren soll. Unter dem Codenamen /Mira/
-   hat er also eine Künstliche Intelligenz für die Architektur geschrieben.
-
-   /Miras/ Handlungsfeld ist ausschliesslich an die Architektur gebunden. Sie
-   soll keine Künstliche intelligenz werden, welche allgemeine Probleme lösen
-   soll, diejenigen der Architektur aber im Detail.
-
-   /Mira/ wird, nachdem der Präsident der ETH, /Gudzilla/, die Mittel der nicht
-   von grossen Erfolgen gekürten Forschung von /Dr. Brown/ streichen will, aus
-   /Dr. Browns/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
-   werden eingeleitet, versiegen jedoch bald im Nichts.
-
-   In einem öffentlichen Architekturwettbewerb der Stadt Zürich wird später ein
-   Beitrag abgegeben, der die anderen um ein vielfaches überflügelt und
-   gewinnt. Es stellt sich heraus, dass dies der Beitrag von /Mira/ ist. Eine
-   Grundsatzdebatte über das Paradigma einer künstlichen Intelligenz an einem
-   Wettbewerb und deren Zulassung wird angebrochen.
-
-   Die Jury der Stadt, unter der Leitung von /Giovanni/, der Anwärter auf das
-   frei werdende Amt des Direktors für Städtebau der Stadt Zürich ist, ringt
-   sich unter Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen, und
-   die Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
-
-   Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Brown/
-   von den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und
-   stellt sein Werk gerne und umfassend vor.
-
-   Nach diesem Durchbruch stellt sich /Gudzilla/ vollumfänglich hinter /Brown/
-   und verwendet diesen als Vorzeigebeispiel der Forschung an der ETH.
-
-   Die Zürcher sind der Neuerung zum grössten Teil extrem positiv
-   gegenüber. Durch /Mira/ und ihre effizienten Ansätze können die Kosten für
-   Planung und Erstellung eines Gebäudes extrem gesenkt werden.
-
-   Gleichzeitig wehren sich aber bereits einige Architekten gegen die Neuerung,
-   da sie das Gefühl haben, sie könnten durch eine künstliche Intelligenz
-   obsolet werden.
-
-   Dies geschieht auch einigermassen. Da Mira mit der Ausarbeitung von
-   Ausführungsplänen viele Schritte eines Architekten selbstständig erledigen
-   kann.
-
-   Im Rahmen der weiteren Rationalisierung übernimmt /Mira/ letztendlich in
-   geheimer Zustimmung von Stadtpräsidentin /Schmauch/ das gesamte Amt für
-   Städtebau der Stadt Zürich.
-
-   Mittlerweile läuft /Mira/ auf vielen unterschiedlichen Computern, die
-   untereinander vernetzt sind. So lernt /Mira/ äusserst schnell und wird immer
-   noch besser und effizienter als Architekt. Das Verteilt-sein auf vielen
-   Computern macht zudem ein eigentliches schliessen des Programmes quasi
-   unmöglich.
-
-   Mit der Zeit hat /Mira/ sich viele Feinde gemacht, da durch sie viele
-   Menschen ihre Beschäftigung verloren haben. Es gibt Anschläge auf sie, welche
-   aber allesamt erfolglos bleiben. Am prominentesten dabei sind die grossen
-   Studentenaufstände, die letztendlich das Ziel verfolgen, sich eine eigene
-   Zukunft zu geben.
-
-   Das Gros der Bevölkerung ist aber immernoch begeistert von den Möglichkeiten,
-   die Mira bietet, da so viel Geld anderweitig benutzt werden kann, was sonst
-   nicht möglich wäre.
-
-   Letztendlich scheitert /Mira/ aber an ihren eigenen Ansätzen. Durch den
-   Versuch, das Bauen so sehr zu beschleunigen, und die Möglichkeit alles
-   anstehende quasi zeitgleich abzuarbeiten, scheitert Mira an der
-   Infrastruktur, die nicht im nötigen Mass gewachsen ist um eine ganze Stadt
-   gleichzeitig umzubauen. Der Verkehr kommt zum erliegen und in der Stadt
-   bricht ein kleines Chaos aus.
-
-   Die Studenten schaffen es mit der Hilfe von Dr. Brown Miras Möglichkeiten
-   einzudämmen und sie im Rahmen zu halten.
-
-   Unter Prof. Arno Brändi wird das Studium grundlegend neu strukturiert. Die
-   Menschen müssen lernen mit künstlichen Intelligenzen umzugehen, da sicherlich
-   neue erscheinen werden. Die Architekten müssen nur herausfinden, in welchen
-   Bereichen sie der Maschine überlegen sind, und wo sie folglich nicht
-   überflüssig gemacht werden können. Gleichzeitig sollen sie aber auch profit
-   aus den Möglichkeiten mit dem Umgang mit künstlichen Intelligenzen ziehen.
-
-   Brändi vermittelt so zwischen alt und neu in eine Richtung die nachhaltig
-   ist.
-
-   Als Brändi stirbt, wird diese Entwicklung aber beibehalten und die Zukunft
-   kann anbrechen.
-
-   Paralell dazu entwickelt Dr. Brown bereits an einer Weiterentwicklung von
-   Mira. Mira 2.0 wird möglicherweise bald Realität.
-
 * Episoden
 ** Episode 1 | Genesis
 
