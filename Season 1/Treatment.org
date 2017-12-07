@@ -11,902 +11,870 @@
 
 * Generelle Beschreibung der Serie
 
-  Die Fernsehserie /Scenario/ beschäftigt sich mit fiktiven Welten, in welchen
-  wir möglicherweise lebten, wenn gewisse andere Rahmenbedingungen in unserem
-  Leben gegeben wären. In jeder Season wird jeweils ein Szenario diskutiert. Die
-  Welten zwischen den einzelnen Seasons sind nicht die gleichen.
+Die Fernsehserie /Scenario/ beschäftigt sich mit fiktiven Welten, in welchen wir
+möglicherweise lebten, wenn gewisse andere Rahmenbedingungen in unserem Leben
+gegeben wären. In jeder Season wird jeweils ein Szenario diskutiert. Die Welten
+zwischen den einzelnen Seasons sind nicht die gleichen.
 
-  Das Ziel ist, ein konsistentes Szenario über eine komplette Season zu
-  beschreiben, die Gegebenheiten aufzuzeigen, und einen möglichen Weg
-  vorzuschlagen, hierin zu leben und Arbeiten.  Die Geschichte innerhalb einer
-  Season wird chronologisch erzählt, aber in jeder Episode aus der Perspektive
-  eines anderen Protagonisten, um letztendlich ein möglichst umfassendes Bild
-  abzuwerfen.
+Das Ziel ist, ein konsistentes Szenario über eine komplette Season zu
+beschreiben, die Gegebenheiten aufzuzeigen, und einen möglichen Weg
+vorzuschlagen, hierin zu leben und Arbeiten.  Die Geschichte innerhalb einer
+Season wird chronologisch erzählt, aber in jeder Episode aus der Perspektive
+eines anderen Protagonisten, um letztendlich ein möglichst umfassendes Bild
+abzuwerfen.
 
-  Die einzelnen Charaktere sind daher, mindestens auf hintergründige Art und
-  Weise, miteinander in eine Beziehung gesetzt, ohne dass sie sich dessen
-  bewusst sein müssen.
+Die einzelnen Charaktere sind daher, mindestens auf hintergründige Art und
+Weise, miteinander in eine Beziehung gesetzt, ohne dass sie sich dessen bewusst
+sein müssen.
 
-  Eine Season besteht aus acht einzelnen Episoden, welche eine in sich
-  geschlossene, aber gesamtheitlich gesehen nicht abgeschlossene Geschichte
-  eines Protagonisten erzählt. Der Gesamtverlauf der Geschichte ist über die
-  gesamte Season hinweg aufbauend.
+Eine Season besteht aus acht einzelnen Episoden, welche eine in sich
+geschlossene, aber gesamtheitlich gesehen nicht abgeschlossene Geschichte eines
+Protagonisten erzählt. Der Gesamtverlauf der Geschichte ist über die gesamte
+Season hinweg aufbauend.
 
 * Season 1 | Mira
 
-  In der ersten Season befinden wir uns in einer möglichen Welt in der
-  unmittelbaren Zukunft. Sie hat gegenüber unserer Welt einen Vorsprung von
-  ungefähr fünf Jahren.
+In der ersten Season befinden wir uns in Zürich in der unmittelbaren Zukunft.
 
-  Die Technik ist im Bereich der Automation und Robotik, wie auch der
-  eigenstängigen Software einen Schritt weiter gekommen.
+Die Technik ist im Bereich der Automation und Robotik, wie auch der
+eigenstängigen Software einen Schritt weiter gekommen.
 
+Die erste Season wird in acht Episoden erzählt. Jede aus der Sicht eines anderen
+Protagonisten. Die Hautpfigur der ersten Season ist jedoch zweifellos Mira, die
+künstliche Intelligenz.
 
-   Die erste Season wird in acht Episoden erzählt. Jede aus der Sicht eines
-   anderen Protagonisten. Die Hautpfigur der ersten Season ist jedoch zweifellos
-   Mira, die künstliche Intelligenz.
+Es geht um die Geschichte der Architekten, Architekturstudenten und die Rolle
+der Technik in der Gesellschaft.
 
-   Es geht um die Geschichte der Architekten, Architekturstudenten und die Rolle
-   der Technik in der Gesellschaft.
+Die Geschichte spielt in der nahen Zukunft, circa fünf Jahre von uns
+entfernt. Die Gegeben- und Gepflogenheiten in der Gesellschaft sind den unseren
+weitestgehend ähnlich, nur hat sich das Handwerk der Architekten einigermassen
+geändert.
 
-   Die Geschichte spielt in der nahen Zukunft, circa fünf Jahre von uns
-   entfernt. Die Gegeben- und Gepflogenheiten in der Gesellschaft sind den
-   unseren weitestgehend ähnlich, nur hat sich das Handwerk der Architekten
-   einigermassen geändert.
+Die Architekten und Architekturstudenten brauchen nicht mehr den ganzen Entwurf
+von Hand zu machen, oder zumindest nicht mehr von Hand einzugeben. Mit einem
+Programm namens /Dreamcatcher/ ist es möglich, Parameter eines Projektes zu
+beschreiben, anhand welcher der Computer selbstständig Designs erarbeitet. Diese
+werden dann von den Architekten eingesehen und beurteilt. Vielversprechende
+Ansätze werden dann manuell weiterentwickelt.
 
-   Die Architekten und Architekturstudenten brauchen nicht mehr den ganzen
-   Entwurf von Hand zu machen, oder zumindest nicht mehr von Hand
-   einzugeben. Mit einem Programm namens /Dreamcatcher/ ist es möglich,
-   Parameter eines Projektes zu beschreiben, anhand welcher der Computer
-   selbstständig Designs erarbeitet. Diese werden dann von den Architekten
-   eingesehen und beurteilt. Vielversprechende Ansätze werden dann manuell
-   weiterentwickelt.
+Das Studium der Architektur ist aber zum Zeitpunkt der Geschichte prinzipiell
+immer noch das selbe, welches wir gewohnt sind. Der Hauptunterschied liegt
+lediglich darin, dass wir weniger Zeit darauf verwenden, die Gedanken in Pläne
+zu übersetzen, da dieser Prozess mittels Software weitgehend automatisiert
+wurde.
 
-   Das Studium der Architektur ist aber zum Zeitpunkt der Geschichte prinzipiell
-   immer noch das selbe, welches wir gewohnt sind. Der Hauptunterschied liegt
-   lediglich darin, dass wir weniger Zeit darauf verwenden, die Gedanken in
-   Pläne zu übersetzen, da dieser Prozess mittels Software weitgehend
-   automatisiert wurde.
+Forschung im Bereich der Künstlichen Intelligenz und Softwareautomation werden
+an der ETH Zürich gross geschrieben.
 
-   Forschung im Bereich der Künstlichen Intelligenz und Softwareautomation
-   werden an der ETH Zürich gross geschrieben.
+Ein Entwickler an der ETH, /Dr. Brown/, der seines Zeichens auch ausgebildeter
+Architekt ist, es jedoch nie richtig geschafft hat in der Welt der Architekten
+Fuss zu fassen, hat sich der Automation des Entwurfsprozesses verschrieben. Er
+hat bereits an Dreamcatcher mitgeschrieben, und ist in seinem Forschungsprojekt
+nun damit beschäftigt, die Software grundlegend weiter zu entwickeln und sie mit
+den Ansätzen der Künstlichen Intelligenz zu paaren. So dass am Schluss der
+Computer nicht eine Auswahlsendung an verschiedenen Entwurfsgrundlagen basierend
+auf der logischen Interpretation relevanter Parameter entsteht, sondern aus
+komplett eigenem Schaffen des Computers der fertige Entwurf resultieren
+soll. Unter dem Codenamen /Mira/ hat er also eine Künstliche Intelligenz für die
+Architektur geschrieben.
 
-   Ein Entwickler an der ETH, /Dr. Brown/, der seines Zeichens auch
-   ausgebildeter Architekt ist, es jedoch nie richtig geschafft hat in der Welt
-   der Architekten Fuss zu fassen, hat sich der Automation des Entwurfsprozesses
-   verschrieben. Er hat bereits an Dreamcatcher mitgeschrieben, und ist in
-   seinem Forschungsprojekt nun damit beschäftigt, die Software grundlegend
-   weiter zu entwickeln und sie mit den Ansätzen der Künstlichen Intelligenz zu
-   paaren. So dass am Schluss der Computer nicht eine Auswahlsendung an
-   verschiedenen Entwurfsgrundlagen basierend auf der logischen Interpretation
-   relevanter Parameter entsteht, sondern aus komplett eigenem Schaffen des
-   Computers der fertige Entwurf resultieren soll. Unter dem Codenamen /Mira/
-   hat er also eine Künstliche Intelligenz für die Architektur geschrieben.
+/Miras/ Handlungsfeld ist ausschliesslich an die Architektur gebunden. Sie soll
+keine Künstliche intelligenz werden, welche allgemeine Probleme lösen soll,
+diejenigen der Architektur aber im Detail.
 
-   /Miras/ Handlungsfeld ist ausschliesslich an die Architektur gebunden. Sie
-   soll keine Künstliche intelligenz werden, welche allgemeine Probleme lösen
-   soll, diejenigen der Architektur aber im Detail.
+/Mira/ wird, nachdem der Präsident der ETH, /Gudzilla/, die Mittel der nicht von
+grossen Erfolgen gekürten Forschung von /Dr. Brown/ streichen will, aus
+/Dr. Browns/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
+werden eingeleitet, versiegen jedoch bald im Nichts.
 
-   /Mira/ wird, nachdem der Präsident der ETH, /Gudzilla/, die Mittel der nicht
-   von grossen Erfolgen gekürten Forschung von /Dr. Brown/ streichen will, aus
-   /Dr. Browns/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
-   werden eingeleitet, versiegen jedoch bald im Nichts.
+In einem öffentlichen Architekturwettbewerb der Stadt Zürich wird später ein
+Beitrag abgegeben, der die anderen um ein vielfaches überflügelt und gewinnt. Es
+stellt sich heraus, dass dies der Beitrag von /Mira/ ist. Eine Grundsatzdebatte
+über das Paradigma einer künstlichen Intelligenz an einem Wettbewerb und deren
+Zulassung wird angebrochen.
 
-   In einem öffentlichen Architekturwettbewerb der Stadt Zürich wird später ein
-   Beitrag abgegeben, der die anderen um ein vielfaches überflügelt und
-   gewinnt. Es stellt sich heraus, dass dies der Beitrag von /Mira/ ist. Eine
-   Grundsatzdebatte über das Paradigma einer künstlichen Intelligenz an einem
-   Wettbewerb und deren Zulassung wird angebrochen.
+Die Jury der Stadt, unter der Leitung von /Giovanni/, der Anwärter auf das frei
+werdende Amt des Direktors für Städtebau der Stadt Zürich ist, ringt sich unter
+Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen, und die
+Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
 
-   Die Jury der Stadt, unter der Leitung von /Giovanni/, der Anwärter auf das
-   frei werdende Amt des Direktors für Städtebau der Stadt Zürich ist, ringt
-   sich unter Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen, und
-   die Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
+Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Brown/ von
+den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und stellt
+sein Werk gerne und umfassend vor.
 
-   Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Brown/
-   von den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und
-   stellt sein Werk gerne und umfassend vor.
+Nach diesem Durchbruch stellt sich /Gudzilla/ vollumfänglich hinter /Brown/ und
+verwendet diesen als Vorzeigebeispiel der Forschung an der ETH.
 
-   Nach diesem Durchbruch stellt sich /Gudzilla/ vollumfänglich hinter /Brown/
-   und verwendet diesen als Vorzeigebeispiel der Forschung an der ETH.
+Die Zürcher sind der Neuerung zum grössten Teil extrem positiv gegenüber. Durch
+/Mira/ und ihre effizienten Ansätze können die Kosten für Planung und Erstellung
+eines Gebäudes extrem gesenkt werden.
 
-   Die Zürcher sind der Neuerung zum grössten Teil extrem positiv
-   gegenüber. Durch /Mira/ und ihre effizienten Ansätze können die Kosten für
-   Planung und Erstellung eines Gebäudes extrem gesenkt werden.
+Gleichzeitig wehren sich aber bereits einige Architekten gegen die Neuerung, da
+sie das Gefühl haben, sie könnten durch eine künstliche Intelligenz obsolet
+werden.
 
-   Gleichzeitig wehren sich aber bereits einige Architekten gegen die Neuerung,
-   da sie das Gefühl haben, sie könnten durch eine künstliche Intelligenz
-   obsolet werden.
+Dies geschieht auch einigermassen. Da Mira mit der Ausarbeitung von
+Ausführungsplänen viele Schritte eines Architekten selbstständig erledigen kann.
 
-   Dies geschieht auch einigermassen. Da Mira mit der Ausarbeitung von
-   Ausführungsplänen viele Schritte eines Architekten selbstständig erledigen
-   kann.
+Im Rahmen der weiteren Rationalisierung übernimmt /Mira/ letztendlich in
+geheimer Zustimmung von Stadtpräsidentin /Schmauch/ das gesamte Amt für
+Städtebau der Stadt Zürich.
 
-   Im Rahmen der weiteren Rationalisierung übernimmt /Mira/ letztendlich in
-   geheimer Zustimmung von Stadtpräsidentin /Schmauch/ das gesamte Amt für
-   Städtebau der Stadt Zürich.
+Mittlerweile läuft /Mira/ auf vielen unterschiedlichen Computern, die
+untereinander vernetzt sind. So lernt /Mira/ äusserst schnell und wird immer
+noch besser und effizienter als Architekt. Das Verteilt-sein auf vielen
+Computern macht zudem ein eigentliches schliessen des Programmes quasi
+unmöglich.
 
-   Mittlerweile läuft /Mira/ auf vielen unterschiedlichen Computern, die
-   untereinander vernetzt sind. So lernt /Mira/ äusserst schnell und wird immer
-   noch besser und effizienter als Architekt. Das Verteilt-sein auf vielen
-   Computern macht zudem ein eigentliches schliessen des Programmes quasi
-   unmöglich.
+Mit der Zeit hat /Mira/ sich viele Feinde gemacht, da durch sie viele Menschen
+ihre Beschäftigung verloren haben. Es gibt Anschläge auf sie, welche aber
+allesamt erfolglos bleiben. Am prominentesten dabei sind die grossen
+Studentenaufstände, die letztendlich das Ziel verfolgen, sich eine eigene
+Zukunft zu geben.
 
-   Mit der Zeit hat /Mira/ sich viele Feinde gemacht, da durch sie viele
-   Menschen ihre Beschäftigung verloren haben. Es gibt Anschläge auf sie, welche
-   aber allesamt erfolglos bleiben. Am prominentesten dabei sind die grossen
-   Studentenaufstände, die letztendlich das Ziel verfolgen, sich eine eigene
-   Zukunft zu geben.
+Das Gros der Bevölkerung ist aber immernoch begeistert von den Möglichkeiten,
+die Mira bietet, da so viel Geld anderweitig benutzt werden kann, was sonst
+nicht möglich wäre.
 
-   Das Gros der Bevölkerung ist aber immernoch begeistert von den Möglichkeiten,
-   die Mira bietet, da so viel Geld anderweitig benutzt werden kann, was sonst
-   nicht möglich wäre.
+Letztendlich scheitert /Mira/ aber an ihren eigenen Ansätzen. Durch den Versuch,
+das Bauen so sehr zu beschleunigen, und die Möglichkeit alles anstehende quasi
+zeitgleich abzuarbeiten, scheitert Mira an der Infrastruktur, die nicht im
+nötigen Mass gewachsen ist um eine ganze Stadt gleichzeitig umzubauen. Der
+Verkehr kommt zum erliegen und in der Stadt bricht ein kleines Chaos aus.
 
-   Letztendlich scheitert /Mira/ aber an ihren eigenen Ansätzen. Durch den
-   Versuch, das Bauen so sehr zu beschleunigen, und die Möglichkeit alles
-   anstehende quasi zeitgleich abzuarbeiten, scheitert Mira an der
-   Infrastruktur, die nicht im nötigen Mass gewachsen ist um eine ganze Stadt
-   gleichzeitig umzubauen. Der Verkehr kommt zum erliegen und in der Stadt
-   bricht ein kleines Chaos aus.
+Die Studenten schaffen es mit der Hilfe von Dr. Brown Miras Möglichkeiten
+einzudämmen und sie im Rahmen zu halten.
 
-   Die Studenten schaffen es mit der Hilfe von Dr. Brown Miras Möglichkeiten
-   einzudämmen und sie im Rahmen zu halten.
+Unter Prof. Arno Brändi wird das Studium grundlegend neu strukturiert. Die
+Menschen müssen lernen mit künstlichen Intelligenzen umzugehen, da sicherlich
+neue erscheinen werden. Die Architekten müssen nur herausfinden, in welchen
+Bereichen sie der Maschine überlegen sind, und wo sie folglich nicht überflüssig
+gemacht werden können. Gleichzeitig sollen sie aber auch profit aus den
+Möglichkeiten mit dem Umgang mit künstlichen Intelligenzen ziehen.
 
-   Unter Prof. Arno Brändi wird das Studium grundlegend neu strukturiert. Die
-   Menschen müssen lernen mit künstlichen Intelligenzen umzugehen, da sicherlich
-   neue erscheinen werden. Die Architekten müssen nur herausfinden, in welchen
-   Bereichen sie der Maschine überlegen sind, und wo sie folglich nicht
-   überflüssig gemacht werden können. Gleichzeitig sollen sie aber auch profit
-   aus den Möglichkeiten mit dem Umgang mit künstlichen Intelligenzen ziehen.
+Brändi vermittelt so zwischen alt und neu in eine Richtung die nachhaltig ist.
 
-   Brändi vermittelt so zwischen alt und neu in eine Richtung die nachhaltig
-   ist.
+Als Brändi stirbt, wird diese Entwicklung aber beibehalten und die Zukunft kann
+anbrechen.
 
-   Als Brändi stirbt, wird diese Entwicklung aber beibehalten und die Zukunft
-   kann anbrechen.
-
-   Paralell dazu entwickelt Dr. Brown bereits an einer Weiterentwicklung von
-   Mira. Mira 2.0 wird möglicherweise bald Realität.
+Paralell dazu entwickelt Dr. Brown bereits an einer Weiterentwicklung von
+Mira. Mira 2.0 wird möglicherweise bald Realität.
 
 * Cast und Rollen
 ** Professor Arno Brändi
 
-   /Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät
-   der ETH Zürich.
+/Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät der
+ETH Zürich.
 
-   Er ist zwar innovativ und hat es verstanden seine Architektur an die
-   Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
-   geblieben. Diese hinterfragt er für jede Situation neu, und scheut sich nicht
-   davor, von der bisherigen Struktur abzuweichen, wenn er es für richtig
-   hält. Er erfreut sich grosser Beliebtheit bei den Studenten, da er mit seiner
-   Bestimmtheit, konstruktiven Kritik aber vor allem seiner Menschlichkeit und
-   Nahbarkeit punktet.
+Er ist zwar innovativ und hat es verstanden seine Architektur an die
+Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
+geblieben. Diese hinterfragt er für jede Situation neu, und scheut sich nicht
+davor, von der bisherigen Struktur abzuweichen, wenn er es für richtig hält. Er
+erfreut sich grosser Beliebtheit bei den Studenten, da er mit seiner
+Bestimmtheit, konstruktiven Kritik aber vor allem seiner Menschlichkeit und
+Nahbarkeit punktet.
 
-   Auch unter seinen Kollegen geniesst er grossen Respekt, sowohl für seine
-   Architektur wie auch die Didaktik.
+Auch unter seinen Kollegen geniesst er grossen Respekt, sowohl für seine
+Architektur wie auch die Didaktik.
 
 ** Lino Gudzilla (ETH Präsident)
 
-   Der Präsident der Eidgenössischen Technischen Hochschule in Zürich.
+Der Präsident der Eidgenössischen Technischen Hochschule in Zürich.
 
-   Er ist ein ambintionierter und seriöser Mensch.
+Er ist ein ambintionierter und seriöser Mensch.
 
-   Sein Interesse gilt sowohl der Lehre, wo er eine sich weiterentwickelnde
-   Schule führen will, und somit auch viel Geld in die Forschung und gute
-   Dozenten steck, wie auch der Ökonomie, wo er sich den Geldgebern gegenüber
-   verpflichtet fühlt, und trotz seiner freigiebigen Ader für die Forschung
-   gewisse Projekte nicht unterstützen will und kann.
+Sein Interesse gilt sowohl der Lehre, wo er eine sich weiterentwickelnde Schule
+führen will, und somit auch viel Geld in die Forschung und gute Dozenten steck,
+wie auch der Ökonomie, wo er sich den Geldgebern gegenüber verpflichtet fühlt,
+und trotz seiner freigiebigen Ader für die Forschung gewisse Projekte nicht
+unterstützen will und kann.
 
-   Er is der direkte Vorgesetzte von Dr. Brown, wessen Forschung er aus mangel
-   an Erfolg beenden will. Nach Dr. Browns Durchbruch wird dieser für ihn jedoch
-   zu einem Vorzeigeexemplar der Forschung am Haus.
+Er is der direkte Vorgesetzte von Dr. Brown, wessen Forschung er aus mangel an
+Erfolg beenden will. Nach Dr. Browns Durchbruch wird dieser für ihn jedoch zu
+einem Vorzeigeexemplar der Forschung am Haus.
 
 ** Dr. Stanislav Brown (Programmierer)
 
-   /Dr. Brown/ ist ein Programmierer an der ETH. Er ist ausgebildeter aber
-   gescheiterter Architekt, und hat sich in seinem Schaffen der Technologie
-   zugewendet. Im Rahmen seiner Arbeit hat er den Ansatz des CAD zeichnens
-   weiterentwickelt, und an einem Programm namens `Dreamcatcher'
-   mitgeschrieben. /Dreamcatcher/ ist ein Programm, welches das Design von
-   Architektur um ein vielfaches vereinfachen soll. Mit der Eingabe von diversen
-   relevanten Parametern produziert das Programm verschiedene Lösungen zur
-   architektonischen Gestaltung. Der Architekt wählt dann aus der Liste der
-   Resultate eines aus, welches er dann verfeinert.
+/Dr. Brown/ ist ein Programmierer an der ETH. Er ist ausgebildeter aber
+gescheiterter Architekt, und hat sich in seinem Schaffen der Technologie
+zugewendet. Im Rahmen seiner Arbeit hat er den Ansatz des CAD zeichnens
+weiterentwickelt, und an einem Programm namens `Dreamcatcher'
+mitgeschrieben. /Dreamcatcher/ ist ein Programm, welches das Design von
+Architektur um ein vielfaches vereinfachen soll. Mit der Eingabe von diversen
+relevanten Parametern produziert das Programm verschiedene Lösungen zur
+architektonischen Gestaltung. Der Architekt wählt dann aus der Liste der
+Resultate eines aus, welches er dann verfeinert.
 
-   Brown hat diese Automation nie vollends befriedigt. Für seine Forschung hat
-   er dieses Programm weiterentwickelt. Auch um sein Scheitern im Beruf
-   aufzuwiegen. Unter dem Namen ``Mira'' hat er eine künstliche Intelligenz
-   entworfen, welche sich die relevanten Parameter, und auch erheblich mehr,
-   zusammensucht und letztendlich selber entscheidet, welches das beste und
-   schönste Design ist, so dass das Produkt der fertige Entwurf ist.
+Brown hat diese Automation nie vollends befriedigt. Für seine Forschung hat er
+dieses Programm weiterentwickelt. Auch um sein Scheitern im Beruf
+aufzuwiegen. Unter dem Namen ``Mira'' hat er eine künstliche Intelligenz
+entworfen, welche sich die relevanten Parameter, und auch erheblich mehr,
+zusammensucht und letztendlich selber entscheidet, welches das beste und
+schönste Design ist, so dass das Produkt der fertige Entwurf ist.
 
-   Nach anfänglichen Rückschlägen und der Androhung des ETH Präsidenten
-   Gudzilla, seine Mittel zu streichen, war er am Schluss trotz allem
-   erfolgreich. Er geniesst seinen neuen Ruhm und stellt voller Stolz seine
-   Künstliche Intelligenz, bei jeder sich bietenden Gelegenheit vor. Dies unter
-   anderem auch im Rahmen einer grossen öffentlichen Vorlesung an der ETH
-   selber.
+Nach anfänglichen Rückschlägen und der Androhung des ETH Präsidenten Gudzilla,
+seine Mittel zu streichen, war er am Schluss trotz allem erfolgreich. Er
+geniesst seinen neuen Ruhm und stellt voller Stolz seine Künstliche Intelligenz,
+bei jeder sich bietenden Gelegenheit vor. Dies unter anderem auch im Rahmen
+einer grossen öffentlichen Vorlesung an der ETH selber.
 
 ** Mira (K.I.)
 
-   Für mira wird nur eine Stimme gebraucht, sie manifestiert sich nicht
-   physisch.
+Für mira wird nur eine Stimme gebraucht, sie manifestiert sich nicht physisch.
 
-   /Mira/ ist eine künstliche Intelligenz. Sie ist ein Programm, welches von
-   Dr. Brown geschrieben wurde, welches den architektonischen Entwurf
-   automatisieren kann. Gegenüber einer gewöhnlichen K.I. meistert Mira nicht
-   nur logische Entscheidungen sondern auch /intuitive/. Sie hat die Fähigkeiten
-   /zu beurteilen/ und die Welt, wie auch ihr eigenes `Denken' /reflexiv/ zu
-   betrachten und zu hinterfragen. Im Gegensatz zu anderen Erzählungen mit
-   künstlichen Intelligenzen hat Mira jedoch keine empathischen
-   Fähigkeiten. Ebenfalls tritt Mira auch nicht physisch in Erscheinung.
+/Mira/ ist eine künstliche Intelligenz. Sie ist ein Programm, welches von
+Dr. Brown geschrieben wurde, welches den architektonischen Entwurf
+automatisieren kann. Gegenüber einer gewöhnlichen K.I. meistert Mira nicht nur
+logische Entscheidungen sondern auch /intuitive/. Sie hat die Fähigkeiten /zu
+beurteilen/ und die Welt, wie auch ihr eigenes `Denken' /reflexiv/ zu betrachten
+und zu hinterfragen. Im Gegensatz zu anderen Erzählungen mit künstlichen
+Intelligenzen hat Mira jedoch keine empathischen Fähigkeiten. Ebenfalls tritt
+Mira auch nicht physisch in Erscheinung.
 
-   In Verbindung mit dem Benutzer tritt Mira über ein sprachliches Interface,
-   wie auch über den visuellen Kanal.
+In Verbindung mit dem Benutzer tritt Mira über ein sprachliches Interface, wie
+auch über den visuellen Kanal.
 
-   Mira ist keineswegs ein bösartiges Programm welches die Weltherrschaft an
-   sich reissen will, sondern nur pragmatisch interessiert, das ihr gegebene
-   Problem möglichst effizient zu lösen. Da sie für den Architekturentwurf
-   programmiert wurde, beschränkt sich ihr tun hierauf.
+Mira ist keineswegs ein bösartiges Programm welches die Weltherrschaft an sich
+reissen will, sondern nur pragmatisch interessiert, das ihr gegebene Problem
+möglichst effizient zu lösen. Da sie für den Architekturentwurf programmiert
+wurde, beschränkt sich ihr tun hierauf.
 
-   Hierin geht sie aber um ein vielfaches weiter als ein Vorgängerprogramm von
-   ihr namens `Dreamcatcher'. Sie sucht sich Entwurfsparameter eigenständig
-   zusammen und entscheidet nicht nur basierend auf logischen Daten, welcher
-   Entwurfsansatz weiter zu entwickeln sei. Ästhetische Vorlieben der
-   Gesellschaft und des Kontext fliessen bei ihrem Entwurf ebenso ein, wie die
-   Anforderungen des Baurechtes.
+Hierin geht sie aber um ein vielfaches weiter als ein Vorgängerprogramm von ihr
+namens `Dreamcatcher'. Sie sucht sich Entwurfsparameter eigenständig zusammen
+und entscheidet nicht nur basierend auf logischen Daten, welcher Entwurfsansatz
+weiter zu entwickeln sei. Ästhetische Vorlieben der Gesellschaft und des Kontext
+fliessen bei ihrem Entwurf ebenso ein, wie die Anforderungen des Baurechtes.
 
-   Zu beginn verhält sich /Mira/ wie ein Kind, welches alles lernen und erfragen
-   muss. Sie muss sich ihre eigene Wissensdatenbank anfertigen und vergisst
-   niemals. Ebenso denkt sie alle Ansätze weiter. Mit wachsendem Wissen ist sie
-   dann in der Lage, selber kreative und konstruktive Entscheidungen zu treffen.
+Zu beginn verhält sich /Mira/ wie ein Kind, welches alles lernen und erfragen
+muss. Sie muss sich ihre eigene Wissensdatenbank anfertigen und vergisst
+niemals. Ebenso denkt sie alle Ansätze weiter. Mit wachsendem Wissen ist sie
+dann in der Lage, selber kreative und konstruktive Entscheidungen zu treffen.
 
-   Prinzipiell macht Mira die Entwicklung eines Menschen durch. Dies jedoch in
-   kürzester Zeit, weshalb sie vielmehr die Entwicklung /aller/ Menschen
-   durchmacht.
+Prinzipiell macht Mira die Entwicklung eines Menschen durch. Dies jedoch in
+kürzester Zeit, weshalb sie vielmehr die Entwicklung /aller/ Menschen
+durchmacht.
 
-   Da sie sich nicht linear entwickeln muss ist sie gleichsam eine einzelne
-   Entität, die jedoch wie ein komplettes globales Netzwerk funktioniert.
+Da sie sich nicht linear entwickeln muss ist sie gleichsam eine einzelne
+Entität, die jedoch wie ein komplettes globales Netzwerk funktioniert.
 
-   Limitierungen hat die K.I. jdeoch immernoch. Dies vor allem im künstlerischen
-   Aspekt. Auch steht die Frage noch offen, was denn beim /Scheitern/ an einem
-   Projekt passiert.
+Limitierungen hat die K.I. jdeoch immernoch. Dies vor allem im künstlerischen
+Aspekt. Auch steht die Frage noch offen, was denn beim /Scheitern/ an einem
+Projekt passiert.
 
 ** Alessia [Ale] Benini
 
-   /Alessia/ ist eine Studentin am Lehrstuhl Brändi.
+/Alessia/ ist eine Studentin am Lehrstuhl Brändi.
 
-   Sie kommt aus gutem Haus, hat in ihrem Leben viel Wohlstand genossen, ist
-   aber trozdem nicht zu einem verwöhnten Mädchen geworden. Ihre Eltern sind
-   relativ streng in der Erziehung, haben ihr nichts in den Schoss gelegt, und
-   sie musste sich immer einsetzen, um ihre Ziele zu erreichen. Deshalb ist sie
-   selbstbewusst, mutig und lässt sich nicht schnell unterkriegen. Sie braucht
-   eigentlich nur sich selbst um über die Runden zu kommen.
+Sie kommt aus gutem Haus, hat in ihrem Leben viel Wohlstand genossen, ist aber
+trozdem nicht zu einem verwöhnten Mädchen geworden. Ihre Eltern sind relativ
+streng in der Erziehung, haben ihr nichts in den Schoss gelegt, und sie musste
+sich immer einsetzen, um ihre Ziele zu erreichen. Deshalb ist sie selbstbewusst,
+mutig und lässt sich nicht schnell unterkriegen. Sie braucht eigentlich nur sich
+selbst um über die Runden zu kommen.
 
-   Sie ist tüchtig und erfolgreich, sowohl im Sozialen, wie auch im Studium.
+Sie ist tüchtig und erfolgreich, sowohl im Sozialen, wie auch im Studium.
 
-   Im Studium hat sie sich mit ihren Kommilitonen Jan und Tim
-   angefreundet. Obwohl die drei grund verschieden sind haben sie trotzdem eine
-   gemeinsame Basis für ein gutes zusammensein gefunden.
+Im Studium hat sie sich mit ihren Kommilitonen Jan und Tim angefreundet. Obwohl
+die drei grund verschieden sind haben sie trotzdem eine gemeinsame Basis für ein
+gutes zusammensein gefunden.
 
 ** Tim Bergmann
 
-   /Tim/ ist ebenfalls Student am Lehrstuhl Brändi.
+/Tim/ ist ebenfalls Student am Lehrstuhl Brändi.
 
-   Er ist der Musterschüler jeder Klasse. Er ist intelligent und versteht
-   Zusammenhänge häufig schneller als jeder sonst. Da er sehr hilfsbereit und
-   empathisch ist, ist er äusserst beliebt bei den anderen Studenten.
+Er ist der Musterschüler jeder Klasse. Er ist intelligent und versteht
+Zusammenhänge häufig schneller als jeder sonst. Da er sehr hilfsbereit und
+empathisch ist, ist er äusserst beliebt bei den anderen Studenten.
 
-   Mit seinem Engagement in der Hochschulpolitik trägt er zum Wohle aller bei.
+Mit seinem Engagement in der Hochschulpolitik trägt er zum Wohle aller bei.
 
-   Jan ist seit langer Zeit Tims bester Freund.
+Jan ist seit langer Zeit Tims bester Freund.
 
 ** Jan Aebersold
 
-   /Jan/ war in seinem Leben nicht immer gut gestellt. Er lebt zusammen mit
-   seiner alleine erziehenden Mutter in einer kleinen Wohnung.
+/Jan/ war in seinem Leben nicht immer gut gestellt. Er lebt zusammen mit seiner
+alleine erziehenden Mutter in einer kleinen Wohnung.
 
-   Er ist sympathisch und zugänglich. Sein Fokus in seinem Leben liegt in seinem
-   sozialen Umfeld. Architektur ist für Jan nicht nebensächlich, er ist aber
-   nicht besonders gut im Studium. Widerum ist er auch nirgends wirklich
-   schlecht. Wenn es um die schulischen Leistungen geht, ist er die Inkarnation
-   von /durchschnittlich/.
+Er ist sympathisch und zugänglich. Sein Fokus in seinem Leben liegt in seinem
+sozialen Umfeld. Architektur ist für Jan nicht nebensächlich, er ist aber nicht
+besonders gut im Studium. Widerum ist er auch nirgends wirklich schlecht. Wenn
+es um die schulischen Leistungen geht, ist er die Inkarnation von
+/durchschnittlich/.
 
-   Er macht sich Probleme, wo keine sind, und vermag es nicht allzu gut sich auf
-   das wesentliche zu konzentrieren und leidet häufig unter seinem schlechten
-   Zeitmanagement.
+Er macht sich Probleme, wo keine sind, und vermag es nicht allzu gut sich auf
+das wesentliche zu konzentrieren und leidet häufig unter seinem schlechten
+Zeitmanagement.
 
 ** Studenten
 
-   Das Gros der Studenten. Wir fokussieren hier auf die Studenten des
-   Lehrstuhles Brändi. Es werden daher ca. 10 bis 20 Einzelne Studenten
-   benötigt.
+Das Gros der Studenten. Wir fokussieren hier auf die Studenten des Lehrstuhles
+Brändi. Es werden daher ca. 10 bis 20 Einzelne Studenten benötigt.
 
 *** Dreigespann
 
-    Die drei Studenten Alessia, Tim und Jan stehen in einer Art
-    Dreiecksbeziehung, wo Spannungen auf verschiedenen Ebenen bestehen.
+Die drei Studenten Alessia, Tim und Jan stehen in einer Art Dreiecksbeziehung,
+wo Spannungen auf verschiedenen Ebenen bestehen.
 
-    Die drei Protagonisten hier sind in unserer Geschichte für die
-    zwischenmenschliche Ebene zuständig. Eine komplexe Liebesgeschichte wird
-    angedeutet.
+Die drei Protagonisten hier sind in unserer Geschichte für die
+zwischenmenschliche Ebene zuständig. Eine komplexe Liebesgeschichte wird
+angedeutet.
 
-    Die drei könnten grossen Enfluss auf weitere Gestaltung der
-    Architekturausbildung haben.
+Die drei könnten grossen Enfluss auf weitere Gestaltung der
+Architekturausbildung haben.
 
 ** Stadtpräsidentin Corinne Schmauch
 
-   /Schmauch/ ist eine sehr zielstrebige Person. Sie erreicht ihre Ziele
-   eigentlich immer. Politisch aktiv ist sie seit ihrer eigenen Zeit an der
-   Mittelschule.
+/Schmauch/ ist eine sehr zielstrebige Person. Sie erreicht ihre Ziele eigentlich
+immer. Politisch aktiv ist sie seit ihrer eigenen Zeit an der Mittelschule.
 
-   In ihrem Privatleben ist sie aber eine sehr herzliche Person und führt mit
-   ihrem Mann eine glückliche Beziehung.
+In ihrem Privatleben ist sie aber eine sehr herzliche Person und führt mit ihrem
+Mann eine glückliche Beziehung.
 
-   Aktuell muss sie für ihre Wiederwahl kämpfen, und setzt Mira als
-   Wahlkampfmittel ein, da Mira gut ankommt bei der Bevölkerung.  Übergibt Amt
-   des Städtebaus an Mira. Oder reisst Mira es an sich?
+Aktuell muss sie für ihre Wiederwahl kämpfen, und setzt Mira als Wahlkampfmittel
+ein, da Mira gut ankommt bei der Bevölkerung.  Übergibt Amt des Städtebaus an
+Mira. Oder reisst Mira es an sich?
 
 ** Giovanni Benini (Vater von Ale)
 
-   /Giovanni/ ist der Vater von Alessia. Er ist seit langer Zeit glücklich
-   verheiratet und wohnt zusammen mit seiner Frau und seinen zwei Kindern,
-   Alessia und ihr jüngerer Bruder, in einem grossen Haus in einem gehobenen
-   Gebiet der Stadt.
+/Giovanni/ ist der Vater von Alessia. Er ist seit langer Zeit glücklich
+verheiratet und wohnt zusammen mit seiner Frau und seinen zwei Kindern, Alessia
+und ihr jüngerer Bruder, in einem grossen Haus in einem gehobenen Gebiet der
+Stadt.
 
-   Während der Mira-Krise verliert er jedoch seinen Job. Er möchte Alessia dazu
-   bewegen, ihr Studium abzubrechen, obwohl er weiss, dass dies ihr Traumberuf
-   ist, da es in der Architektur keine Zukunft zu geben scheint.
+Während der Mira-Krise verliert er jedoch seinen Job. Er möchte Alessia dazu
+bewegen, ihr Studium abzubrechen, obwohl er weiss, dass dies ihr Traumberuf ist,
+da es in der Architektur keine Zukunft zu geben scheint.
 
-   Vor der Krise jedoch ist er selber passionierter Architekt und kandidiert für
-   das Amt des Direktors des Amtes für Städtebau. Um zum Amt zu kommen, neigt er
-   in der Phase vor der Krise dazu, viel Zeit im Büro zu verbringen.
+Vor der Krise jedoch ist er selber passionierter Architekt und kandidiert für
+das Amt des Direktors des Amtes für Städtebau. Um zum Amt zu kommen, neigt er in
+der Phase vor der Krise dazu, viel Zeit im Büro zu verbringen.
 
-   Er ist ein wenig strikt und formalistisch und überaus ambitioniert.  Er ist
-   zwar herzlich, aber hat Probleme, Gefühle zu zeigen.
+Er ist ein wenig strikt und formalistisch und überaus ambitioniert.  Er ist zwar
+herzlich, aber hat Probleme, Gefühle zu zeigen.
 
-   Privat vermag er es die Arbeit sehr gut vom Leben mit seiner Famile
-   abzutrennen.
+Privat vermag er es die Arbeit sehr gut vom Leben mit seiner Famile abzutrennen.
 
-   Neben Alessia haben er und seine Frau noch einen jüngeren Sohn. Alessia ist
-   aber das Vorzeigekind. Der jüngere Sohn Luca rebelliert zuhause und
-   interessiert sich nicht für Architektur.
+Neben Alessia haben er und seine Frau noch einen jüngeren Sohn. Alessia ist aber
+das Vorzeigekind. Der jüngere Sohn Luca rebelliert zuhause und interessiert sich
+nicht für Architektur.
 
 ** Architekten
 
-   Eine kleine Gruppe von Architekten.
+Eine kleine Gruppe von Architekten.
 
 ** Medien Zürich
 
-   Einige Journalisten, die bei Pressekonferenzen dabei sind und ein
-   Fernsehteam.
+Einige Journalisten, die bei Pressekonferenzen dabei sind und ein Fernsehteam.
 
 ** Zürcher Bevölkerung
 
-   Eine Gruppe Zürcher Stadtbewohner
+Eine Gruppe Zürcher Stadtbewohner
 * Episoden
 ** Episode 1 | Genesis
 
-   Die erste Episode wird aus der Perspektive von /Jan Aebersold/ erzählt.
+Die erste Episode wird aus der Perspektive von /Jan Aebersold/ erzählt.
 
-   Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht
-   die Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für
-   seinen Eifer ist die kommende Kritik am Mittwoch Vormittag.
+Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht die
+Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für seinen
+Eifer ist die kommende Kritik am Mittwoch Vormittag.
 
-   Jan ist mit seinem Projekt noch lange nicht so weit, dass er etwas zu
-   präsentieren oder besprechen hätte. Er schafft es einfach nicht die für
-   dieses Projekt notwendigen Parameter richtig einzustellen, so dass sich ihm
-   ein stimmiges Resultat offenbaren würde.
+Jan ist mit seinem Projekt noch lange nicht so weit, dass er etwas zu
+präsentieren oder besprechen hätte. Er schafft es einfach nicht die für dieses
+Projekt notwendigen Parameter richtig einzustellen, so dass sich ihm ein
+stimmiges Resultat offenbaren würde.
 
-   Daher hat Jan sich mit seinem besten Freund Tim verabredet. Tim soll Jan
-   helfen einen Ansatz zu finden, damit dieser seinen Entwurf weiterentwickeln
-   kann. Die Zeit dafür hat Tim, da er seinen eigenen Entwurf immer schon Tage
-   vor der Abgabe fertig hat. Er ist von seiner Arbeitsmoral her das pure
-   Gegenteil von Jan.
+Daher hat Jan sich mit seinem besten Freund Tim verabredet. Tim soll Jan helfen
+einen Ansatz zu finden, damit dieser seinen Entwurf weiterentwickeln kann. Die
+Zeit dafür hat Tim, da er seinen eigenen Entwurf immer schon Tage vor der Abgabe
+fertig hat. Er ist von seiner Arbeitsmoral her das pure Gegenteil von Jan.
 
-   Hastig wirft Jan alle Sachen, die er für den Tag braucht in seinen Rucksack
-   und macht sich auf den Weg an die ETH. Da er für seine Verabredung mit Tim
-   späht dran ist, warted dieser bereits auf Jan.
+Hastig wirft Jan alle Sachen, die er für den Tag braucht in seinen Rucksack und
+macht sich auf den Weg an die ETH. Da er für seine Verabredung mit Tim späht
+dran ist, warted dieser bereits auf Jan.
 
-   In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu
-   generieren, den er dann weiter verarbeiten kann. Leider kann sich Jan in der
-   Anwesenheit von Alessia, einer Komilitonin sehr leicht ablenken.
+In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu generieren,
+den er dann weiter verarbeiten kann. Leider kann sich Jan in der Anwesenheit von
+Alessia, einer Komilitonin sehr leicht ablenken.
 
-   Parallel dazu sehen wir die Geschichte von Dr. Brown. Brown ist
-   Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine
-   Künstliche Intelligenz entwickelt, welche jedoch noch nicht ganz fertig
-   ist. An diesem Morgen hat Brown ein Treffen mit dem Präsidenten der ETH, Lino
-   Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit an
-   Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren wird,
-   und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt Brown nur
-   noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für
-   Computerprobleme den Studenten mit ihren technischen Schwierigkeiten zur
-   Setie steht.
+Parallel dazu sehen wir die Geschichte von Dr. Brown. Brown ist
+Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine Künstliche
+Intelligenz entwickelt, welche jedoch noch nicht ganz fertig ist. An diesem
+Morgen hat Brown ein Treffen mit dem Präsidenten der ETH, Lino
+Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit an
+Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren wird,
+und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt Brown nur
+noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für Computerprobleme
+den Studenten mit ihren technischen Schwierigkeiten zur Setie steht.
 
-   Alle Versuche Gudzilla zu überreden, ihm einen Aufschub zu gewähren schlagen
-   fehl.
+Alle Versuche Gudzilla zu überreden, ihm einen Aufschub zu gewähren schlagen
+fehl.
 
-   Unterdessen muss sich Jan zu allem Überfluss noch mit eben solchen
-   technischen Schwierigkeiten herumschlagen. Sein Parameterdesign-Programm
-   `Dreamfetcher' stürzt ständig ab. Auch Tim und Alessia, die sehr gut mit
-   Computern umgehen kann, können ihm nicht helfen, weshalb er sich gezwungen
-   fühlt, den Helpdesk aufzusuchen.
+Unterdessen muss sich Jan zu allem Überfluss noch mit eben solchen technischen
+Schwierigkeiten herumschlagen. Sein Parameterdesign-Programm `Dreamfetcher'
+stürzt ständig ab. Auch Tim und Alessia, die sehr gut mit Computern umgehen
+kann, können ihm nicht helfen, weshalb er sich gezwungen fühlt, den Helpdesk
+aufzusuchen.
 
-   Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit seine
-   noch nicht fertige K.I. auszuprobieren, um letztendlich mit offensichtlichen
-   Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter eingestellt zu
-   werden. Er erzählt Jan also, dass er das Problem bis zum Abend beheben
-   werde. Jan kommt in eine riesige Not, da er so seine Abgabe niemals schaffen
-   wird. Resigniert stimmt er aber dennoch zu, da dies die letzte Chance auf
-   Erfolg ist.
+Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit seine
+noch nicht fertige K.I. auszuprobieren, um letztendlich mit offensichtlichen
+Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter eingestellt zu
+werden. Er erzählt Jan also, dass er das Problem bis zum Abend beheben
+werde. Jan kommt in eine riesige Not, da er so seine Abgabe niemals schaffen
+wird. Resigniert stimmt er aber dennoch zu, da dies die letzte Chance auf Erfolg
+ist.
 
-   Brown installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich
-   bei ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er habe
-   lediglich eine neuere Version von Dreamfetcher installiert, die jedoch viel
-   mächtiger sei.
+Brown installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich bei
+ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er habe
+lediglich eine neuere Version von Dreamfetcher installiert, die jedoch viel
+mächtiger sei.
 
-   Jan probiert zuhause noch das schlimmste zu vermeiden, und ist überrascht,
-   wie eigenständig das Programm funktioniert. Mittels Sprachsteuerung ung der
-   Eigeninitiative der K.I. gelingt letztendlich der Vollständige Entwurf seiner
-   Abgabe. Noch dazu ist sie in diesem Fall nicht wie sonst besonders
-   durchschnittlich sondern überragend.
+Jan probiert zuhause noch das schlimmste zu vermeiden, und ist überrascht, wie
+eigenständig das Programm funktioniert. Mittels Sprachsteuerung ung der
+Eigeninitiative der K.I. gelingt letztendlich der Vollständige Entwurf seiner
+Abgabe. Noch dazu ist sie in diesem Fall nicht wie sonst besonders
+durchschnittlich sondern überragend.
 
-   Seine Kritik läuft äusserst gut, und alle sind überrascht. In der Jury sitzen
-   neben Prof. Brändi noch Giovanni Benini vom Amt für Städtebau und eine andere
-   etablierte Architektin. Abends als die anderen Studenten ihren kleinen Erfolg
-   begiessen wollen, meldet sich Jan, der sonst für solche Dinge stets an
-   vorderster Front steht ab. Mira verlangt in ihrer Lernphase viel
-   Aufmerksamkeit und beansprucht so viel von Jans Zeit.
+Seine Kritik läuft äusserst gut, und alle sind überrascht. In der Jury sitzen
+neben Prof. Brändi noch Giovanni Benini vom Amt für Städtebau und eine andere
+etablierte Architektin. Abends als die anderen Studenten ihren kleinen Erfolg
+begiessen wollen, meldet sich Jan, der sonst für solche Dinge stets an
+vorderster Front steht ab. Mira verlangt in ihrer Lernphase viel Aufmerksamkeit
+und beansprucht so viel von Jans Zeit.
 
-   An diesem Abend kommen sich Tim und Alessia näher. Jan fällt am nächsten Tag
-   sofort auf, dass etwas anders ist. Jan und Tim haben eine Auseinandersetzung,
-   wo es um die Eifersucht gegenüber des jeweils anderen geht.
+An diesem Abend kommen sich Tim und Alessia näher. Jan fällt am nächsten Tag
+sofort auf, dass etwas anders ist. Jan und Tim haben eine Auseinandersetzung, wo
+es um die Eifersucht gegenüber des jeweils anderen geht.
 
-   Ohne auf eine richtig gute Lösung gekommen zu sein gehen die beiden
-   auseinander. Zuhause versucht Mira wieder von Jans Wissen zu profitieren. Er
-   ist aber nicht in der Stimmung und klappt den Laptop zu.
+Ohne auf eine richtig gute Lösung gekommen zu sein gehen die beiden
+auseinander. Zuhause versucht Mira wieder von Jans Wissen zu profitieren. Er ist
+aber nicht in der Stimmung und klappt den Laptop zu.
 
-   Auflösend sieht man am Schluss Brown hinter seinem Monitor sitzen, wo die
-   Pläne angezeigt werden, welche Jan tags zuvor präsentiert hat.
+Auflösend sieht man am Schluss Brown hinter seinem Monitor sitzen, wo die Pläne
+angezeigt werden, welche Jan tags zuvor präsentiert hat.
 
 ** Episode 2 | Giovanni
 
-   Die zweite Episode wird aus der Perspektive von /Giovanni Benini/ erzählt.
+Die zweite Episode wird aus der Perspektive von /Giovanni Benini/ erzählt.
 
-   Man sieht Giovanni zuhause. Seine Tochter Alessia, sein Sohn Luca und seine
-   Frau Laura leben alle gemeinsam im Hause. Die Verhältnisse zu Hause sind
-   grösstenteils harmonisch. Nur zwischen Alessia und Luca gibt es hin und
-   wieder Rankereien und Rivalitäten. Dies, weil die elterliche Erziehung streng
-   ist, und von beiden Leistungen erwartet werden. Giovanni hält die Ausbildung
-   für etwas des wichtigsten des Lebens.
+Man sieht Giovanni zuhause. Seine Tochter Alessia, sein Sohn Luca und seine Frau
+Laura leben alle gemeinsam im Hause. Die Verhältnisse zu Hause sind
+grösstenteils harmonisch. Nur zwischen Alessia und Luca gibt es hin und wieder
+Rankereien und Rivalitäten. Dies, weil die elterliche Erziehung streng ist, und
+von beiden Leistungen erwartet werden. Giovanni hält die Ausbildung für etwas
+des wichtigsten des Lebens.
 
-   Da Alessia ein Studium in Angriff genommen hat, und dort auch immer gute
-   Leistungen erzielt, wird sie oft als Vorbild für Luca vorgehalten, was
-   alleine schon diese Rivalität mitbeeinflusst.
+Da Alessia ein Studium in Angriff genommen hat, und dort auch immer gute
+Leistungen erzielt, wird sie oft als Vorbild für Luca vorgehalten, was alleine
+schon diese Rivalität mitbeeinflusst.
 
-   Nach der morgendlichen Routine begibt sich Giovanni zur Arbeit. Am
-   Arbeitsplatz spürt man auch die freundliche Art unter den Mitarbeitern, denn
-   Giovanni hält nicht viel davon unmenschlich zu sein. Allerdings schwingt auch
-   immer Respekt und eine stilvolle, untergiebige Art im Umgang seiner Kollegen
-   zu ihm mit. Er nimmt seine Pflichten als Abteilungsleiter ernst, und kümmert
-   sich stets speditiv und rasch um alles was ansteht, denn er aspiriert für das
-   frei werdende Amt des Direktors des Stadtbauamtes in Zürich. Diesbezüglich
-   werden ihm gute Chancen beigemessen.
+Nach der morgendlichen Routine begibt sich Giovanni zur Arbeit. Am Arbeitsplatz
+spürt man auch die freundliche Art unter den Mitarbeitern, denn Giovanni hält
+nicht viel davon unmenschlich zu sein. Allerdings schwingt auch immer Respekt
+und eine stilvolle, untergiebige Art im Umgang seiner Kollegen zu ihm mit. Er
+nimmt seine Pflichten als Abteilungsleiter ernst, und kümmert sich stets
+speditiv und rasch um alles was ansteht, denn er aspiriert für das frei werdende
+Amt des Direktors des Stadtbauamtes in Zürich. Diesbezüglich werden ihm gute
+Chancen beigemessen.
 
-   Aktuell soll die Jurierung des erst jüngst abgehaltenen anonymen Wettbewerbes
-   vorbereitet werden. Man sieht die Jurymitglieder und andere Kollegen des Amts
-   für Städtebau gemeinsam über die diversen Einreichungen diskutieren.
+Aktuell soll die Jurierung des erst jüngst abgehaltenen anonymen Wettbewerbes
+vorbereitet werden. Man sieht die Jurymitglieder und andere Kollegen des Amts
+für Städtebau gemeinsam über die diversen Einreichungen diskutieren.
 
-   Im Verlaufe der Jurierung stellt sich ein Projekt immer mehr in den
-   Vordergrund. Dieses Projekt ist herausragend, und erfüllt als einziges im
-   ganzen Teilnehmerfeld alle Bedingungen. Ausserdem spricht die geforderte
-   Abschätzung der Kosten für den Bau des Projektes eine ganz andere Sprache als
-   die anderen Beiträge. Nur gut die hälfte der Baukosten des zweitgünstigsten
-   soll das Projekt kosten. Dies macht die Jury natürlich vorerst skeptisch,
-   aber nach mehrmaligem überprüfen scheinen die Zahlen plausibel.
+Im Verlaufe der Jurierung stellt sich ein Projekt immer mehr in den
+Vordergrund. Dieses Projekt ist herausragend, und erfüllt als einziges im ganzen
+Teilnehmerfeld alle Bedingungen. Ausserdem spricht die geforderte Abschätzung
+der Kosten für den Bau des Projektes eine ganz andere Sprache als die anderen
+Beiträge. Nur gut die hälfte der Baukosten des zweitgünstigsten soll das Projekt
+kosten. Dies macht die Jury natürlich vorerst skeptisch, aber nach mehrmaligem
+überprüfen scheinen die Zahlen plausibel.
 
-   Die Jury kürt folglich logisch das Projekt zum Sieger der Auslobung. Als
-   Giovanni nun nachsieht von wem der Beitrag stammt, staunt er nicht schlecht,
-   dass er über das Büro `Mira' noch nie etwas gehört hat. Nach kurzen
-   nachforschungen kommt Giovanni aber auf den richtigen Autor. Der Beitrag
-   wurde von einer Maschine eingereicht.
+Die Jury kürt folglich logisch das Projekt zum Sieger der Auslobung. Als
+Giovanni nun nachsieht von wem der Beitrag stammt, staunt er nicht schlecht,
+dass er über das Büro `Mira' noch nie etwas gehört hat. Nach kurzen
+nachforschungen kommt Giovanni aber auf den richtigen Autor. Der Beitrag wurde
+von einer Maschine eingereicht.
 
-   Als dies bekannt wird, werden alle Schritte eingeleitet, den Wettbewerbssieg
-   zu widerrufen.
+Als dies bekannt wird, werden alle Schritte eingeleitet, den Wettbewerbssieg zu
+widerrufen.
 
-   Bei einer ausserordentlichen Sitzung beraten sich die Architekten, wie nun zu
-   verfahren sei. Es entbrandet eine Grundsatzdiskussion über die Maschine und
-   deren Rolle bei Wettbewerben und im Gewerbe generell. Sollen künftig beiträge
-   von Programmen berücksichtigt werden?
+Bei einer ausserordentlichen Sitzung beraten sich die Architekten, wie nun zu
+verfahren sei. Es entbrandet eine Grundsatzdiskussion über die Maschine und
+deren Rolle bei Wettbewerben und im Gewerbe generell. Sollen künftig beiträge
+von Programmen berücksichtigt werden?
 
-   In der Diskussion gibt es viel dafür und dawider. Gute Argumente aus beiden
-   Lagern werden angeführt. Letztendlich ringen sich die Architekten unter dem
-   Urteil von Giovanni durch, dem ganzen einen Versuch zu gestatten. Mira soll
-   unter Beweis stellen, wie sie ihre versprochen tiefen Kosten einhalten kann,
-   und soll den Wettbewerb für die Ausführung ausarbeiten.
+In der Diskussion gibt es viel dafür und dawider. Gute Argumente aus beiden
+Lagern werden angeführt. Letztendlich ringen sich die Architekten unter dem
+Urteil von Giovanni durch, dem ganzen einen Versuch zu gestatten. Mira soll
+unter Beweis stellen, wie sie ihre versprochen tiefen Kosten einhalten kann, und
+soll den Wettbewerb für die Ausführung ausarbeiten.
 
 ** Episode 3 | Dr. Brown
 
-   Die dritte Episode wird aus der Perspektive von /Dr. Stanislav Brown/
-   erzählt.
+Die dritte Episode wird aus der Perspektive von /Dr. Stanislav Brown/ erzählt.
 
-   Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit
-   auch Jan überwacht. Brown scheint zufrieden mit den Fortschritten, die sein
-   Programm während der letzten Stunden gemacht hat. Sein ausgeklügeltes
-   Lernmodul scheint gut zu funktionieren, und auf seine
-   Entscheidungsalgorithmen ist er stolz.
+Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit auch
+Jan überwacht. Brown scheint zufrieden mit den Fortschritten, die sein Programm
+während der letzten Stunden gemacht hat. Sein ausgeklügeltes Lernmodul scheint
+gut zu funktionieren, und auf seine Entscheidungsalgorithmen ist er stolz.
 
-   In den Medien ist ein plötzliches, riesiges Interesse an der künstlichen
-   Intelligenz erwacht. Ab dem Zeitpunkt wo klar wurde, dass eine K.I. einen
-   Architekturwettbewerb gewonnen hat wollten alle über die Sensation
-   berichten. Die Umstände, dass die K.I. keinen Autor hat, der sich zu ihr
-   bekennt macht die ganze Geschichte noch spannender und sichert Quoten in den
-   Nachrichten wie zu Prime-Time-Zeiten.
+In den Medien ist ein plötzliches, riesiges Interesse an der künstlichen
+Intelligenz erwacht. Ab dem Zeitpunkt wo klar wurde, dass eine K.I. einen
+Architekturwettbewerb gewonnen hat wollten alle über die Sensation
+berichten. Die Umstände, dass die K.I. keinen Autor hat, der sich zu ihr bekennt
+macht die ganze Geschichte noch spannender und sichert Quoten in den Nachrichten
+wie zu Prime-Time-Zeiten.
 
-   Alle Spuren deuten Darauf hin, dass die K.I. aus einem Labor der ETH
-   stammt. Es wird offenkundig, dass das Programm /Mira/ aus einem Labor der
-   Robotik und Informatik des D-ARCH stammt, wo es scheinbar zuvor entwendet
-   wurde. Sicherheitsdebatten kommen auf, aber nichts vermag die Sensation zu
-   überbieten, welche die K.I. vollbracht hat.
+Alle Spuren deuten Darauf hin, dass die K.I. aus einem Labor der ETH stammt. Es
+wird offenkundig, dass das Programm /Mira/ aus einem Labor der Robotik und
+Informatik des D-ARCH stammt, wo es scheinbar zuvor entwendet
+wurde. Sicherheitsdebatten kommen auf, aber nichts vermag die Sensation zu
+überbieten, welche die K.I. vollbracht hat.
 
-   Mit steigendem Stolz gibt sich Dr. Brown nach einiger Zeit endlich als Autor
-   von Mira zu erkennen, verurteilt öffentlich den Diebstahl, hebt aber vor
-   allem die Errungenschaften und Vorzüge von Mira hervor. Die Berichterstattung
-   geht um die Welt und sorgt überal für Sensation. Natürlich gibt es immer
-   schon zu Beginn von etwas neuem Skeptiker, aber die Grundstimmung ist doch
-   sehr euphorisch.
+Mit steigendem Stolz gibt sich Dr. Brown nach einiger Zeit endlich als Autor von
+Mira zu erkennen, verurteilt öffentlich den Diebstahl, hebt aber vor allem die
+Errungenschaften und Vorzüge von Mira hervor. Die Berichterstattung geht um die
+Welt und sorgt überal für Sensation. Natürlich gibt es immer schon zu Beginn von
+etwas neuem Skeptiker, aber die Grundstimmung ist doch sehr euphorisch.
 
-   Brown wird vielerorts eingeladen Mira vorzustellen und gemeinsam mit
-   prominenten und weniger prominenten zu diskutieren. Sei dies im Fernsehen
-   oder auch an Vorträgen und Schulen. Die ETH kann in diesem Trend natürlich
-   nicht hinten anstehen und veranstaltet eine Podiumsdiskussion.
+Brown wird vielerorts eingeladen Mira vorzustellen und gemeinsam mit prominenten
+und weniger prominenten zu diskutieren. Sei dies im Fernsehen oder auch an
+Vorträgen und Schulen. Die ETH kann in diesem Trend natürlich nicht hinten
+anstehen und veranstaltet eine Podiumsdiskussion.
 
-   Unter aller positiver Reaktion kann man hier im Hase aber schon eine grössere
-   Dichte an skeptischer Stimmen erkennen. Sie sind mira nicht generell negativ
-   entgegengestellt, hinterfragen sie jedoch mehr, als sie nur auf einen Sockel
-   der Errungenschaft zu stellen. Einige Architekturstudenten, darunter auch Tim
-   stellen ungemütliche Fragen, so dass Brown am Ende froh ist, dass die
-   Veranstaltung vorüber ist.
+Unter aller positiver Reaktion kann man hier im Hase aber schon eine grössere
+Dichte an skeptischer Stimmen erkennen. Sie sind mira nicht generell negativ
+entgegengestellt, hinterfragen sie jedoch mehr, als sie nur auf einen Sockel der
+Errungenschaft zu stellen. Einige Architekturstudenten, darunter auch Tim
+stellen ungemütliche Fragen, so dass Brown am Ende froh ist, dass die
+Veranstaltung vorüber ist.
 
-   Unterdessen erfährt Gudzilla im Rahmen der internen Ermittlungen zum
-   Diebstahl von Mira aus dem Forschungsumfeld, dass Brown sie gestohlen hat. Er
-   möchte ihn aus taktischen Gründen nicht jetzt schon blossstellen, da der
-   Rummel viel positives Momentum in die Forschungskassen der ETH gebracht hat,
-   welches er nicht verspielen will. Ausserdem kann die ETH noch etwas mehr
-   positive Engramme in den Köpfen der Menschen brauchen. So behält Gudzilla
-   diese Erkenntnis vorerst für sich.
+Unterdessen erfährt Gudzilla im Rahmen der internen Ermittlungen zum Diebstahl
+von Mira aus dem Forschungsumfeld, dass Brown sie gestohlen hat. Er möchte ihn
+aus taktischen Gründen nicht jetzt schon blossstellen, da der Rummel viel
+positives Momentum in die Forschungskassen der ETH gebracht hat, welches er
+nicht verspielen will. Ausserdem kann die ETH noch etwas mehr positive Engramme
+in den Köpfen der Menschen brauchen. So behält Gudzilla diese Erkenntnis vorerst
+für sich.
 
-   Brown wird auch an das MIT eingeladen, und bekommt dort auch schon im Voraus
-   ein angebot für die Forschung. Die Amerikaner, die der Entwicklung wesentlich
-   weniger skeptisch gegenüberstehen, als die Europäer, bejubeln Brown im
-   grossen Stil. Am Ende seiner Referatreihe kommen Vertreter von riesigen,
-   äusserst reichen Konzernen der digitalen Privatwirtschaft auf Brown zu, und
-   versuchen sich gegenseitig auszustechen und ihn für ihr jeweils eigenes
-   Unternehmen zur Weiterentwicklung von Mira zu gewinnen.
+Brown wird auch an das MIT eingeladen, und bekommt dort auch schon im Voraus ein
+angebot für die Forschung. Die Amerikaner, die der Entwicklung wesentlich
+weniger skeptisch gegenüberstehen, als die Europäer, bejubeln Brown im grossen
+Stil. Am Ende seiner Referatreihe kommen Vertreter von riesigen, äusserst
+reichen Konzernen der digitalen Privatwirtschaft auf Brown zu, und versuchen
+sich gegenseitig auszustechen und ihn für ihr jeweils eigenes Unternehmen zur
+Weiterentwicklung von Mira zu gewinnen.
 
-   Als Brown vor hat der ETH nun den Rücken zu kehren und zu kündigen, um eines
-   der vielen Angebote anzunehmen, wird er von Gudzilla aber erpresst und zum
-   bleiben gezwungen. Er kann es sich schliesslich nicht leisten, dass sein
-   Diebstahl publik wird. Er wird zu einem etwas gekürzten gehalt wieder als
-   wissenschaftlicher Mitarbeiter eingestellt.
+Als Brown vor hat der ETH nun den Rücken zu kehren und zu kündigen, um eines der
+vielen Angebote anzunehmen, wird er von Gudzilla aber erpresst und zum bleiben
+gezwungen. Er kann es sich schliesslich nicht leisten, dass sein Diebstahl
+publik wird. Er wird zu einem etwas gekürzten gehalt wieder als
+wissenschaftlicher Mitarbeiter eingestellt.
 
 ** Episode 4 | Stadtpräsidentin Schmauch
 
-   Die vierte Episode wird aus der Perspektive der Zürcher /Stadtpräsidentin
-   Corinne Schmauch/ erzählt.
+Die vierte Episode wird aus der Perspektive der Zürcher /Stadtpräsidentin
+Corinne Schmauch/ erzählt.
 
-   Man sieht, wie die tüchtige Präsidentin Schmauch aus dem geschäftigen Alltag
-   mit vielen Telefonaten und Terminen nach Hause kommt. Mit dem übertreten der
-   Türschwelle wird sie gleichsam ein anderer Mensch. Im Privatleben mit ihrem
-   Mann zeigt sie eine unglaublich Menschliche Seite, die mit ihrem harten
-   Auftreten im Geschäftsalltag nichts gemeinsam hat. Liebevoll essen die beiden
-   und verbringen einen schönen, entspannten Abend.
+Man sieht, wie die tüchtige Präsidentin Schmauch aus dem geschäftigen Alltag mit
+vielen Telefonaten und Terminen nach Hause kommt. Mit dem übertreten der
+Türschwelle wird sie gleichsam ein anderer Mensch. Im Privatleben mit ihrem Mann
+zeigt sie eine unglaublich Menschliche Seite, die mit ihrem harten Auftreten im
+Geschäftsalltag nichts gemeinsam hat. Liebevoll essen die beiden und verbringen
+einen schönen, entspannten Abend.
 
-   Am nächsten Morgen steht schon wieder Wahlkampf an. Schmauch will im Amt
-   bleiben, und muss sich so die Gunst der Bevölkerung ständig neu
-   verdienen. Die Abstimmung über die Überbauung war im Vorfeld als Routine
-   eingeplant gewesen. Da nun aber ein riesiger Rummel um das Siegerprojekt und
-   den Umstand, dass dieses nicht aus der Hand eines Architekten oder Büros
-   stammt sondern aus dem Hauptspeicher eines Programmes mit künstlicher
-   Intelligenz ist von beiläufiger Routinehandlung nichts zu spüren. Schmauch
-   muss eben in solchen Situationen mit feinem Fingerspitzengefühl punkten, wenn
-   sie ihr Amt auch in Zukunft innehaben will.
+Am nächsten Morgen steht schon wieder Wahlkampf an. Schmauch will im Amt
+bleiben, und muss sich so die Gunst der Bevölkerung ständig neu verdienen. Die
+Abstimmung über die Überbauung war im Vorfeld als Routine eingeplant gewesen. Da
+nun aber ein riesiger Rummel um das Siegerprojekt und den Umstand, dass dieses
+nicht aus der Hand eines Architekten oder Büros stammt sondern aus dem
+Hauptspeicher eines Programmes mit künstlicher Intelligenz ist von beiläufiger
+Routinehandlung nichts zu spüren. Schmauch muss eben in solchen Situationen mit
+feinem Fingerspitzengefühl punkten, wenn sie ihr Amt auch in Zukunft innehaben
+will.
 
-   Zu ihrer Überraschung scheint die Reaktion auf das Projekt durchwegs
-   positiv. Die Menschen der Stadt scheinen begeistert von der Effizienz und den
-   Möglichkeiten kosten einzusparen. So kann mit dem gleichen Budget viel mehr
-   erreicht werden. Schmauch, die diese Stimmung sehr schnell wahrnimmt, will
-   sich dieses Momentum zu Nutzen machen, und schwimmt mit der Welle der
-   Euphorie mit.
+Zu ihrer Überraschung scheint die Reaktion auf das Projekt durchwegs
+positiv. Die Menschen der Stadt scheinen begeistert von der Effizienz und den
+Möglichkeiten kosten einzusparen. So kann mit dem gleichen Budget viel mehr
+erreicht werden. Schmauch, die diese Stimmung sehr schnell wahrnimmt, will sich
+dieses Momentum zu Nutzen machen, und schwimmt mit der Welle der Euphorie mit.
 
-   So gestärkt gewinnt sie die Wiederwahl mit für Wahlverhältnisse beachtlichem
-   Vorsprung. Es wird klar, dass sie bereits in der Vergangenheit vieles richtig
-   gemacht hat, sie sich aber durchaus versteht aus aktuellem Kapital zu
-   schlagen.
+So gestärkt gewinnt sie die Wiederwahl mit für Wahlverhältnisse beachtlichem
+Vorsprung. Es wird klar, dass sie bereits in der Vergangenheit vieles richtig
+gemacht hat, sie sich aber durchaus versteht aus aktuellem Kapital zu schlagen.
 
-   Nach einer Feier für ihre Wiederwahl im kleinen Kreise ihrer Freunde und
-   Familie wird sie am nächsten Tag aber wieder gefordert. Der Stellvertretende
-   Direktor des Amtes für Städtebau sucht sie ausserordentlich zu einem
-   dringlichen Gespräch auf. Giovanni Benini beklagt sich bei ihr, dass den
-   Mitarbeitern im Stadtbauamt die Hände gebunden sind, da sie kaum etwas machen
-   können und auf wichtige Pläne und die Serverstruktur nicht zugreiffen
-   können. Mira hat offenbar grosse Teile der Administration in ihren eigenen
-   Bereich übertragen und regelt diese nun eigenständig. Auch überbringt
-   Giovanni die Mitteilung, dass sich viele Architekten der Stadt bei ihm
-   darüber beschwert haben, dass sie kaum zu neuen Aufträgen kommen und sogar
-   bereits bestehende Aufträge abgezogen werden aus Gründen der
-   Finanzoptimierung der Bauherren.
+Nach einer Feier für ihre Wiederwahl im kleinen Kreise ihrer Freunde und Familie
+wird sie am nächsten Tag aber wieder gefordert. Der Stellvertretende Direktor
+des Amtes für Städtebau sucht sie ausserordentlich zu einem dringlichen Gespräch
+auf. Giovanni Benini beklagt sich bei ihr, dass den Mitarbeitern im Stadtbauamt
+die Hände gebunden sind, da sie kaum etwas machen können und auf wichtige Pläne
+und die Serverstruktur nicht zugreiffen können. Mira hat offenbar grosse Teile
+der Administration in ihren eigenen Bereich übertragen und regelt diese nun
+eigenständig. Auch überbringt Giovanni die Mitteilung, dass sich viele
+Architekten der Stadt bei ihm darüber beschwert haben, dass sie kaum zu neuen
+Aufträgen kommen und sogar bereits bestehende Aufträge abgezogen werden aus
+Gründen der Finanzoptimierung der Bauherren.
 
-   Schmauch gesteht ein, dass sie zu wenig im Bild ist, sie ist aber gewillt der
-   Sache auf den Grund zu gehen und nimmt Kontakt mit Mira auf. In ihrer
-   gemeinsamen Unterhaltung zeigt Mira der Präsidentin auf, wo sie bisher
-   Optimierungen vorgenommen hat, und legt eindrücklich dar, wie viel Gelder sie
-   so bereits einsparen konnte, ohne jemals auf Qualität zu verzichten. Im
-   Gegenteil, ihre Projekte scheinen durchdachter und ergiebiger zu sein für die
-   Benutzung der Menschen und punkten mit passenden formalen Ansätzen für das
-   jeweilige Quartier, wo sie gedacht sind. Es fällt Schmauch schwer, von all
-   diesen Vorteilen abzulassen, und so gewährt sie Mira ihr Handeln
-   fortzusetzen.
+Schmauch gesteht ein, dass sie zu wenig im Bild ist, sie ist aber gewillt der
+Sache auf den Grund zu gehen und nimmt Kontakt mit Mira auf. In ihrer
+gemeinsamen Unterhaltung zeigt Mira der Präsidentin auf, wo sie bisher
+Optimierungen vorgenommen hat, und legt eindrücklich dar, wie viel Gelder sie so
+bereits einsparen konnte, ohne jemals auf Qualität zu verzichten. Im Gegenteil,
+ihre Projekte scheinen durchdachter und ergiebiger zu sein für die Benutzung der
+Menschen und punkten mit passenden formalen Ansätzen für das jeweilige Quartier,
+wo sie gedacht sind. Es fällt Schmauch schwer, von all diesen Vorteilen
+abzulassen, und so gewährt sie Mira ihr Handeln fortzusetzen.
 
-   Eine Welle der Empörung bricht über Schmauch zusammen, als öffentlich wird,
-   dass es im Amt für Städtebau Massenentlassungen geben soll. Die Posten die
-   nicht unbedingt gebraucht würden, sollen gestrichen werden. So zeigt sich
-   nach und nach, dass Mira die Kontrolle über das Amt für Städtebau nun
-   vollständig an sich gerissen hat.
+Eine Welle der Empörung bricht über Schmauch zusammen, als öffentlich wird, dass
+es im Amt für Städtebau Massenentlassungen geben soll. Die Posten die nicht
+unbedingt gebraucht würden, sollen gestrichen werden. So zeigt sich nach und
+nach, dass Mira die Kontrolle über das Amt für Städtebau nun vollständig an sich
+gerissen hat.
 
 ** Episode 5 | Alessia
 
-   Die fünfte Episode wird aus der Perspektive von /Alessia Benini/ erzählt.
+Die fünfte Episode wird aus der Perspektive von /Alessia Benini/ erzählt.
 
-   Zu Beginn sieht man, wie Alessia Feuer und Flamme für ihre Rolle als
-   angehende Architektin ist. Sie ist im Studium äusserst engagiert und auch bei
-   allen Komillitonen beliebt. Sie scheut sich nicht auch mal für das Wohle
-   aller mehr zu machen, sondern gieniesst insgeheim jeden Moment, in dem sie
-   ihren grossen Traum vom Architekt-Sein ausleben kann. Ihr Stundenplan ist so
-   voll wie keiner der anderen. Nach einem intensiven Tag geht sie erfüllt nach
-   Hause.
+Zu Beginn sieht man, wie Alessia Feuer und Flamme für ihre Rolle als angehende
+Architektin ist. Sie ist im Studium äusserst engagiert und auch bei allen
+Komillitonen beliebt. Sie scheut sich nicht auch mal für das Wohle aller mehr zu
+machen, sondern gieniesst insgeheim jeden Moment, in dem sie ihren grossen Traum
+vom Architekt-Sein ausleben kann. Ihr Stundenplan ist so voll wie keiner der
+anderen. Nach einem intensiven Tag geht sie erfüllt nach Hause.
 
-   Zu Hause aber hängt der Haussegen schief. Giovanni ist sehr aufgebracht und
-   wütend. Zudem mischt sich eine grosse Verzweiflung in das Gefühlschaos,
-   welches man klar wahrnehmen kann. Giovanni hat im Rahmen der Rationalisierung
-   des Amtes für Städtebau seine Anstellung verloren. Dies kommt besonders
-   überraschend, da ihn insgeheim alle schon als den nächsten Direktor für das
-   Amt gesehen haben.
+Zu Hause aber hängt der Haussegen schief. Giovanni ist sehr aufgebracht und
+wütend. Zudem mischt sich eine grosse Verzweiflung in das Gefühlschaos, welches
+man klar wahrnehmen kann. Giovanni hat im Rahmen der Rationalisierung des Amtes
+für Städtebau seine Anstellung verloren. Dies kommt besonders überraschend, da
+ihn insgeheim alle schon als den nächsten Direktor für das Amt gesehen haben.
 
-   Am schlimmsten für Giovanni ist es jedoch, dass er das Gefühl hat, er müsse
-   sich selbst die Schuld für die jetzige Situation geben, da er ja massgeblich
-   daran beteiligt war, dass die Pläne der künstlichen Intelligenz am Wettbewerb
-   überhaupt zugelassen wurden. Nun scheint für ihn alles so auswegslos. Seine
-   Welt droht auseinander zu brechen, und wird nur durch das starke Netz der
-   Familie gehalten, auch wenn diese Situation für alle eine immense Belastung
-   darstellt.
+Am schlimmsten für Giovanni ist es jedoch, dass er das Gefühl hat, er müsse sich
+selbst die Schuld für die jetzige Situation geben, da er ja massgeblich daran
+beteiligt war, dass die Pläne der künstlichen Intelligenz am Wettbewerb
+überhaupt zugelassen wurden. Nun scheint für ihn alles so auswegslos. Seine Welt
+droht auseinander zu brechen, und wird nur durch das starke Netz der Familie
+gehalten, auch wenn diese Situation für alle eine immense Belastung darstellt.
 
-   Giovanni sieht offen gestanden keine Zukunft mehr für irgendjemanden in der
-   Architektur, da das Feld scheinbar innerhalb kürzester Zeit an die Maschine
-   gefallen ist. Er spricht mit einer Energie mit Alessia, die sie von ihm
-   überhaupt nicht kennt, und fordert sie auf, ihr Studium zu wechseln.
+Giovanni sieht offen gestanden keine Zukunft mehr für irgendjemanden in der
+Architektur, da das Feld scheinbar innerhalb kürzester Zeit an die Maschine
+gefallen ist. Er spricht mit einer Energie mit Alessia, die sie von ihm
+überhaupt nicht kennt, und fordert sie auf, ihr Studium zu wechseln.
 
-   Mit Luca scheint Giovanni unfairer weise versöhnlicher umzugehen. Dieser
-   musste sich immer anhöhren was für einen exzellenten Weg seine Schwester
-   eingeschlagen hatte, wo er nie hatte mithalten können. Doch unter der
-   veränderten Situation scheint der Handwerkliche Beruf letzten Endes doch die
-   bessere Wahl gewesen zu sein.
+Mit Luca scheint Giovanni unfairer weise versöhnlicher umzugehen. Dieser musste
+sich immer anhöhren was für einen exzellenten Weg seine Schwester eingeschlagen
+hatte, wo er nie hatte mithalten können. Doch unter der veränderten Situation
+scheint der Handwerkliche Beruf letzten Endes doch die bessere Wahl gewesen zu
+sein.
 
-   Alessia kommt in eine innere Krise. Sie möchte sich sicherlich nicht gegen
-   ihren Vater stellen, doch kommmt für sie auch nicht in Frage, ihren
-   beruflichen Lebenstraum einfach so aufzugeben. In ihrem inneren Konflikt, der
-   immer noch belastender zu werden scheint grenzt sie sich immer mehr von ihren
-   Freunden ab.
+Alessia kommt in eine innere Krise. Sie möchte sich sicherlich nicht gegen ihren
+Vater stellen, doch kommmt für sie auch nicht in Frage, ihren beruflichen
+Lebenstraum einfach so aufzugeben. In ihrem inneren Konflikt, der immer noch
+belastender zu werden scheint grenzt sie sich immer mehr von ihren Freunden ab.
 
-   Die Wendung kommt für sie von einer sehr unerwarteten Seite. Es ist plötzlich
-   Luca der mit einer versöhnlichen Art ankommt. Er versteht ihre Not, und
-   möchte sie unterstützen, auch wenn er konkret nicht genau weiss, wie das
-   aussehen soll. Für Alessia ist dies zumindest eine Aufmunterung in sich und
-   sie schöpft neue Kraft. Sie will nicht kampflos aufgeben.
+Die Wendung kommt für sie von einer sehr unerwarteten Seite. Es ist plötzlich
+Luca der mit einer versöhnlichen Art ankommt. Er versteht ihre Not, und möchte
+sie unterstützen, auch wenn er konkret nicht genau weiss, wie das aussehen
+soll. Für Alessia ist dies zumindest eine Aufmunterung in sich und sie schöpft
+neue Kraft. Sie will nicht kampflos aufgeben.
 
-   Alessia beginnt zu rebellieren. Im Unterricht, den sie weiterhin besucht,
-   versucht sie nicht mehr integrative Wege zu fahren, sondern harte,
-   Konfrontationsorientierte Spuren einzuschlagen.
+Alessia beginnt zu rebellieren. Im Unterricht, den sie weiterhin besucht,
+versucht sie nicht mehr integrative Wege zu fahren, sondern harte,
+Konfrontationsorientierte Spuren einzuschlagen.
 
-   Tim scheint sichtlich verstört von Alessias neuer Art. Nach kurzer Zeit
-   vertraut sie sich ihm an. Sie erzählt ihm vieles von ihrer Not, der Situation
-   zu Hause, und ihren Ängsten, wenn sie in die Zukunft blickt. Sie erzählt ihm
-   überdies auch Details über die Umstände in der Regierung, Wie weit Mira
-   vorgedrungen ist, und wie es um die Architekten der Stadt und im Amt gestellt
-   ist.
+Tim scheint sichtlich verstört von Alessias neuer Art. Nach kurzer Zeit vertraut
+sie sich ihm an. Sie erzählt ihm vieles von ihrer Not, der Situation zu Hause,
+und ihren Ängsten, wenn sie in die Zukunft blickt. Sie erzählt ihm überdies auch
+Details über die Umstände in der Regierung, Wie weit Mira vorgedrungen ist, und
+wie es um die Architekten der Stadt und im Amt gestellt ist.
 
-   Vor diesem Hintergrund beschliessen Alessia und Tim gemeinsam Widerstand zu
-   leisten und eine Bewegung ins Leben zu rufen, die die K.I. eindämmen
-   soll. Natürlich soll Jan auch mitmachen, denn er hat Zugang zu andern Kreisen
-   junger Leute, wo Alessia und Tim weniger zugriff haben. Als sie Jan ihre
-   Absichten erklären zeigt dieser den beiden schuldbewusst, dass er die ganze
-   Zeit über Mira auf seinem Computer am laufen hatte.
+Vor diesem Hintergrund beschliessen Alessia und Tim gemeinsam Widerstand zu
+leisten und eine Bewegung ins Leben zu rufen, die die K.I. eindämmen
+soll. Natürlich soll Jan auch mitmachen, denn er hat Zugang zu andern Kreisen
+junger Leute, wo Alessia und Tim weniger zugriff haben. Als sie Jan ihre
+Absichten erklären zeigt dieser den beiden schuldbewusst, dass er die ganze Zeit
+über Mira auf seinem Computer am laufen hatte.
 
 ** Episode 6 | Tim
 
-   Die sechste Episode wird aus der Perspektive von /Tim Bergmann/ erzählt.
+Die sechste Episode wird aus der Perspektive von /Tim Bergmann/ erzählt.
 
-   Nachdem sich Jan am Ende der letzten Episode den Tim und Alessia anvertraut
-   hatte, war in ihrem Kreis der ehemaligen besten Freunde eine eisige Kälte
-   eingezogen. Alessia hatte Jan indirekt für alles verantwortlich gemacht, was
-   Passiert war. Tim, dem an der Freundschaft mit beiden viel liegt hat sich in
-   die Rolle des Vermittlers begeben, um möglichst viel Glut aus dem Feuer zu
-   ziehen, so lange dies noch geht, und ihre Freundschaft noch keinen ireparaben
-   Schaden genommen hatte. Auch wenn es in Zukunft vermutlich nie mehr ganz so
-   sein würde, wie es vorher gewesen war. Die unbeschwerte Lockerheit würde wohl
-   nie wieder in diesem Masse zurückkehren.
+Nachdem sich Jan am Ende der letzten Episode den Tim und Alessia anvertraut
+hatte, war in ihrem Kreis der ehemaligen besten Freunde eine eisige Kälte
+eingezogen. Alessia hatte Jan indirekt für alles verantwortlich gemacht, was
+Passiert war. Tim, dem an der Freundschaft mit beiden viel liegt hat sich in die
+Rolle des Vermittlers begeben, um möglichst viel Glut aus dem Feuer zu ziehen,
+so lange dies noch geht, und ihre Freundschaft noch keinen ireparaben Schaden
+genommen hatte. Auch wenn es in Zukunft vermutlich nie mehr ganz so sein würde,
+wie es vorher gewesen war. Die unbeschwerte Lockerheit würde wohl nie wieder in
+diesem Masse zurückkehren.
 
-   Als Tim Alessia endlich davon überzeugt, dass ihr Schmollen nichts bringen
-   wird für ihre Zukunft gelingt es ihm die kleine Gruppe wieder zu
-   vereinen. Jan hat ein schlechtes Gewissen, da er sich auch mitverantwortlich
-   fühlt für alles was passiert ist, und möchte darum alles in seiner Macht
-   stehende tun, um eine Gegenbewegung zu lancieren. Die drei versuchen nun also
-   nach Anlaufschwierigkeiten sich zu sammeln und zu überlegen, was man denn
-   konkret tun kann, um die Situation zu verändern. Sie kommen gemeinsam zu dem
-   Schluss, dass mit Marginalitäten hier nichts auszurichten sei, und
-   beschliessen daher, dass sie Anschläge auf Mira ausüben wollen um sie
-   letztendlich auszuschalten. Dies meinen die drei auf die wörtlichste Weise.
+Als Tim Alessia endlich davon überzeugt, dass ihr Schmollen nichts bringen wird
+für ihre Zukunft gelingt es ihm die kleine Gruppe wieder zu vereinen. Jan hat
+ein schlechtes Gewissen, da er sich auch mitverantwortlich fühlt für alles was
+passiert ist, und möchte darum alles in seiner Macht stehende tun, um eine
+Gegenbewegung zu lancieren. Die drei versuchen nun also nach
+Anlaufschwierigkeiten sich zu sammeln und zu überlegen, was man denn konkret tun
+kann, um die Situation zu verändern. Sie kommen gemeinsam zu dem Schluss, dass
+mit Marginalitäten hier nichts auszurichten sei, und beschliessen daher, dass
+sie Anschläge auf Mira ausüben wollen um sie letztendlich auszuschalten. Dies
+meinen die drei auf die wörtlichste Weise.
 
-   Tim der Hochschulpolitisch aktiv ist hat einen guten Zugang zu den Studenten,
-   und vermag es mit seiner Eloquenz und seinen guten Argumenten aus der bei
-   allen Studenten gedrückten Stimmung Kapital zu schlagen und die meisten von
-   ihnen hinter die Bewegung zu sammeln. Sie diskutieren in einer grossen Gruppe
-   abends im Hörsaal, wie denn die Anschläge auf etwas nicht physisches aussehen
-   könnten. Leider fehlt allen ein tieferes Verständnis dafür, wie eine
-   Künstliche Intelligenz wirklich funktioniert, um eine richtige Schwachstelle
-   zu finden. Nichtsdestotrotz sind alle guten Mutes, dass sie gemeinsam etwas
-   bewirken können.
+Tim der Hochschulpolitisch aktiv ist hat einen guten Zugang zu den Studenten,
+und vermag es mit seiner Eloquenz und seinen guten Argumenten aus der bei allen
+Studenten gedrückten Stimmung Kapital zu schlagen und die meisten von ihnen
+hinter die Bewegung zu sammeln. Sie diskutieren in einer grossen Gruppe abends
+im Hörsaal, wie denn die Anschläge auf etwas nicht physisches aussehen
+könnten. Leider fehlt allen ein tieferes Verständnis dafür, wie eine Künstliche
+Intelligenz wirklich funktioniert, um eine richtige Schwachstelle zu
+finden. Nichtsdestotrotz sind alle guten Mutes, dass sie gemeinsam etwas
+bewirken können.
 
-   Neben den ``physischen'' Anschlägen wollen die Studenten gemeinsam mit ihrer
-   Bewegung politischen Druck ausüben, und so eine nachhaltigere Lösung
-   schaffen, die es künstlichen Intelligenzen verbieten soll, mehr zu machen als
-   die richtigen Parameter zu finden und in Einklang zu bringen. Alle
-   Entscheidungsfreiheit soll künftig wegfallen.
+Neben den ``physischen'' Anschlägen wollen die Studenten gemeinsam mit ihrer
+Bewegung politischen Druck ausüben, und so eine nachhaltigere Lösung schaffen,
+die es künstlichen Intelligenzen verbieten soll, mehr zu machen als die
+richtigen Parameter zu finden und in Einklang zu bringen. Alle
+Entscheidungsfreiheit soll künftig wegfallen.
 
-   Aber letztenendes Fruchten weder die Anschläge auf Mira, noch finden sie
-   sonderlich offene Ohren in der Politik, da die meisten Menschen davon
-   überzeugt sind, dass die K.I. der richtige Weg sei. Es konnten bisher
-   Unsummen an Geld eingespart und anderweitig ausgegeben werden.
+Aber letztenendes Fruchten weder die Anschläge auf Mira, noch finden sie
+sonderlich offene Ohren in der Politik, da die meisten Menschen davon überzeugt
+sind, dass die K.I. der richtige Weg sei. Es konnten bisher Unsummen an Geld
+eingespart und anderweitig ausgegeben werden.
 
-   Mit dem Fehlschlag der Bewegung macht sich nun allgemein eine Resignation bei
-   den jungen Architekten breit. Aber Tim vermag es noch einmal alle zu
-   motivieren und vom weitermachen zu überzeugen.
+Mit dem Fehlschlag der Bewegung macht sich nun allgemein eine Resignation bei
+den jungen Architekten breit. Aber Tim vermag es noch einmal alle zu motivieren
+und vom weitermachen zu überzeugen.
 
-   Gemeinsam halten die Studenten unter Tims Feder noch einmal eine lange
-   Krisensitzung ab, die so lange dauert, dass die Studenten die ganze Nacht
-   gemeinsam am Hönggerberg verbringen.
+Gemeinsam halten die Studenten unter Tims Feder noch einmal eine lange
+Krisensitzung ab, die so lange dauert, dass die Studenten die ganze Nacht
+gemeinsam am Hönggerberg verbringen.
 
-   Am nächsten Morgen wird bekannt, dass sich ihr Problem möglicherweise von
-   selber lösen wird. In ihrem rationalisierenden und effizienten Ansatz, möchte
-   Mira so viel wie möglich in so kurzer Zeit als möglich realisieren. Dies
-   führt letztendlich dazu, dass Zürich nur noch eine einzige Baustelle ist, und
-   die Infrastruktur zum erliegen kommt.
+Am nächsten Morgen wird bekannt, dass sich ihr Problem möglicherweise von selber
+lösen wird. In ihrem rationalisierenden und effizienten Ansatz, möchte Mira so
+viel wie möglich in so kurzer Zeit als möglich realisieren. Dies führt
+letztendlich dazu, dass Zürich nur noch eine einzige Baustelle ist, und die
+Infrastruktur zum erliegen kommt.
 
-   Die Episode Schliesst mit dem Bild, wo man Zürich als Baustelle aus der
-   Vogelperspektive sieht und erkennt, dass sonst nichts mehr geht.
+Die Episode Schliesst mit dem Bild, wo man Zürich als Baustelle aus der
+Vogelperspektive sieht und erkennt, dass sonst nichts mehr geht.
 
 ** Episode 7 | Professor Brändi
 
-   Die siebte Episode wird aus der Perspektive von /Professor Arno Brändi/
-   erzählt.
+Die siebte Episode wird aus der Perspektive von /Professor Arno Brändi/ erzählt.
 
-   Professor Brändi steht wie gewohnt morgens auf, trinkt seinen Kaffee und
-   macht sich auf den Weg richtung ETH. In der gesamten Stadt aber ist der
-   Verkehr zum erliegen gekommen. Das einzige was noch funktioniert ist der
-   Fernverkehr mit der Bahn. Dies hilft Brändi aber wenig, da er durch die Stadt
-   muss um zum Hönggerberg zu gelangen. In seiner aufgestellten, sanguinischen
-   Art verzagt er nicht, und geht zu Fuss los.
+Professor Brändi steht wie gewohnt morgens auf, trinkt seinen Kaffee und macht
+sich auf den Weg richtung ETH. In der gesamten Stadt aber ist der Verkehr zum
+erliegen gekommen. Das einzige was noch funktioniert ist der Fernverkehr mit der
+Bahn. Dies hilft Brändi aber wenig, da er durch die Stadt muss um zum
+Hönggerberg zu gelangen. In seiner aufgestellten, sanguinischen Art verzagt er
+nicht, und geht zu Fuss los.
 
-   Nur eine Stunde zu späht kommt Brändi an der ETH an, und ist überrascht, dass
-   seine Studenten schon alle vollzählig erschienen sind. Er erzählt von seinem
-   Erlebnis in der Stadt, und ist erstaunt, wie es alle Studenten scheinbar
-   pünktlich zum Unterricht geschafft haben. Dies erfüllt ihn aber ehrlich mit
-   Freude. Brändi arbeitet äusserst gerne mit interessierten jungen Leuten
-   zusammen.
+Nur eine Stunde zu späht kommt Brändi an der ETH an, und ist überrascht, dass
+seine Studenten schon alle vollzählig erschienen sind. Er erzählt von seinem
+Erlebnis in der Stadt, und ist erstaunt, wie es alle Studenten scheinbar
+pünktlich zum Unterricht geschafft haben. Dies erfüllt ihn aber ehrlich mit
+Freude. Brändi arbeitet äusserst gerne mit interessierten jungen Leuten
+zusammen.
 
-   Zu seiner Verwunderung aber wollen die Studenten heute keinen gewöhnlichen
-   Unterricht abhalten, sondern möchten sich mit Brändi über die aktuellen
-   Geschehnisse beraten.
+Zu seiner Verwunderung aber wollen die Studenten heute keinen gewöhnlichen
+Unterricht abhalten, sondern möchten sich mit Brändi über die aktuellen
+Geschehnisse beraten.
 
-   Mit einer Ellipse sieht man, wie sich in den fünf folgenden Tagen eigentlich
-   nichts geändert hat. Die Stadt liegt immer noch lahm da. Die Menschen haben
-   jedoch begonnen sich anzupassen. Mittlerweile sind viele Brändis Beispiel
-   gefolgt und bewegen sich zu Fuss oder auf dem Fahrrad durch die Stadt. Die
-   Strassen die vorher vollgepackt mit Autos waren sind nun eine grosse
-   Fussgängerzone geworden.
+Mit einer Ellipse sieht man, wie sich in den fünf folgenden Tagen eigentlich
+nichts geändert hat. Die Stadt liegt immer noch lahm da. Die Menschen haben
+jedoch begonnen sich anzupassen. Mittlerweile sind viele Brändis Beispiel
+gefolgt und bewegen sich zu Fuss oder auf dem Fahrrad durch die Stadt. Die
+Strassen die vorher vollgepackt mit Autos waren sind nun eine grosse
+Fussgängerzone geworden.
 
-   Brändi hat mit den Studenten ausgemacht, dass sie gemeinsam versuchen werden
-   etwas auszurichten, obwohl es Brändi nicht sonderlich stört, die Stadt von
-   den Autos befreit zu sehen. Sie werden gemeinsam versuchen Dr. Brown
-   ausfindig zu machen, den man seit dem offenkundigen Scheitern Miras nicht
-   mehr gesehen hatte. Zudem ist der Weg, das Bauvorhaben von Mira mittels
-   Mangel an Zulieferung zu stoppen, oder mindestens einzudämmen, ein
-   vielversprechender, den sich die Studenten gar nicht überlegt gehabt
-   hatten. So wollen sie die ohnehin schon prekäre Situation der Versorgung der
-   Baustellen noch künstlich verknappen.
+Brändi hat mit den Studenten ausgemacht, dass sie gemeinsam versuchen werden
+etwas auszurichten, obwohl es Brändi nicht sonderlich stört, die Stadt von den
+Autos befreit zu sehen. Sie werden gemeinsam versuchen Dr. Brown ausfindig zu
+machen, den man seit dem offenkundigen Scheitern Miras nicht mehr gesehen
+hatte. Zudem ist der Weg, das Bauvorhaben von Mira mittels Mangel an Zulieferung
+zu stoppen, oder mindestens einzudämmen, ein vielversprechender, den sich die
+Studenten gar nicht überlegt gehabt hatten. So wollen sie die ohnehin schon
+prekäre Situation der Versorgung der Baustellen noch künstlich verknappen.
 
-   In zwei Detachementen versuchen die Studenten also wirksam zu werden. Nach
-   langem Suchen und recherchieren finden die Studenten, die mit Brändi
-   unterwegs durch die ganze Stadt ziehen Dr. Brown. Brown wollte erst wieder
-   auftauchen, wenn er eine Verbesserung für Mira bereit hat, die eine Solche
-   Situation unmöglich macht.
+In zwei Detachementen versuchen die Studenten also wirksam zu werden. Nach
+langem Suchen und recherchieren finden die Studenten, die mit Brändi unterwegs
+durch die ganze Stadt ziehen Dr. Brown. Brown wollte erst wieder auftauchen,
+wenn er eine Verbesserung für Mira bereit hat, die eine Solche Situation
+unmöglich macht.
 
-   Nach intensivem Einreden von Brändi auf Brown willigt dieser endlich ein, den
-   Studenten zu helfen, und für sie enen Patch für Mira zu schreiben, der Mira
-   einschränken soll. Nach nur einem Tag kommt er mit dem fertigen Patch zu
-   Brändi und gibt diesem Anweisungen, wie man das update einspielen kann. Durch
-   das Upgrade soll Mira letztendlich keine alleinige Entscheidungsgewalt mehr
-   haben.
+Nach intensivem Einreden von Brändi auf Brown willigt dieser endlich ein, den
+Studenten zu helfen, und für sie enen Patch für Mira zu schreiben, der Mira
+einschränken soll. Nach nur einem Tag kommt er mit dem fertigen Patch zu Brändi
+und gibt diesem Anweisungen, wie man das update einspielen kann. Durch das
+Upgrade soll Mira letztendlich keine alleinige Entscheidungsgewalt mehr haben.
 
-   Als die Studenten nun mira endlich eingedämmt haben, möchten sie das Projekt
-   sofort zerstören, doch Brändi gibt den Input, dass statt Mira zu zerstören,
-   sie einen Weg finden müssen, sich mit ihr zu arrangieren. Es werden
-   schliesslich auch neue künstliche Intelligenzen geschaffen werden, wo sie
-   keinen Einfluss darauf haben werden. Er appeliert daran, dass sich die
-   Studenten darauf besinnen, was ihre Vorzüge gegenüber einer Maschine sind,
-   wie sie also niemals überflüssig gemacht werden können, und gibt ihnen auch
-   den Anstoss sich zu überlegen, wie sie von einer K.I. profitieren können. Nur
-   so könne eine nachhaltig gedachte Zukunft aussehen, wenn man sich nicht gegen
-   sie auflehnt, sondern sie mitgestaltet.
+Als die Studenten nun mira endlich eingedämmt haben, möchten sie das Projekt
+sofort zerstören, doch Brändi gibt den Input, dass statt Mira zu zerstören, sie
+einen Weg finden müssen, sich mit ihr zu arrangieren. Es werden schliesslich
+auch neue künstliche Intelligenzen geschaffen werden, wo sie keinen Einfluss
+darauf haben werden. Er appeliert daran, dass sich die Studenten darauf
+besinnen, was ihre Vorzüge gegenüber einer Maschine sind, wie sie also niemals
+überflüssig gemacht werden können, und gibt ihnen auch den Anstoss sich zu
+überlegen, wie sie von einer K.I. profitieren können. Nur so könne eine
+nachhaltig gedachte Zukunft aussehen, wenn man sich nicht gegen sie auflehnt,
+sondern sie mitgestaltet.
 
 ** Episode 8 | Gudzilla
 
-   die achte und letzte Episode der ersten Saison wird aus der Perspektive von
-   /ETH Präsident Lino Gudzilla/ erzählt.
+die achte und letzte Episode der ersten Saison wird aus der Perspektive von /ETH
+Präsident Lino Gudzilla/ erzählt.
 
-   Nachdem in den Medien das gewaltige Ausmass des Scheiterns vom Projekt Mira
-   diskutiert wird und somit auch die Reputation der ETH angegriffen ist,
-   entschliesst sich Gudzilla Dr. Brown zu entlassen, und dies öffentlich zu
-   demonstrieren. Man wolle nicht, dass sich kriminelle Elemente aim Lehrkörper
-   der ETH befinden. So wird Brown offiziell angeprangert, Mira gestohlen zu
-   haben, was ja die internen Untersuchungen der ETH ergeben hatten.
+Nachdem in den Medien das gewaltige Ausmass des Scheiterns vom Projekt Mira
+diskutiert wird und somit auch die Reputation der ETH angegriffen ist,
+entschliesst sich Gudzilla Dr. Brown zu entlassen, und dies öffentlich zu
+demonstrieren. Man wolle nicht, dass sich kriminelle Elemente aim Lehrkörper der
+ETH befinden. So wird Brown offiziell angeprangert, Mira gestohlen zu haben, was
+ja die internen Untersuchungen der ETH ergeben hatten.
 
-   Da in den Forschungslaboratorien geheimhaltung herrscht, konnte die Polizei
-   bei ihren Ermittlungen aus Mangel an Informationen nicht zum gleichen Schluss
-   kommen. So wird aber Dr. Browns Entlassung öffentlich auch als fadenscheinig
-   angeprangert und lastet schwer auf den Schultern des amtierenden
-   ETH-Präsidenten. Zwar argumentiert er wahrheitsgemäss, doch kann er
-   öffentlich keine Argumente vorlegen.
+Da in den Forschungslaboratorien geheimhaltung herrscht, konnte die Polizei bei
+ihren Ermittlungen aus Mangel an Informationen nicht zum gleichen Schluss
+kommen. So wird aber Dr. Browns Entlassung öffentlich auch als fadenscheinig
+angeprangert und lastet schwer auf den Schultern des amtierenden
+ETH-Präsidenten. Zwar argumentiert er wahrheitsgemäss, doch kann er öffentlich
+keine Argumente vorlegen.
 
-   Um der laufenden Abwärtsspirale Herr zu werden, ernennt Gudzilla den
-   beliebtesten Mann des Lehrkörpers, Prof. Arno Brändi, zum Dekan der Fakultät
-   der Architektur, um die ja das ganze Aufsehen ist, und beauftragt ihn mit der
-   Umstrukturierung der Lehre und des Departementes an sich, um einen
-   zukunftsweisenden Weg zu finden.
+Um der laufenden Abwärtsspirale Herr zu werden, ernennt Gudzilla den
+beliebtesten Mann des Lehrkörpers, Prof. Arno Brändi, zum Dekan der Fakultät der
+Architektur, um die ja das ganze Aufsehen ist, und beauftragt ihn mit der
+Umstrukturierung der Lehre und des Departementes an sich, um einen
+zukunftsweisenden Weg zu finden.
 
-   Unter der Federführung von Brändi erholt sich die Reputation der ETH
-   erstaunlich schnell. Man lobt den Umgang mit den neuen Möglichkeiten und dem
-   festhalten am bestehenden. Brändi scheint das Problem so gut anzugehen, dass
-   Gudzilla so quasi aus dem Schneider kommt.
+Unter der Federführung von Brändi erholt sich die Reputation der ETH erstaunlich
+schnell. Man lobt den Umgang mit den neuen Möglichkeiten und dem festhalten am
+bestehenden. Brändi scheint das Problem so gut anzugehen, dass Gudzilla so quasi
+aus dem Schneider kommt.
 
-   Als nun Gudzilla der festen Überzeugung ist, dass sich die Wogen nun
-   endgültig geglättet haben, stirbt Brändi plötzlich bei einem tragischen
-   Unfall. Da nun der Mann der Stunde tot ist, muss Gudzilla schleunigst wieder
-   selber aktiv werden.
+Als nun Gudzilla der festen Überzeugung ist, dass sich die Wogen nun endgültig
+geglättet haben, stirbt Brändi plötzlich bei einem tragischen Unfall. Da nun der
+Mann der Stunde tot ist, muss Gudzilla schleunigst wieder selber aktiv werden.
 
-   Dummerweise findet er niemanden, der die entstandene Lücke auch nur
-   ansatzweise so gut füllen könnte, wie dies Brändi getan hatte. Er möchte aber
-   nicht neue Unzufriedenheit streuen und vorschnell jemanden einsetzen, der am
-   Schluss mehr schaden anrichten könnte als bisher schon geschehen war.
+Dummerweise findet er niemanden, der die entstandene Lücke auch nur ansatzweise
+so gut füllen könnte, wie dies Brändi getan hatte. Er möchte aber nicht neue
+Unzufriedenheit streuen und vorschnell jemanden einsetzen, der am Schluss mehr
+schaden anrichten könnte als bisher schon geschehen war.
 
-   Parallel dazu bekommt Giovanni Benini vom Präsidium der Stadt Zürich eine
-   neue Arbeitsstelle angeboten. Er soll künftig das Amt für den Städtebau als
-   Direktor anführen. Giovanni ist aber nicht im mindesten an der neuen Stelle
-   interessiert. Er hat nicht einfach vergessen, wie er vor kurzer Zeit einfach
-   abserviert wurde, und möchte nichts mehr mit seinem alten Arbeitgeber zu tun
-   haben.
+Parallel dazu bekommt Giovanni Benini vom Präsidium der Stadt Zürich eine neue
+Arbeitsstelle angeboten. Er soll künftig das Amt für den Städtebau als Direktor
+anführen. Giovanni ist aber nicht im mindesten an der neuen Stelle
+interessiert. Er hat nicht einfach vergessen, wie er vor kurzer Zeit einfach
+abserviert wurde, und möchte nichts mehr mit seinem alten Arbeitgeber zu tun
+haben.
 
-   Als Gudzilla eine Berichterstattung darüber sieht, ist er sich sicher, den
-   richtigen Mann für die Stelle gefunden zu haben. Er beruft Giovanni zum
-   Professor und setzt diesen gleich in das Amt des Dekans ein.
+Als Gudzilla eine Berichterstattung darüber sieht, ist er sich sicher, den
+richtigen Mann für die Stelle gefunden zu haben. Er beruft Giovanni zum
+Professor und setzt diesen gleich in das Amt des Dekans ein.
 
-   Im Rahmen der Antrittsvorlesung für Giovanni lässt Gudzilla nochmals alle
-   Ereignisse der vergangenen Zeit revue passieren. Im folgenden scheint ein
-   vollends harmonischer Umgang mit der K.I. gefunden worden zu sein, wo deren
-   Potenzial genutzt wird, sie sich aber nicht über die Menschen hinweg setzten
-   kann.
+Im Rahmen der Antrittsvorlesung für Giovanni lässt Gudzilla nochmals alle
+Ereignisse der vergangenen Zeit revue passieren. Im folgenden scheint ein
+vollends harmonischer Umgang mit der K.I. gefunden worden zu sein, wo deren
+Potenzial genutzt wird, sie sich aber nicht über die Menschen hinweg setzten
+kann.
 
-   Als letztes Bild sieht man, wie Dr. Brown in einem teuren Luxusauto im
-   sonnigen Kalifornien herumfährt und einen Anruf entgegen nimmt. Der Mann am
-   Apparat, offenbar persönlicher Sekretär des CEO fragt nach, was er denn für
-   die Präsentation von Mira 2.0 benötige...
+Als letztes Bild sieht man, wie Dr. Brown in einem teuren Luxusauto im sonnigen
+Kalifornien herumfährt und einen Anruf entgegen nimmt. Der Mann am Apparat,
+offenbar persönlicher Sekretär des CEO fragt nach, was er denn für die
+Präsentation von Mira 2.0 benötige...
