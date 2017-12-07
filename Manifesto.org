@@ -1,17 +1,88 @@
-#+TITLE: Manifesto
+#+TITLE: Film als Medium für die Architektur
 #+AUTHOR: Sahra Roman \& Christian Sangvik
 
+* Architektur
 
-* Interview from Bjarke Ingels, 2015
+** Raumfolge
+
+** Gebaute Wirklichkeit
+
+** Gebaute Geschichte
+
+*** Architektur erzählt eine Geschichte
+
+**** Menschen brauchen Geschichten. Gibt Identität
+
+** Architektur ist die Kunst Wissenschaft und Fiktion physisch zu manifestieren
+
+** Medien der Architektur
+
+*** Architektur als sich selber
+
+*** Architektur im Plan
+
+*** Architektur im Bild
+
+*** Architektur als Text
+
+* Film
+
+** Bildfolge
+
+** Massenmedium
+
+** Kunstform
+
+** Unterhaltung
+
+*** Menschliches Grundbedürfnis
+
+** Film als Möglichkeit
+
+*** Bildfolge
+
+*** Medium verschiedene Kanäle anspricht
+
+**** Vermag es die Geschichte kompakt und ergreifend zu erzählen. Erweckt die Illusion der Realität
+
+* Science Fiction ist Kontext
+
+** Kontext gibt dem Raum eine Bestimmung
+
+*** Kontext gibt dem Raum Substanz und Inhalt
+
+*** Kern, Wirkung Stellenwert
+
+*** Wert
+
+** Science Fiction ist Innovation
+
+** Science Fiction zeigt eine alternative Welt
+
+** Science Fiction ist das Wesen von Konsequenzen einer Veränderung
+
+** Fiktionale Analyse, Szenario
+
+* Analogie zwischen Film, Science Fiction und Architektur
+
+** Architektur ist Science Fiction
+
+** Architektur hat das Potential Innovation oder Konsequenz zu sein
+
+** Rückschluss aus Szenario zurück auf Realität
+
+* Apell an Architekten - Nehmt eure Verantwortung wahr!
+
+* (Interview from Bjarke Ingels, 2015)
 
 *Architecture is the art of turning science and fiction in to fact.*
 ScienceFiction is not a space opera and it's not a story from the future even
-though it often is. *Science Fiction is a Story where the plot is triggered by
-some form of innovation.* Typically it's a technological innovation but it can be
-cultural, social, political, etc. And it happens in a world, that is exactly like our
-world but there is this one thing that has been altered. And the whole story is
-the narrative exploration of the potential or the consequences of that idea, of
-that change.*
+though it often is. *Science Fiction is a story where the plot is triggered by
+some form of innovation.* Typically it's a technological innovation but it can
+be cultural, social, political, etc.  *And it happens in a world, that is
+exactly like our world but there is this one thing that has been altered.* And
+the whole story is the narrative exploration of the potential or the
+consequences of that idea, of that change.
 
 And what we do in architecture is that we always try to see is whenever we get
 invited to look at a situation or make a building. We try to analyze how is the
@@ -20,5 +91,5 @@ like a workplace and we try to look for potential changes and at some point,
 once you find a thing that has already changed but nobody has realized the
 potential of it, or it could change but nobody has tried it before, then you get
 this like one altered fact just like in science fiction that can then trigger a
-whole cascade of consequences /and the designwork becomes the architectural
+whole cascade of consequences and /the designwork becomes the architectural
 exploration of the potential of that idea./
