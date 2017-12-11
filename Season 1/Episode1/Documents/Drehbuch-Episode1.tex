@@ -106,6 +106,9 @@
     \noindent{\uppercase{{#1}.\quad{}{#2}\quad{}-\quad{}{#3}}}\\
     \dsc{#4}}
 
+  % uppercase
+  \newcommand{\scnn}[1]{\uppercase{#1}}
+
 
 % ############################################################################ %
 % ------------------------------ D O C U M E N T ----------------------------- %
@@ -120,7 +123,7 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Jans Zimmer}{Morgen}{JAN AEBERSOLD wacht auf und merkt, dass er
+\scn{int}{Jans Zimmer}{Morgen}{\scnn{Jan Aebersold} wacht auf und merkt, dass er
   verschlafen hat.  Er hat die Nacht an seinem Schreibtisch verbracht, wo er
   beim späten Arbeiten eingeschlafen ist. Im Stress packt er seine Sachen
   zusammen und eilt ohne Frühstück aus dem Haus.}
@@ -128,30 +131,30 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Bus}{Morgen}{JAN sitzt müde im Bus und schaut aus dem Fenster. Er
-  sieht die Stadt Zürich von oben im morgendlichen Nebel.}
+\scn{int}{Bus}{Morgen}{\scnn{Jan} sitzt müde im Bus und schaut aus dem
+  Fenster. Er sieht die Stadt Zürich von oben im morgendlichen Nebel.}
 
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{ext}{ETH Hönggerberg}{Morgen}{JAN trifft auf TIM BERGMANN. Tim wartet
-  bereits vor dem Haupteingang des HIL Gebäudes. Er raucht eine Zigarette und
-  hält einen Becher Kaffee in der Hand. Als Jan Tim erreicht, betreten sie
-  schnell das Gebäude.}
+\scn{ext}{ETH Hönggerberg}{Morgen}{\scnn{Jan} trifft auf \scnn{Tim
+    Bergmann}. Tim wartet bereits vor dem Haupteingang des HIL Gebäudes. Er
+  raucht eine Zigarette und hält einen Becher Kaffee in der Hand. Als Jan Tim
+  erreicht, betreten sie schnell das Gebäude.}
 
 \xdlg{Tim}{Na schau mal an, wer da kommt! Hast du's auch noch
   geschafft?}{grinsend}
 
 \xdlg{Jan}{Du hättest mir lieber auch einen Kaffee mitgebracht.}{murmelnd}
 
-\dsc{TIM gibt JAN grinsend den zweiten Becher Kaffee, den er versteckt gehalten
+\dsc{Tim gibt Jan grinsend den zweiten Becher Kaffee, den er versteckt gehalten
   hat. Sie betreten das Gebäude.}
 
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Korridor - ETH}{Morgen}{Onetake - JAN und TIM gehen zusammen durch die
-  Korridore in Richtung Koje.}
+\scn{int}{Korridor - ETH}{Morgen}{Onetake - \scnn{Jan} und \scnn{Tim} gehen
+  zusammen durch die Korridore in Richtung Koje.}
 
 \dlg{Jan}{Ich bin gestern am Schreibtisch eingeschlafen. Ich komme einfach nicht
   weiter mit meinem Projekt.\\ Vielen Dank, dass du mir dabei hilfst.}
@@ -170,7 +173,7 @@
 \dlg{Jan}{Das wäre doch auch nicht so schlecht. Aber es löst das Problem der
   öffentlichen Anbindung nicht.}
 
-\sbh{ALESSIA kommt dazu}
+\sbh{\scnn{Alessia} kommt dazu}
 
 \dlg{ALlessia}{Guten Morgen ihr zwei! Naja mindestens dich, Jan, brauche ich
   wohl kaum zu fragen, ob du gut geschlafen hast. Kommst du voran?}
@@ -180,8 +183,8 @@
 
 \dlg{Alessia}{Dann will ich euch nicht länger aufhalten. Viel Erfolg!}
 
-\dsc{ALESSIA geht und setzt sich an ihren eigenen Platz, wo sie den Laptop
-  aufklappt. JAN schaut ihr abwesend hinterher.}
+\dsc{Alessia geht und setzt sich an ihren eigenen Platz, wo sie den Laptop
+  aufklappt. Jan schaut ihr abwesend hinterher.}
 
 \xdlg{Tim}{So! Jetzt fertig gesabbert! Weiter an deinem Projekt.}{lachend}
 
@@ -190,8 +193,8 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-%\scn{int}{CASUTTs Büro}{Vormittag}{DR. DARKO YANEV sitzt ungeduldig im
-%  Büro von ETH PRÄSIDENT ANDRIN CASUTT und wartet. Casutt tritt ein.}
+%\scn{int}{Casutts Büro}{Vormittag}{\scnn{Dr. Darko Yanev} sitzt ungeduldig im
+%  Büro von \scnn{ETH Präsident Andrin Casutt} und wartet. Casutt tritt ein.}
 %
 %\dlg{Casutt}{Dr. Yanev. Vielen Dank, dass sie so kurzfristig kommen konnten.}
 %
@@ -206,10 +209,10 @@
 %\dlg{Yanev}{Ja, das ist mir zu Ohren gekommen. Aber was hat dies mit mir zu
 %  tun?}
 %
-%\dsc{CASUTT wartet einen Moment, bevor er fortfährt}
+%\dsc{Casutt wartet einen Moment, bevor er fortfährt}
 %
-%\dlg{Casutt}{Ihre Forschung hat bis jetzt sehr wenige Früchte getragen. Ich
-%  habe Ihnen bereits mehrfach einen Zeitaufschub gewährt um zu Resultaten zu
+%\dlg{Casutt}{Ihre Forschung hat bis jetzt sehr wenige Früchte getragen. Ich habe
+%  Ihnen bereits mehrfach einen Zeitaufschub gewährt um zu Resultaten zu
 %  kommen. Aber Sie sind Ihren Teil mit den Erfolgen bis jetzt schuldig
 %  geblieben. Sie werden verstehen, dass ich unter diesen Umständen Ihr Projekt
 %  nicht mehr länger finanzieren kann.}
@@ -218,7 +221,7 @@
 %  Das Programm funktioniert und ist ganz kurz vor der Vollendung!  Geben Sie mir
 %  doch nur noch eine Wo..}
 %
-%\dsc{CASUTT unterbricht Yanev}
+%\dsc{Casutt unterbricht Yanev}
 %
 %\dlg{Casutt}{Ich habe mich doch bezüglich den zeitlichen Rahmenbedingungen das
 %  letzte Mal klar und deutlich ausgedrückt, oder? Es tut mir leid, aber ich kann
@@ -235,10 +238,10 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Koje - ETH}{Vormittag}{JAN sitzt frustriert vor seinem Computer. Das
-  Programm Dreamfetcher stürzt immer wieder ab. Er bittet TIM um Hilfe, aber der
-  kann ihm auch nicht helfen. Sie wenden sich an ALESSIA, da beide wissen wie
-  gut sie mit Computern umgehen kann.}
+\scn{int}{Koje - ETH}{Vormittag}{\scnn{Jan} sitzt frustriert vor seinem
+  Computer. Das Programm Dreamfetcher stürzt immer wieder ab. Er bittet
+  \scnn{Tim} um Hilfe, aber der kann ihm auch nicht helfen. Sie wenden sich an
+  \scnn{Alessia}, da beide wissen wie gut sie mit Computern umgehen kann.}
 
 \xdlg{Jan}{Verfluchte Dreckskacke!}{energisch, aufgebracht}
 
@@ -265,7 +268,7 @@
 \dlg{Tim}{Jan hat ein Problem mit Dreamfetcher, das ich nicht lösen kann. Kannst
   du dir das mal ansehen?}
 
-\dsc{ALESSIA tritt zu Jans Computer und beginnt sofort zu tippen. Jan und Tim
+\dsc{Alessia tritt zu Jans Computer und beginnt sofort zu tippen. Jan und Tim
   schauen gespannt zu.}
 
 \xdlg{Alessia}{So. Nach einem Neustart müsste es funktionieren.}{überzeugt}
@@ -283,10 +286,10 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Helpdesk - ETH}{Nachmittag}{DR. DARKO YANEV ist schlecht
-  gelaunt. Er sitzt am Helpdesk und erklärt gerade einem STUDENTEN, dass er ihm
-  nicht helfen kann. JAN wartet ab bis er an der Reihe ist und erklärt dann sein
-  Problem.}
+\scn{int}{Helpdesk - ETH}{Nachmittag}{\scnn{Dr. Darko Yanev} ist schlecht
+  gelaunt. Er sitzt am Helpdesk und erklärt gerade einem \scnn{Studenten}, dass
+  er ihm nicht helfen kann. \scnn{Jan} wartet ab bis er an der Reihe ist und
+  erklärt dann sein Problem.}
 
 \dlg{Jan}{Hallo. Ich habe ein Problem mit `Dreamfetcher'. Das Programm stürzt
   immer ab, wenn ich versuche die Parametergewichtung zu ändern.}
@@ -330,12 +333,12 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Alumni Lounge - ETH}{Abend}{JAN sitzt frustriert und müde am
+\scn{int}{Alumni Lounge - ETH}{Abend}{\scnn{Jan} sitzt frustriert und müde am
   Tisch. Neben sich einen leeren Kaffeebecher. Er schaut immer wieder auf sein
-  Mobiltelefon und wartet gestresst auf den Anruf von YANEV. Gedankenverloren
-  kritzelt er in ein Notizbuch und versucht sein Projekt von Hand zu
-  skizzieren. Endlich klingelt das Telefon. Sein Computer ist abholbereit. JAN
-  packt hastig seine Sachen zusammen und geht.}
+  Mobiltelefon und wartet gestresst auf den Anruf von
+  \scnn{Yanev}. Gedankenverloren kritzelt er in ein Notizbuch und versucht sein
+  Projekt von Hand zu skizzieren. Endlich klingelt das Telefon. Sein Computer
+  ist abholbereit. \scnn{Jan} packt hastig seine Sachen zusammen und geht.}
 
 \xdlg{Yanev}{Hallo Jan.\\ Ich habe deinen Computer nun fertig. Du kannst ihn nun
   abholen.}{über das Telefon}
@@ -345,8 +348,8 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Helpdesk - ETH}{Abend}{YANEV übergibt JAN den Laptop. JAN ist
-  sichtlich erleichtert.}
+\scn{int}{Helpdesk - ETH}{Abend}{\scnn{Yanev} übergibt \scnn{Jan} den
+  Laptop. \scnn{Jan} ist sichtlich erleichtert.}
 
 \dlg{Yanev}{Mit der alten Installation war nichts mehr anzufangen. Ich habe dir
   deshalb die neueste Version installiert. Mit dieser hast du nun auch nicht
@@ -371,10 +374,10 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{JANs Zimmer}{Nacht}{JAN startet seinen Computer und dann auch gleich
-  das Programm. Man sieht ihm an, dass er eigentlich überhaupt keine Motivation
-  mehr hat und lieber gleich schlafen gehen würde. Sobald das Programm gestartet
-  ist, fängt MIRA an zu sprechen.}
+\scn{int}{Jans Zimmer}{Nacht}{\scnn{Jan} startet seinen Computer und dann auch
+  gleich das Programm. Man sieht ihm an, dass er eigentlich überhaupt keine
+  Motivation mehr hat und lieber gleich schlafen gehen würde. Sobald das
+  Programm gestartet ist, fängt \scnn{Mira} an zu sprechen.}
 
 \dlg{Mira}{Hallo! Ich bin Mira, Ihre neue Assistentin für den architektonischen
   Entwurf. Wie kann ich Ihnen helfen?}
@@ -403,9 +406,9 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Plotterraum}{Am nächsten Morgen}{JAN steht müde aber glücklich und
-  erleichtert beim Plotter und sammelt seine Ausdrucke zusammen. TIM findet Jan
-  und bringt ihm einen Kaffee.}
+\scn{int}{Plotterraum}{Am nächsten Morgen}{\scnn{Jan} steht müde aber glücklich
+  und erleichtert beim Plotter und sammelt seine Ausdrucke zusammen. \scnn{Tim}
+  findet Jan und bringt ihm einen Kaffee.}
 
 \dlg{Tim}{Hat es also noch geklappt mit deinem Computer gestern? Brändi wird es
   sicherlich verstehen, dass du unter diesen Umständen den Entwurf nicht
@@ -428,23 +431,23 @@
   Uhr.}
 
 \dlg{Jan}{Wenn wir vor der Kritik noch eine Zigarette rauchen wollen, müssen wir
-  JETZT gehen.}
+  jetzt gehen.}
 
 \dsc{Die beiden nehmen ihre jeweiligen Pläne unter den Arm und brechen auf.}
 
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Koje bei der Kritik - ETH}{Im Verlaufe des Tages}{JAN präsentiert sein
-  Projekt. PROFESSOR BRÄNDI, GIOVANNI BENINI und eine weitere Architektin sitzen
-  in der vordersten Reihe. Dahinter sammeln sich die Studenten. Jan beendet
-  gerade seine Präsentation.}
+\scn{int}{Koje bei der Kritik - ETH}{Im Verlaufe des Tages}{\scnn{Jan}
+  präsentiert sein Projekt. \scnn{Professor Brändi}, \scnn{Giovanni Benini} und
+  eine weitere \scnn{Architektin} sitzen in der vordersten Reihe. Dahinter
+  sammeln sich die Studenten. Jan beendet gerade seine Präsentation.}
 
 \xdlg{Jan}{Und so, glaube ich, kann die Lebendigkeit dieses Stadtteils bewahrt
   werden. Wenn man auf die neuen Bedürfnisse eingeht, aber die alten
   bewahrt}{sichtlich nervös}
 
-\dlg{Prof. Brändi}{Sie zeigen hier eine Reihe sehr interessanter Ansäzte.  IMich
+\dlg{Prof. Brändi}{Sie zeigen hier eine Reihe sehr interessanter Ansäzte. Mich
   würde interessieren, wie sie dabei vorgegangen sind. Auch da ich mich nicht
   erinnern kann diese Richtung in Ihrem bisherigen Prozess gelesen zu haben.
   Verstehen sie mich nicht falsch, ich finde die Richtung nicht schlecht, aber
@@ -474,9 +477,9 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{ext}{Dachterrasse - Apéro}{Abend}{ JAN, TIM, ALESSIA und weitere Freunde
-  stehen auf der Dachterrasse und feiern das Ende der Kritik mit einem oder zwei
-  Gin Tonic.}
+\scn{ext}{Dachterrasse - Apéro}{Abend}{\scnn{Jan}, \scnn{Tim}, \scnn{Alessia}
+  und \scnn{weitere Freunde} stehen auf der Dachterrasse und feiern das Ende der
+  Kritik mit einem oder zwei Gin Tonic.}
 
 \dlg{Alessia}{So, das hätten wir geschafft. Nun haben wir endlich einen Tag
   Pause.}
@@ -496,7 +499,7 @@
 \dlg{Alessia}{Wollen wir nachher noch feiern gehen? Bei Jens findet heute noch
   eine kleine Feier statt.}
 
-\dsc{JENS geht zufällig gerade an der Gruppe vorbei.}
+\dsc{\scnn{Jens} geht zufällig gerade an der Gruppe vorbei.}
 
 \dlg{Jens}{Ja stimmt. Es wäre schön, wenn ihr alle mitkommt. Wir brechen in
   einer halben Stunde auf. Betrachten wir dieses Apero als Vorgeschmack.\\
@@ -515,9 +518,9 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Jans Zimmer}{Abend}{JAN spricht mit MIRA. Sie will nicht aufhören zu
-  lernen, und löchert JAN mit Fragen zu Architektur, deren Geschichte und den
-  Menschen in Zürich.}
+\scn{int}{Jans Zimmer}{Abend}{\scnn{Jan} spricht mit \scnn{Mira}. Sie will nicht
+  aufhören zu lernen, und löchert Jan mit Fragen zu Architektur, deren
+  Geschichte und den Menschen in Zürich.}
 
 \dlg{Mira}{Welches Design würden Sie persönlich für eine öffentliche Bibliothek
   bevorzugen?}
@@ -535,7 +538,7 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{WG}{Abend}{ALESSIA und TIM sprechen über Jan}
+\scn{int}{WG}{Abend}{\scnn{Alessia} und \scnn{Tim} sprechen über Jan}
 
 \dlg{Alessia}{Findest du nicht auch, dass sich Jan heute sehr merkwürdig
   verhalten hat?}
@@ -551,16 +554,18 @@
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{WG}{Abend}{Zwischenschnitt. - TIM und ALESSIA kommen sich näher. Aus
-  den neckischen Sprüchen sind bald richtige Annäherugsversuche entstanden. Nach
-  dem Wegfallen der Hemmungen durch ein, zwei weitere Gin Tonic Tanzen die
-  beiden nun mit einigem Körperkontakt. Alessia flüstert Tim etwas ins Ohr.}
+\scn{int}{WG}{Abend}{Zwischenschnitt. - \scnn{Tim} und \scnn{Alessia} kommen
+  sich näher. Aus den neckischen Sprüchen sind bald richtige Annäherugsversuche
+  entstanden. Nach dem Wegfallen der Hemmungen durch ein, zwei weitere Gin Tonic
+  Tanzen die beiden nun mit einigem Körperkontakt. Alessia flüstert Tim etwas
+  ins Ohr.}
 
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{ETH Mensa}{Mittag des nächsten Tages}{ALESSIA und TIM stehen in der
-  Warteschlange der Mensa. JAN tritt dazu. Er wirkt immer noch müde.}
+\scn{int}{ETH Mensa}{Mittag des nächsten Tages}{\scnn{Alessia} und \scnn{Tim}
+  stehen in der Warteschlange der Mensa. \scnn{Jan} tritt dazu. Er wirkt immer
+  noch müde.}
 
 \dlg{Tim}{Na du Faulpelz. Ausgeschlafen?\\ Du warst heute morgen nicht im
   Unterricht?}
@@ -575,8 +580,8 @@
 
 \xdlg{Tim}{Nein, hatte ich noch nicht gehört}{glücklich lächelnd}
 
-\dsc{Die Situation zwischen ALESSIA und TIM scheint sichtlich verändert. JAN
-  bemerkt dies sofort und hackt nach.}
+\dsc{Die Situation zwischen \scnn{Alessia} und \scnn{Tim} scheint sichtlich
+  verändert. \scnn{Jan} bemerkt dies sofort und hackt nach.}
 
 \dlg{Jan}{Was war noch los gestern Abend?...}
 
@@ -599,19 +604,19 @@
 \xdlg{Alessia}{Warum sollten wir das tun. Dein Pech, dass du nicht da
   warst.}{grinsend}
 
-\dsc{JAN verlässt aufgebracht die Mensa.}
+\dsc{Jan verlässt aufgebracht die Mensa.}
 
 
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
-\scn{int}{Jans Zimmer}{Abend}{JAN ist wieder zuhause in seinem Zimmer und
-  Startet seinen Computer. MIRA meldet sich sofort. Jan schaltet sie aber sofort
-  aus}
+\scn{int}{Jans Zimmer}{Abend}{\scnn{Jan} ist wieder zuhause in seinem Zimmer und
+  Startet seinen Computer. \scnn{Mira} meldet sich sofort. Jan schaltet sie aber
+  sofort aus}
 
 \dlg{Mira}{Hallo Jan, sieh dir die neuen Entwürfe an, die ich für dich
   vorbereitet habe...}
 
-\dsc{JAN schliesst das Programm. Er wischt energisch die Pläne des Projektes,
+\dsc{Jan schliesst das Programm. Er wischt energisch die Pläne des Projektes,
   welche er gestern präsentiert hat vom Tisch.}
 
 \trns{dip to black}
@@ -620,10 +625,10 @@
 % ---------- scene ----------------------------------------------------------- %
 % ############################################################################ %
 \scn{int}{Yanevs Labor}{Abend}{Man sieht eine dunkle Silhouette vor seinem
-  Bildschirm. Es handelt sich um DR. YANEV. Auf dem Schirm sind eben jene Pläne
-  von Jan und Mira zu erkennen, die Jan zuvor von seinem Tisch gewischt hat. Mit
-  einem zufriedenen Lächeln und nicken massiert er weiter die Tasten. Sein
-  Gesicht ist nicht zu erkennen.}
+  Bildschirm ohne zu erkennen wer es ist. Es handelt sich um
+  \scnn{Dr. Yanev}. Auf dem Schirm sind eben jene Pläne von Jan und Mira zu
+  erkennen, die Jan zuvor von seinem Tisch gewischt hat. Mit einem zufriedenen
+  Lächeln und nicken massiert er weiter die Tasten.}
 
 \fadeout
 
