@@ -3,15 +3,20 @@
 
 * Architektur
 
-** Raumfolge
-
 ** Gebaute Wirklichkeit
+
+Architektur ist die physische Manifestation von Ideen und Plänen. Sie zeigt eine
+mögliche Welt 
 
 ** Gebaute Geschichte
 
 *** Architektur erzählt eine Geschichte
 
 **** Menschen brauchen Geschichten. Gibt Identität
+
+** Raumfolge
+
+Architektur 
 
 ** Architektur ist die Kunst Wissenschaft und Fiktion physisch zu manifestieren
 
@@ -72,6 +77,8 @@
 ** Rückschluss aus Szenario zurück auf Realität
 
 * Apell an Architekten - Nehmt eure Verantwortung wahr!
+
+Science Fiction funktioniert als Tool für Architektur.
 
 * (Interview from Bjarke Ingels, 2015)
 
