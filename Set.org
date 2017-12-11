@@ -1,0 +1,36 @@
+#+TITLE: Organisation Dreh
+#+AUTHOR: Sahra Roman \& Christian Sangvik
+
+* Schauspieler
+
+| Rolle               | Schauspieler       | Email |        Handy |
+|---------------------+--------------------+-------+--------------|
+| Prof. Jakob Brändi  | Heini Hophan       |       |              |
+| Prof. Andrin Casutt |                    |       |              |
+| Dr. Darko Yanev     | Simon Roffler      |       | +41764553398 |
+| Mira (Stimme)       |                    |       |              |
+| Alessia Benini      |                    |       |              |
+| Jan Aebersold       | Kevin Mike Minder  |       |              |
+| Tim Bergmann        |                    |       |              |
+| Beatrice Fluri      | Claudia Klopfstein |       |              |
+| Giovanni Benini     |                    |       |              |
+|---------------------+--------------------+-------+--------------|
+| Statisten           |                    |       |              |
+
+* Räumlichkeiten
+
+** Büro ETH
+
+* Technik
+
+** Ton
+** Kamera
+
+* Spesen
+
+| Name  | Betrag |
+|-------+--------|
+|       |        |
+|-------+--------|
+| Total |        |
+|-------+--------|
