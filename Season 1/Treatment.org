@@ -170,13 +170,15 @@ ETH Zürich.
 Er ist zwar innovativ und hat es verstanden seine Architektur an die
 Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
 geblieben. Diese hinterfragt er für jede Situation neu, und scheut sich nicht
-davor, von der bisherigen Struktur abzuweichen, wenn er es für richtig hält. Er
-erfreut sich grosser Beliebtheit bei den Studenten, da er mit seiner
-Bestimmtheit, konstruktiven Kritik aber vor allem seiner Menschlichkeit und
-Nahbarkeit punktet.
+davor, von der bisherigen Struktur abzuweichen, wenn er es für richtig hält.
 
-Auch unter seinen Kollegen geniesst er grossen Respekt, sowohl für seine
-Architektur wie auch die Didaktik.
+Er erfreut sich grosser Beliebtheit bei den Studenten, da er mit seiner
+Bestimmtheit, konstruktiven Kritik aber vor allem seiner Menschlichkeit und
+Nahbarkeit punktet. Auch unter seinen Kollegen geniesst er grossen Respekt,
+sowohl für seine Architektur wie auch die Didaktik.
+
+In seinem Leben musste er oft mit diversen Parteien verhandeln und versteht sich
+daher gut in der Diplomatie und als Vermittler zwischen Fronten.
 
 ** Prof. Andrin Casutt (ETH Präsident)
 
@@ -208,7 +210,7 @@ Resultate eines aus, welches er dann verfeinert.
 
 Yanev hat diese Automation nie vollends befriedigt. Für seine Forschung hat er
 dieses Programm weiterentwickelt. Auch um sein Scheitern im Beruf
-aufzuwiegen. Unter dem Namen ``Mira'' hat er eine künstliche Intelligenz
+aufzuwiegen. Unter dem Namen `Mira' hat er eine künstliche Intelligenz
 entworfen, welche sich die relevanten Parameter, und auch erheblich mehr,
 zusammensucht und letztendlich selber entscheidet, welches das beste und
 schönste Design ist, so dass das Produkt der fertige Entwurf ist.
@@ -336,11 +338,19 @@ Architekturausbildung haben.
 immer. Politisch aktiv ist sie seit ihrer eigenen Zeit an der Mittelschule.
 
 In ihrem Privatleben ist sie aber eine sehr herzliche Person und führt mit ihrem
-Mann eine glückliche Beziehung.
+Mann eine glückliche Beziehung. Die beiden sind kinderlos geblieben. Den Stress
+der Politwelt versucht sie nicht mit nach Hause zu nehmen, sondern sich dort
+vollends in ihre gemeinsame Beziehung einzugeben. Vom Gefälle in ihren
+Arbeitsstellen (ihr Mann ist Primarschullehrer) ist daheim nichts zu spüren.
+
+In der Bevölkerung ist sie grösstenteils positiv aufgefallen. Die Menschen
+schätzen ihre Zielstrebigkeit und Gewissenhaftigkeit aber auch
+Kompromissbereitschaft.
 
 Aktuell muss sie für ihre Wiederwahl kämpfen, und setzt Mira als Wahlkampfmittel
-ein, da Mira gut ankommt bei der Bevölkerung.  Übergibt Amt des Städtebaus an
-Mira. Oder reisst Mira es an sich?
+ein, da Mira gut ankommt bei der Bevölkerung. Durch die diversen kleinen Krisen
+hat nämlich auch sie an Halt verloren unter den Wählern. Mit Mira wittert sie
+eine Chance auf Besserung diesbezüglich.
 
 ** Giovanni Benini (Vater von Ale)
 
