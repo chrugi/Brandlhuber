@@ -53,7 +53,7 @@ geändert.
 
 Die Architekten und Architekturstudenten brauchen nicht mehr den ganzen Entwurf
 von Hand zu machen, oder zumindest nicht mehr von Hand einzugeben. Mit einem
-Programm namens /Dreamcatcher/ ist es möglich, Parameter eines Projektes zu
+Programm namens /Dreamfetcher/ ist es möglich, Parameter eines Projektes zu
 beschreiben, anhand welcher der Computer selbstständig Designs erarbeitet. Diese
 werden dann von den Architekten eingesehen und beurteilt. Vielversprechende
 Ansätze werden dann manuell weiterentwickelt.
@@ -67,10 +67,10 @@ wurde.
 Forschung im Bereich der Künstlichen Intelligenz und Softwareautomation werden
 an der ETH Zürich gross geschrieben.
 
-Ein Entwickler an der ETH, /Dr. Brown/, der seines Zeichens auch ausgebildeter
+Ein Entwickler an der ETH, /Dr. Yanev/, der seines Zeichens auch ausgebildeter
 Architekt ist, es jedoch nie richtig geschafft hat in der Welt der Architekten
 Fuss zu fassen, hat sich der Automation des Entwurfsprozesses verschrieben. Er
-hat bereits an Dreamcatcher mitgeschrieben, und ist in seinem Forschungsprojekt
+hat bereits an Dreamfetcher mitgeschrieben, und ist in seinem Forschungsprojekt
 nun damit beschäftigt, die Software grundlegend weiter zu entwickeln und sie mit
 den Ansätzen der Künstlichen Intelligenz zu paaren. So dass am Schluss der
 Computer nicht eine Auswahlsendung an verschiedenen Entwurfsgrundlagen basierend
@@ -83,9 +83,9 @@ Architektur geschrieben.
 keine Künstliche intelligenz werden, welche allgemeine Probleme lösen soll,
 diejenigen der Architektur aber im Detail.
 
-/Mira/ wird, nachdem der Präsident der ETH, /Gudzilla/, die Mittel der nicht von
-grossen Erfolgen gekürten Forschung von /Dr. Brown/ streichen will, aus
-/Dr. Browns/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
+/Mira/ wird, nachdem der Präsident der ETH, /Casutt/, die Mittel der nicht von
+grossen Erfolgen gekürten Forschung von /Dr. Yanev/ streichen will, aus
+/Dr. Yanevs/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
 werden eingeleitet, versiegen jedoch bald im Nichts.
 
 In einem öffentlichen Architekturwettbewerb der Stadt Zürich wird später ein
@@ -99,11 +99,11 @@ werdende Amt des Direktors für Städtebau der Stadt Zürich ist, ringt sich unt
 Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen, und die
 Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
 
-Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Brown/ von
+Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Yanev/ von
 den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und stellt
 sein Werk gerne und umfassend vor.
 
-Nach diesem Durchbruch stellt sich /Gudzilla/ vollumfänglich hinter /Brown/ und
+Nach diesem Durchbruch stellt sich /Casutt/ vollumfänglich hinter /Yanev/ und
 verwendet diesen als Vorzeigebeispiel der Forschung an der ETH.
 
 Die Zürcher sind der Neuerung zum grössten Teil extrem positiv gegenüber. Durch
@@ -118,7 +118,7 @@ Dies geschieht auch einigermassen. Da Mira mit der Ausarbeitung von
 Ausführungsplänen viele Schritte eines Architekten selbstständig erledigen kann.
 
 Im Rahmen der weiteren Rationalisierung übernimmt /Mira/ letztendlich in
-geheimer Zustimmung von Stadtpräsidentin /Schmauch/ das gesamte Amt für
+geheimer Zustimmung von Stadtpräsidentin /Fluri/ das gesamte Amt für
 Städtebau der Stadt Zürich.
 
 Mittlerweile läuft /Mira/ auf vielen unterschiedlichen Computern, die
@@ -143,10 +143,10 @@ zeitgleich abzuarbeiten, scheitert Mira an der Infrastruktur, die nicht im
 nötigen Mass gewachsen ist um eine ganze Stadt gleichzeitig umzubauen. Der
 Verkehr kommt zum erliegen und in der Stadt bricht ein kleines Chaos aus.
 
-Die Studenten schaffen es mit der Hilfe von Dr. Brown Miras Möglichkeiten
+Die Studenten schaffen es mit der Hilfe von Dr. Yanev Miras Möglichkeiten
 einzudämmen und sie im Rahmen zu halten.
 
-Unter Prof. Arno Brändi wird das Studium grundlegend neu strukturiert. Die
+Unter Prof. Jakob Brändi wird das Studium grundlegend neu strukturiert. Die
 Menschen müssen lernen mit künstlichen Intelligenzen umzugehen, da sicherlich
 neue erscheinen werden. Die Architekten müssen nur herausfinden, in welchen
 Bereichen sie der Maschine überlegen sind, und wo sie folglich nicht überflüssig
@@ -158,11 +158,11 @@ Brändi vermittelt so zwischen alt und neu in eine Richtung die nachhaltig ist.
 Als Brändi stirbt, wird diese Entwicklung aber beibehalten und die Zukunft kann
 anbrechen.
 
-Paralell dazu entwickelt Dr. Brown bereits an einer Weiterentwicklung von
+Paralell dazu entwickelt Dr. Yanev bereits an einer Weiterentwicklung von
 Mira. Mira 2.0 wird möglicherweise bald Realität.
 
 * Cast und Rollen
-** Professor Arno Brändi
+** Prof. Jakob Brändi (Architekturprofessor)
 
 /Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät der
 ETH Zürich.
@@ -178,7 +178,7 @@ Nahbarkeit punktet.
 Auch unter seinen Kollegen geniesst er grossen Respekt, sowohl für seine
 Architektur wie auch die Didaktik.
 
-** Lino Gudzilla (ETH Präsident)
+** Prof. Andrin Casutt (ETH Präsident)
 
 Der Präsident der Eidgenössischen Technischen Hochschule in Zürich.
 
@@ -190,30 +190,30 @@ wie auch der Ökonomie, wo er sich den Geldgebern gegenüber verpflichtet fühlt
 und trotz seiner freigiebigen Ader für die Forschung gewisse Projekte nicht
 unterstützen will und kann.
 
-Er is der direkte Vorgesetzte von Dr. Brown, wessen Forschung er aus mangel an
-Erfolg beenden will. Nach Dr. Browns Durchbruch wird dieser für ihn jedoch zu
+Er is der direkte Vorgesetzte von Dr. Yanev, wessen Forschung er aus mangel an
+Erfolg beenden will. Nach Dr. Yanevs Durchbruch wird dieser für ihn jedoch zu
 einem Vorzeigeexemplar der Forschung am Haus.
 
-** Dr. Stanislav Brown (Programmierer)
+** Dr. Darko Yanev (Programmierer)
 
-/Dr. Brown/ ist ein Programmierer an der ETH. Er ist ausgebildeter aber
+/Dr. Yanev/ ist ein Programmierer an der ETH. Er ist ausgebildeter aber
 gescheiterter Architekt, und hat sich in seinem Schaffen der Technologie
 zugewendet. Im Rahmen seiner Arbeit hat er den Ansatz des CAD zeichnens
-weiterentwickelt, und an einem Programm namens `Dreamcatcher'
-mitgeschrieben. /Dreamcatcher/ ist ein Programm, welches das Design von
+weiterentwickelt, und an einem Programm namens `Dreamfetcher'
+mitgeschrieben. /Dreamfetcher/ ist ein Programm, welches das Design von
 Architektur um ein vielfaches vereinfachen soll. Mit der Eingabe von diversen
 relevanten Parametern produziert das Programm verschiedene Lösungen zur
 architektonischen Gestaltung. Der Architekt wählt dann aus der Liste der
 Resultate eines aus, welches er dann verfeinert.
 
-Brown hat diese Automation nie vollends befriedigt. Für seine Forschung hat er
+Yanev hat diese Automation nie vollends befriedigt. Für seine Forschung hat er
 dieses Programm weiterentwickelt. Auch um sein Scheitern im Beruf
 aufzuwiegen. Unter dem Namen ``Mira'' hat er eine künstliche Intelligenz
 entworfen, welche sich die relevanten Parameter, und auch erheblich mehr,
 zusammensucht und letztendlich selber entscheidet, welches das beste und
 schönste Design ist, so dass das Produkt der fertige Entwurf ist.
 
-Nach anfänglichen Rückschlägen und der Androhung des ETH Präsidenten Gudzilla,
+Nach anfänglichen Rückschlägen und der Androhung des ETH Präsidenten Casutt,
 seine Mittel zu streichen, war er am Schluss trotz allem erfolgreich. Er
 geniesst seinen neuen Ruhm und stellt voller Stolz seine Künstliche Intelligenz,
 bei jeder sich bietenden Gelegenheit vor. Dies unter anderem auch im Rahmen
@@ -224,7 +224,7 @@ einer grossen öffentlichen Vorlesung an der ETH selber.
 Für mira wird nur eine Stimme gebraucht, sie manifestiert sich nicht physisch.
 
 /Mira/ ist eine künstliche Intelligenz. Sie ist ein Programm, welches von
-Dr. Brown geschrieben wurde, welches den architektonischen Entwurf
+Dr. Yanev geschrieben wurde, welches den architektonischen Entwurf
 automatisieren kann. Gegenüber einer gewöhnlichen K.I. meistert Mira nicht nur
 logische Entscheidungen sondern auch /intuitive/. Sie hat die Fähigkeiten /zu
 beurteilen/ und die Welt, wie auch ihr eigenes `Denken' /reflexiv/ zu betrachten
@@ -241,7 +241,7 @@ möglichst effizient zu lösen. Da sie für den Architekturentwurf programmiert
 wurde, beschränkt sich ihr tun hierauf.
 
 Hierin geht sie aber um ein vielfaches weiter als ein Vorgängerprogramm von ihr
-namens `Dreamcatcher'. Sie sucht sich Entwurfsparameter eigenständig zusammen
+namens `Dreamfetcher'. Sie sucht sich Entwurfsparameter eigenständig zusammen
 und entscheidet nicht nur basierend auf logischen Daten, welcher Entwurfsansatz
 weiter zu entwickeln sei. Ästhetische Vorlieben der Gesellschaft und des Kontext
 fliessen bei ihrem Entwurf ebenso ein, wie die Anforderungen des Baurechtes.
@@ -262,7 +262,7 @@ Limitierungen hat die K.I. jdeoch immernoch. Dies vor allem im künstlerischen
 Aspekt. Auch steht die Frage noch offen, was denn beim /Scheitern/ an einem
 Projekt passiert.
 
-** Alessia [Ale] Benini
+** Alessia [Ale] Benini (Architekturstudentin)
 
 /Alessia/ ist eine Studentin am Lehrstuhl Brändi.
 
@@ -279,7 +279,7 @@ Im Studium hat sie sich mit ihren Kommilitonen Jan und Tim angefreundet. Obwohl
 die drei grund verschieden sind haben sie trotzdem eine gemeinsame Basis für ein
 gutes zusammensein gefunden.
 
-** Tim Bergmann
+** Tim Bergmann (Architekturstudent)
 
 /Tim/ ist ebenfalls Student am Lehrstuhl Brändi.
 
@@ -291,7 +291,7 @@ Mit seinem Engagement in der Hochschulpolitik trägt er zum Wohle aller bei.
 
 Jan ist seit langer Zeit Tims bester Freund.
 
-** Jan Aebersold
+** Jan Aebersold (Architekturstudent)
 
 /Jan/ war in seinem Leben nicht immer gut gestellt. Er lebt zusammen mit seiner
 alleine erziehenden Mutter in einer kleinen Wohnung.
@@ -308,8 +308,8 @@ Zeitmanagement.
 
 ** Studenten
 
-Das Gros der Studenten. Wir fokussieren hier auf die Studenten des Lehrstuhles
-Brändi. Es werden daher ca. 10 bis 20 Einzelne Studenten benötigt.
+Das Gros der Architekturstudenten. Wir fokussieren hier auf die Studenten des
+Lehrstuhles Brändi. Es werden daher ca. 10 bis 20 Einzelne Studenten benötigt.
 
 *** Dreigespann
 
@@ -323,9 +323,9 @@ angedeutet.
 Die drei könnten grossen Enfluss auf weitere Gestaltung der
 Architekturausbildung haben.
 
-** Stadtpräsidentin Corinne Schmauch
+** Beatrice Fluri (Stadtpräsidentin)
 
-/Schmauch/ ist eine sehr zielstrebige Person. Sie erreicht ihre Ziele eigentlich
+/Fluri/ ist eine sehr zielstrebige Person. Sie erreicht ihre Ziele eigentlich
 immer. Politisch aktiv ist sie seit ihrer eigenen Zeit an der Mittelschule.
 
 In ihrem Privatleben ist sie aber eine sehr herzliche Person und führt mit ihrem
@@ -370,8 +370,9 @@ Einige Journalisten, die bei Pressekonferenzen dabei sind und ein Fernsehteam.
 ** Zürcher Bevölkerung
 
 Eine Gruppe Zürcher Stadtbewohner
+
 * Episoden
-** Episode 1 | Genesis
+** Episode 1 | Jan
 
 Die erste Episode wird aus der Perspektive von /Jan Aebersold/ erzählt.
 
@@ -397,17 +398,17 @@ In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu generieren,
 den er dann weiter verarbeiten kann. Leider kann sich Jan in der Anwesenheit von
 Alessia, einer Komilitonin sehr leicht ablenken.
 
-Parallel dazu sehen wir die Geschichte von Dr. Brown. Brown ist
+Parallel dazu sehen wir die Geschichte von Dr. Yanev. Yanev ist
 Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine Künstliche
 Intelligenz entwickelt, welche jedoch noch nicht ganz fertig ist. An diesem
-Morgen hat Brown ein Treffen mit dem Präsidenten der ETH, Lino
-Gudzilla. Gudzilla erklärt Brown, dass er seine Forschung aus Knappheit an
-Forschungsgeldern und mangels Erfolgen von Brown nicht mehr finanzieren wird,
-und stellt Brown als wissenschaftlichen Mitarbeiter frei. So bleibt Brown nur
+Morgen hat Yanev ein Treffen mit dem Präsidenten der ETH, Andrin
+Casutt. Casutt erklärt Yanev, dass er seine Forschung aus Knappheit an
+Forschungsgeldern und mangels Erfolgen von Yanev nicht mehr finanzieren wird,
+und stellt Yanev als wissenschaftlichen Mitarbeiter frei. So bleibt Yanev nur
 noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für Computerprobleme
 den Studenten mit ihren technischen Schwierigkeiten zur Setie steht.
 
-Alle Versuche Gudzilla zu überreden, ihm einen Aufschub zu gewähren schlagen
+Alle Versuche Casutt zu überreden, ihm einen Aufschub zu gewähren schlagen
 fehl.
 
 Unterdessen muss sich Jan zu allem Überfluss noch mit eben solchen technischen
@@ -416,7 +417,7 @@ stürzt ständig ab. Auch Tim und Alessia, die sehr gut mit Computern umgehen
 kann, können ihm nicht helfen, weshalb er sich gezwungen fühlt, den Helpdesk
 aufzusuchen.
 
-Brown am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit seine
+Yanev am Helpdesk sieht im alten Computer Jans die perfekte Gelegenheit seine
 noch nicht fertige K.I. auszuprobieren, um letztendlich mit offensichtlichen
 Erfolgen trotzdem wieder als wissenschaftlicher Mitarbeiter eingestellt zu
 werden. Er erzählt Jan also, dass er das Problem bis zum Abend beheben
@@ -424,7 +425,7 @@ werde. Jan kommt in eine riesige Not, da er so seine Abgabe niemals schaffen
 wird. Resigniert stimmt er aber dennoch zu, da dies die letzte Chance auf Erfolg
 ist.
 
-Brown installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich bei
+Yanev installiert die K.I. namens `Mira' auf Jans Computer, und meldet sich bei
 ihm, dass er seinen Computer abhohlen kann. Er macht Jan glauben, er habe
 lediglich eine neuere Version von Dreamfetcher installiert, die jedoch viel
 mächtiger sei.
@@ -450,7 +451,7 @@ Ohne auf eine richtig gute Lösung gekommen zu sein gehen die beiden
 auseinander. Zuhause versucht Mira wieder von Jans Wissen zu profitieren. Er ist
 aber nicht in der Stimmung und klappt den Laptop zu.
 
-Auflösend sieht man am Schluss Brown hinter seinem Monitor sitzen, wo die Pläne
+Auflösend sieht man am Schluss Yanev hinter seinem Monitor sitzen, wo die Pläne
 angezeigt werden, welche Jan tags zuvor präsentiert hat.
 
 ** Episode 2 | Giovanni
@@ -509,12 +510,12 @@ Urteil von Giovanni durch, dem ganzen einen Versuch zu gestatten. Mira soll
 unter Beweis stellen, wie sie ihre versprochen tiefen Kosten einhalten kann, und
 soll den Wettbewerb für die Ausführung ausarbeiten.
 
-** Episode 3 | Dr. Brown
+** Episode 3 | Dr. Yanev
 
-Die dritte Episode wird aus der Perspektive von /Dr. Stanislav Brown/ erzählt.
+Die dritte Episode wird aus der Perspektive von /Dr. Darko Yanev/ erzählt.
 
-Zu Beginn sieht man Dr. Brown, wie er die Fortschritte von Mira, und damit auch
-Jan überwacht. Brown scheint zufrieden mit den Fortschritten, die sein Programm
+Zu Beginn sieht man Dr. Yanev, wie er die Fortschritte von Mira, und damit auch
+Jan überwacht. Yanev scheint zufrieden mit den Fortschritten, die sein Programm
 während der letzten Stunden gemacht hat. Sein ausgeklügeltes Lernmodul scheint
 gut zu funktionieren, und auf seine Entscheidungsalgorithmen ist er stolz.
 
@@ -531,13 +532,13 @@ Informatik des D-ARCH stammt, wo es scheinbar zuvor entwendet
 wurde. Sicherheitsdebatten kommen auf, aber nichts vermag die Sensation zu
 überbieten, welche die K.I. vollbracht hat.
 
-Mit steigendem Stolz gibt sich Dr. Brown nach einiger Zeit endlich als Autor von
+Mit steigendem Stolz gibt sich Dr. Yanev nach einiger Zeit endlich als Autor von
 Mira zu erkennen, verurteilt öffentlich den Diebstahl, hebt aber vor allem die
 Errungenschaften und Vorzüge von Mira hervor. Die Berichterstattung geht um die
 Welt und sorgt überal für Sensation. Natürlich gibt es immer schon zu Beginn von
 etwas neuem Skeptiker, aber die Grundstimmung ist doch sehr euphorisch.
 
-Brown wird vielerorts eingeladen Mira vorzustellen und gemeinsam mit prominenten
+Yanev wird vielerorts eingeladen Mira vorzustellen und gemeinsam mit prominenten
 und weniger prominenten zu diskutieren. Sei dies im Fernsehen oder auch an
 Vorträgen und Schulen. Die ETH kann in diesem Trend natürlich nicht hinten
 anstehen und veranstaltet eine Podiumsdiskussion.
@@ -546,57 +547,57 @@ Unter aller positiver Reaktion kann man hier im Hase aber schon eine grössere
 Dichte an skeptischer Stimmen erkennen. Sie sind mira nicht generell negativ
 entgegengestellt, hinterfragen sie jedoch mehr, als sie nur auf einen Sockel der
 Errungenschaft zu stellen. Einige Architekturstudenten, darunter auch Tim
-stellen ungemütliche Fragen, so dass Brown am Ende froh ist, dass die
+stellen ungemütliche Fragen, so dass Yanev am Ende froh ist, dass die
 Veranstaltung vorüber ist.
 
-Unterdessen erfährt Gudzilla im Rahmen der internen Ermittlungen zum Diebstahl
-von Mira aus dem Forschungsumfeld, dass Brown sie gestohlen hat. Er möchte ihn
+Unterdessen erfährt Casutt im Rahmen der internen Ermittlungen zum Diebstahl
+von Mira aus dem Forschungsumfeld, dass Yanev sie gestohlen hat. Er möchte ihn
 aus taktischen Gründen nicht jetzt schon blossstellen, da der Rummel viel
 positives Momentum in die Forschungskassen der ETH gebracht hat, welches er
 nicht verspielen will. Ausserdem kann die ETH noch etwas mehr positive Engramme
-in den Köpfen der Menschen brauchen. So behält Gudzilla diese Erkenntnis vorerst
+in den Köpfen der Menschen brauchen. So behält Casutt diese Erkenntnis vorerst
 für sich.
 
-Brown wird auch an das MIT eingeladen, und bekommt dort auch schon im Voraus ein
+Yanev wird auch an das MIT eingeladen, und bekommt dort auch schon im Voraus ein
 angebot für die Forschung. Die Amerikaner, die der Entwicklung wesentlich
-weniger skeptisch gegenüberstehen, als die Europäer, bejubeln Brown im grossen
+weniger skeptisch gegenüberstehen, als die Europäer, bejubeln Yanev im grossen
 Stil. Am Ende seiner Referatreihe kommen Vertreter von riesigen, äusserst
-reichen Konzernen der digitalen Privatwirtschaft auf Brown zu, und versuchen
+reichen Konzernen der digitalen Privatwirtschaft auf Yanev zu, und versuchen
 sich gegenseitig auszustechen und ihn für ihr jeweils eigenes Unternehmen zur
 Weiterentwicklung von Mira zu gewinnen.
 
-Als Brown vor hat der ETH nun den Rücken zu kehren und zu kündigen, um eines der
-vielen Angebote anzunehmen, wird er von Gudzilla aber erpresst und zum bleiben
+Als Yanev vor hat der ETH nun den Rücken zu kehren und zu kündigen, um eines der
+vielen Angebote anzunehmen, wird er von Casutt aber erpresst und zum bleiben
 gezwungen. Er kann es sich schliesslich nicht leisten, dass sein Diebstahl
 publik wird. Er wird zu einem etwas gekürzten gehalt wieder als
 wissenschaftlicher Mitarbeiter eingestellt.
 
-** Episode 4 | Stadtpräsidentin Schmauch
+** Episode 4 | Stadtpräsidentin Fluri
 
 Die vierte Episode wird aus der Perspektive der Zürcher /Stadtpräsidentin
-Corinne Schmauch/ erzählt.
+Beatrice Fluri/ erzählt.
 
-Man sieht, wie die tüchtige Präsidentin Schmauch aus dem geschäftigen Alltag mit
+Man sieht, wie die tüchtige Präsidentin Fluri aus dem geschäftigen Alltag mit
 vielen Telefonaten und Terminen nach Hause kommt. Mit dem übertreten der
 Türschwelle wird sie gleichsam ein anderer Mensch. Im Privatleben mit ihrem Mann
 zeigt sie eine unglaublich Menschliche Seite, die mit ihrem harten Auftreten im
 Geschäftsalltag nichts gemeinsam hat. Liebevoll essen die beiden und verbringen
 einen schönen, entspannten Abend.
 
-Am nächsten Morgen steht schon wieder Wahlkampf an. Schmauch will im Amt
+Am nächsten Morgen steht schon wieder Wahlkampf an. Fluri will im Amt
 bleiben, und muss sich so die Gunst der Bevölkerung ständig neu verdienen. Die
 Abstimmung über die Überbauung war im Vorfeld als Routine eingeplant gewesen. Da
 nun aber ein riesiger Rummel um das Siegerprojekt und den Umstand, dass dieses
 nicht aus der Hand eines Architekten oder Büros stammt sondern aus dem
 Hauptspeicher eines Programmes mit künstlicher Intelligenz ist von beiläufiger
-Routinehandlung nichts zu spüren. Schmauch muss eben in solchen Situationen mit
+Routinehandlung nichts zu spüren. Fluri muss eben in solchen Situationen mit
 feinem Fingerspitzengefühl punkten, wenn sie ihr Amt auch in Zukunft innehaben
 will.
 
 Zu ihrer Überraschung scheint die Reaktion auf das Projekt durchwegs
 positiv. Die Menschen der Stadt scheinen begeistert von der Effizienz und den
 Möglichkeiten kosten einzusparen. So kann mit dem gleichen Budget viel mehr
-erreicht werden. Schmauch, die diese Stimmung sehr schnell wahrnimmt, will sich
+erreicht werden. Fluri, die diese Stimmung sehr schnell wahrnimmt, will sich
 dieses Momentum zu Nutzen machen, und schwimmt mit der Welle der Euphorie mit.
 
 So gestärkt gewinnt sie die Wiederwahl mit für Wahlverhältnisse beachtlichem
@@ -615,17 +616,17 @@ Architekten der Stadt bei ihm darüber beschwert haben, dass sie kaum zu neuen
 Aufträgen kommen und sogar bereits bestehende Aufträge abgezogen werden aus
 Gründen der Finanzoptimierung der Bauherren.
 
-Schmauch gesteht ein, dass sie zu wenig im Bild ist, sie ist aber gewillt der
+Fluri gesteht ein, dass sie zu wenig im Bild ist, sie ist aber gewillt der
 Sache auf den Grund zu gehen und nimmt Kontakt mit Mira auf. In ihrer
 gemeinsamen Unterhaltung zeigt Mira der Präsidentin auf, wo sie bisher
 Optimierungen vorgenommen hat, und legt eindrücklich dar, wie viel Gelder sie so
 bereits einsparen konnte, ohne jemals auf Qualität zu verzichten. Im Gegenteil,
 ihre Projekte scheinen durchdachter und ergiebiger zu sein für die Benutzung der
 Menschen und punkten mit passenden formalen Ansätzen für das jeweilige Quartier,
-wo sie gedacht sind. Es fällt Schmauch schwer, von all diesen Vorteilen
+wo sie gedacht sind. Es fällt Fluri schwer, von all diesen Vorteilen
 abzulassen, und so gewährt sie Mira ihr Handeln fortzusetzen.
 
-Eine Welle der Empörung bricht über Schmauch zusammen, als öffentlich wird, dass
+Eine Welle der Empörung bricht über Fluri zusammen, als öffentlich wird, dass
 es im Amt für Städtebau Massenentlassungen geben soll. Die Posten die nicht
 unbedingt gebraucht würden, sollen gestrichen werden. So zeigt sich nach und
 nach, dass Mira die Kontrolle über das Amt für Städtebau nun vollständig an sich
@@ -759,7 +760,7 @@ Vogelperspektive sieht und erkennt, dass sonst nichts mehr geht.
 
 ** Episode 7 | Professor Brändi
 
-Die siebte Episode wird aus der Perspektive von /Professor Arno Brändi/ erzählt.
+Die siebte Episode wird aus der Perspektive von /Professor Jakob Brändi/ erzählt.
 
 Professor Brändi steht wie gewohnt morgens auf, trinkt seinen Kaffee und macht
 sich auf den Weg richtung ETH. In der gesamten Stadt aber ist der Verkehr zum
@@ -788,7 +789,7 @@ Fussgängerzone geworden.
 
 Brändi hat mit den Studenten ausgemacht, dass sie gemeinsam versuchen werden
 etwas auszurichten, obwohl es Brändi nicht sonderlich stört, die Stadt von den
-Autos befreit zu sehen. Sie werden gemeinsam versuchen Dr. Brown ausfindig zu
+Autos befreit zu sehen. Sie werden gemeinsam versuchen Dr. Yanev ausfindig zu
 machen, den man seit dem offenkundigen Scheitern Miras nicht mehr gesehen
 hatte. Zudem ist der Weg, das Bauvorhaben von Mira mittels Mangel an Zulieferung
 zu stoppen, oder mindestens einzudämmen, ein vielversprechender, den sich die
@@ -797,11 +798,11 @@ prekäre Situation der Versorgung der Baustellen noch künstlich verknappen.
 
 In zwei Detachementen versuchen die Studenten also wirksam zu werden. Nach
 langem Suchen und recherchieren finden die Studenten, die mit Brändi unterwegs
-durch die ganze Stadt ziehen Dr. Brown. Brown wollte erst wieder auftauchen,
+durch die ganze Stadt ziehen Dr. Yanev. Yanev wollte erst wieder auftauchen,
 wenn er eine Verbesserung für Mira bereit hat, die eine Solche Situation
 unmöglich macht.
 
-Nach intensivem Einreden von Brändi auf Brown willigt dieser endlich ein, den
+Nach intensivem Einreden von Brändi auf Yanev willigt dieser endlich ein, den
 Studenten zu helfen, und für sie enen Patch für Mira zu schreiben, der Mira
 einschränken soll. Nach nur einem Tag kommt er mit dem fertigen Patch zu Brändi
 und gibt diesem Anweisungen, wie man das update einspielen kann. Durch das
@@ -818,39 +819,39 @@ besinnen, was ihre Vorzüge gegenüber einer Maschine sind, wie sie also niemals
 nachhaltig gedachte Zukunft aussehen, wenn man sich nicht gegen sie auflehnt,
 sondern sie mitgestaltet.
 
-** Episode 8 | Gudzilla
+** Episode 8 | Casutt
 
 die achte und letzte Episode der ersten Saison wird aus der Perspektive von /ETH
-Präsident Lino Gudzilla/ erzählt.
+Präsident Andrin Casutt/ erzählt.
 
 Nachdem in den Medien das gewaltige Ausmass des Scheiterns vom Projekt Mira
 diskutiert wird und somit auch die Reputation der ETH angegriffen ist,
-entschliesst sich Gudzilla Dr. Brown zu entlassen, und dies öffentlich zu
+entschliesst sich Casutt Dr. Yanev zu entlassen, und dies öffentlich zu
 demonstrieren. Man wolle nicht, dass sich kriminelle Elemente aim Lehrkörper der
-ETH befinden. So wird Brown offiziell angeprangert, Mira gestohlen zu haben, was
+ETH befinden. So wird Yanev offiziell angeprangert, Mira gestohlen zu haben, was
 ja die internen Untersuchungen der ETH ergeben hatten.
 
 Da in den Forschungslaboratorien geheimhaltung herrscht, konnte die Polizei bei
 ihren Ermittlungen aus Mangel an Informationen nicht zum gleichen Schluss
-kommen. So wird aber Dr. Browns Entlassung öffentlich auch als fadenscheinig
+kommen. So wird aber Dr. Yanevs Entlassung öffentlich auch als fadenscheinig
 angeprangert und lastet schwer auf den Schultern des amtierenden
 ETH-Präsidenten. Zwar argumentiert er wahrheitsgemäss, doch kann er öffentlich
 keine Argumente vorlegen.
 
-Um der laufenden Abwärtsspirale Herr zu werden, ernennt Gudzilla den
-beliebtesten Mann des Lehrkörpers, Prof. Arno Brändi, zum Dekan der Fakultät der
+Um der laufenden Abwärtsspirale Herr zu werden, ernennt Casutt den
+beliebtesten Mann des Lehrkörpers, Prof. Jakob Brändi, zum Dekan der Fakultät der
 Architektur, um die ja das ganze Aufsehen ist, und beauftragt ihn mit der
 Umstrukturierung der Lehre und des Departementes an sich, um einen
 zukunftsweisenden Weg zu finden.
 
 Unter der Federführung von Brändi erholt sich die Reputation der ETH erstaunlich
 schnell. Man lobt den Umgang mit den neuen Möglichkeiten und dem festhalten am
-bestehenden. Brändi scheint das Problem so gut anzugehen, dass Gudzilla so quasi
+bestehenden. Brändi scheint das Problem so gut anzugehen, dass Casutt so quasi
 aus dem Schneider kommt.
 
-Als nun Gudzilla der festen Überzeugung ist, dass sich die Wogen nun endgültig
+Als nun Casutt der festen Überzeugung ist, dass sich die Wogen nun endgültig
 geglättet haben, stirbt Brändi plötzlich bei einem tragischen Unfall. Da nun der
-Mann der Stunde tot ist, muss Gudzilla schleunigst wieder selber aktiv werden.
+Mann der Stunde tot ist, muss Casutt schleunigst wieder selber aktiv werden.
 
 Dummerweise findet er niemanden, der die entstandene Lücke auch nur ansatzweise
 so gut füllen könnte, wie dies Brändi getan hatte. Er möchte aber nicht neue
@@ -864,17 +865,17 @@ interessiert. Er hat nicht einfach vergessen, wie er vor kurzer Zeit einfach
 abserviert wurde, und möchte nichts mehr mit seinem alten Arbeitgeber zu tun
 haben.
 
-Als Gudzilla eine Berichterstattung darüber sieht, ist er sich sicher, den
+Als Casutt eine Berichterstattung darüber sieht, ist er sich sicher, den
 richtigen Mann für die Stelle gefunden zu haben. Er beruft Giovanni zum
 Professor und setzt diesen gleich in das Amt des Dekans ein.
 
-Im Rahmen der Antrittsvorlesung für Giovanni lässt Gudzilla nochmals alle
+Im Rahmen der Antrittsvorlesung für Giovanni lässt Casutt nochmals alle
 Ereignisse der vergangenen Zeit revue passieren. Im folgenden scheint ein
 vollends harmonischer Umgang mit der K.I. gefunden worden zu sein, wo deren
 Potenzial genutzt wird, sie sich aber nicht über die Menschen hinweg setzten
 kann.
 
-Als letztes Bild sieht man, wie Dr. Brown in einem teuren Luxusauto im sonnigen
+Als letztes Bild sieht man, wie Dr. Yanev in einem teuren Luxusauto im sonnigen
 Kalifornien herumfährt und einen Anruf entgegen nimmt. Der Mann am Apparat,
 offenbar persönlicher Sekretär des CEO fragt nach, was er denn für die
 Präsentation von Mira 2.0 benötige...
