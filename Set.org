@@ -3,34 +3,56 @@
 
 * Schauspieler
 
-| Rolle               | Schauspieler       | Email |        Handy |
-|---------------------+--------------------+-------+--------------|
-| Prof. Jakob Brändi  | Heini Hophan       |       |              |
-| Prof. Andrin Casutt |                    |       |              |
-| Dr. Darko Yanev     | Simon Roffler      |       | +41764553398 |
-| Mira (Stimme)       |                    |       |              |
-| Alessia Benini      |                    |       |              |
-| Jan Aebersold       | Kevin Mike Minder  |       |              |
-| Tim Bergmann        |                    |       |              |
-| Beatrice Fluri      | Claudia Klopfstein |       |              |
-| Giovanni Benini     |                    |       |              |
-|---------------------+--------------------+-------+--------------|
-| Statisten           |                    |       |              |
+| Rolle               | Schauspieler        | sicher | Wann         | Email |        Handy |
+|---------------------+---------------------+--------+--------------+-------+--------------|
+| Alessia Benini      |                     |        |              |       |              |
+| Giovanni Benini     |                     |        |              |       |              |
+| Mira (Stimme)       |                     |        |              |       |              |
+| Tim Bergmann        |                     |        |              |       |              |
+| Prof. Jakob Brändi  | Hophan, Heini       | nein   |              |       |              |
+| Prof. Andrin Casutt | Bucher, Richard     | ja     | Do, Fr       |       |              |
+| Beatrice Fluri      | Klopfstein, Claudia | ja     | Mi Vormittag |       |              |
+| Jan Aebersold       | Minder, Kevin Mike  | ja     | Mi, Do       |       |              |
+| Dr. Darko Yanev     | Roffler, Simon      | ja     |              |       | +41764553398 |
+|---------------------+---------------------+--------+--------------+-------+--------------|
+| Statisten           |                     |        |              |       |              |
 
 * Räumlichkeiten
 
 ** Büro ETH
 
+*** TODO Locations
+
+ Zwei Büros Organisieren
+
+ - Stadtpräsidentin
+ - ETH Präsident
+
+ Wir brauchen die Büroräumlichkeiten für den Dreh der Serie Scenario
+
+ Mittwoch und Donnerstag
+
+ Abt. 	Kontakt/Telefon
+ Reserv. 	Kienast Ackermann Nicole Bettina
+ +41 44 632 25 49
+
+  :LOGBOOK:
+  CLOCK: [2017-12-11 Mon 10:48]--[2017-12-11 Mon 10:49] =>  0:01
+  - Added: [2017-12-11 Mon 10:48]
+  :END:
+
 * Technik
 
 ** Ton
+
 ** Kamera
+Christina Welter
 
 * Spesen
 
-| Name  | Betrag |
-|-------+--------|
-|       |        |
-|-------+--------|
-| Total |        |
-|-------+--------|
+|   | Name  | Betrag | bezahlt | wer bez. |
+|---+-------+--------+---------+----------|
+|   |       |        |         |          |
+|---+-------+--------+---------+----------|
+|   | Total |        |         |          |
+|---+-------+--------+---------+----------|
