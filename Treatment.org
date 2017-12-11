@@ -281,18 +281,6 @@ Im Studium hat sie sich mit ihren Kommilitonen Jan und Tim angefreundet. Obwohl
 die drei grund verschieden sind haben sie trotzdem eine gemeinsame Basis für ein
 gutes zusammensein gefunden.
 
-** Tim Bergmann (Architekturstudent)
-
-/Tim/ ist ebenfalls Student am Lehrstuhl Brändi.
-
-Er ist der Musterschüler jeder Klasse. Er ist intelligent und versteht
-Zusammenhänge häufig schneller als jeder sonst. Da er sehr hilfsbereit und
-empathisch ist, ist er äusserst beliebt bei den anderen Studenten.
-
-Mit seinem Engagement in der Hochschulpolitik trägt er zum Wohle aller bei.
-
-Jan ist seit langer Zeit Tims bester Freund.
-
 ** Jan Aebersold (Architekturstudent)
 
 /Jan/ war in seinem Leben nicht immer gut gestellt. Er lebt zusammen mit seiner
@@ -314,6 +302,23 @@ Zeitmanagement.
 
 Im Studium hat er sich in seine Kommilitonin Alessia Benini verguckt, wagt sich
 aber aus Angst ihre Freundschaft zu ruinieren nicht richtig sich ihr anzunähern.
+
+** Tim Bergmann (Architekturstudent)
+
+/Tim/ ist ebenfalls Student am Lehrstuhl Brändi.
+
+Er ist der Musterschüler jeder Klasse. Er ist intelligent und versteht
+Zusammenhänge häufig schneller als jeder sonst. Da er sehr hilfsbereit und
+empathisch ist, ist er äusserst beliebt bei den anderen Studenten.
+
+Mit seinem Engagement in der Hochschulpolitik trägt er zum Wohle aller bei.
+
+In seinem Wesen ist Tim verlässlich und eher ruhig. Er weiss genau, wann er
+etwas sagen soll, und wenn er etwas kundtut meint er das auch. Ihm wird mit viel
+Respekt begegnet und sein Wort hat viel Gewicht in einer Diskussion.
+
+Jan ist seit langer Zeit Tims bester Freund. Aber auch Tim hat ein Auge auf
+Alessia Benini geworfen, was Potential für Reibereien gibt.
 
 ** Studenten
 
