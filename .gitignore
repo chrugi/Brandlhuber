@@ -3,5 +3,7 @@
 /**/*.log
 /**/*.synctex.gz
 /**/*.tex~
+/**/*.org~
+/**/*~
 /**/.*.swp
 /**/texput.log
