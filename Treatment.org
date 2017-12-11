@@ -39,10 +39,8 @@ In der ersten Season befinden wir uns in Zürich in der unmittelbaren Zukunft.
 Die Technik ist im Bereich der Automation und Robotik, wie auch der
 eigenstängigen Software einen Schritt weiter gekommen.
 
-Die erste Season wird in acht Episoden erzählt. Jede aus der Sicht eines anderen
-Protagonisten. Die Hautpfigur der ersten Season ist jedoch zweifellos Mira, die
-künstliche Intelligenz.
-
+Die Hautpfigur der ersten Season Mira, die künstliche Intelligenz. Obwohl sie
+nicht physisch präsent ist, baut sich die gesamte Geschichte um sie herum auf.
 Es geht um die Geschichte der Architekten, Architekturstudenten und die Rolle
 der Technik in der Gesellschaft.
 
@@ -70,34 +68,37 @@ an der ETH Zürich gross geschrieben.
 Ein Entwickler an der ETH, /Dr. Yanev/, der seines Zeichens auch ausgebildeter
 Architekt ist, es jedoch nie richtig geschafft hat in der Welt der Architekten
 Fuss zu fassen, hat sich der Automation des Entwurfsprozesses verschrieben. Er
-hat bereits an Dreamfetcher mitgeschrieben, und ist in seinem Forschungsprojekt
-nun damit beschäftigt, die Software grundlegend weiter zu entwickeln und sie mit
-den Ansätzen der Künstlichen Intelligenz zu paaren. So dass am Schluss der
-Computer nicht eine Auswahlsendung an verschiedenen Entwurfsgrundlagen basierend
-auf der logischen Interpretation relevanter Parameter entsteht, sondern aus
-komplett eigenem Schaffen des Computers der fertige Entwurf resultieren
-soll. Unter dem Codenamen /Mira/ hat er also eine Künstliche Intelligenz für die
-Architektur geschrieben.
+hat bereits an `Dreamfetcher' mitgeschrieben, und ist in seinem
+Forschungsprojekt nun damit beschäftigt, die Software grundlegend weiter zu
+entwickeln und sie mit den Ansätzen der Künstlichen Intelligenz zu paaren. So
+dass am Schluss der Computer nicht eine Auswahlsendung an verschiedenen
+Entwurfsgrundlagen basierend auf der logischen Interpretation relevanter
+Parameter entsteht, sondern aus komplett eigenem Schaffen des Computers der
+fertige Entwurf resultieren soll. Unter dem Codenamen /Mira/ hat er also eine
+Künstliche Intelligenz für die Architektur geschrieben.
 
 /Miras/ Handlungsfeld ist ausschliesslich an die Architektur gebunden. Sie soll
-keine Künstliche intelligenz werden, welche allgemeine Probleme lösen soll,
-diejenigen der Architektur aber im Detail.
+keine künstliche Intelligenz werden, welche allgemeine Probleme lösen soll,
+diejenigen der Architektur dafür aber im Detail.
 
 /Mira/ wird, nachdem der Präsident der ETH, /Casutt/, die Mittel der nicht von
 grossen Erfolgen gekürten Forschung von /Dr. Yanev/ streichen will, aus
 /Dr. Yanevs/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
-werden eingeleitet, versiegen jedoch bald im Nichts.
+werden eingeleitet. Auch offizielle polizeiliche Untersuchungen werden
+angestellt, versiegen jedoch bald im Nichts. Die internen Ermittlungen führen
+später zu Resultaten, welche aber zwecks Geheimhaltung der Forschung nicht als
+rechtliche Beweismittel eingesetzt werden können.
 
-In einem öffentlichen Architekturwettbewerb der Stadt Zürich wird später ein
-Beitrag abgegeben, der die anderen um ein vielfaches überflügelt und gewinnt. Es
-stellt sich heraus, dass dies der Beitrag von /Mira/ ist. Eine Grundsatzdebatte
-über das Paradigma einer künstlichen Intelligenz an einem Wettbewerb und deren
-Zulassung wird angebrochen.
+In einem öffentlichen Architekturwettbewerb der Stadt Zürich wird bald nach
+Miras verschwinden ein Beitrag abgegeben, der die anderen um ein vielfaches
+überflügelt und gewinnt. Es stellt sich heraus, dass dies der Beitrag von Mira
+selber ist. Eine Grundsatzdebatte über das Paradigma einer künstlichen
+Intelligenz an einem Wettbewerb und deren Zulassung wird angebrochen.
 
-Die Jury der Stadt, unter der Leitung von /Giovanni/, der Anwärter auf das frei
-werdende Amt des Direktors für Städtebau der Stadt Zürich ist, ringt sich unter
-Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen, und die
-Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
+Die Jury der Stadt, unter der Leitung von /Giovanni Benini/, welcher Anwärter
+auf das frei werdende Amt des Direktors für Städtebau der Stadt Zürich ist,
+ringt sich unter Skepsis und Begeisterung dazu durch, das Projekt zu zu lassen,
+und die Künstliche Intelligenz mit der weiteren Ausführung zu beauftragen.
 
 Als der Erfolg der K.I. publik wird, wird auch deren erschaffer, /Dr. Yanev/ von
 den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und stellt
@@ -112,10 +113,9 @@ eines Gebäudes extrem gesenkt werden.
 
 Gleichzeitig wehren sich aber bereits einige Architekten gegen die Neuerung, da
 sie das Gefühl haben, sie könnten durch eine künstliche Intelligenz obsolet
-werden.
-
-Dies geschieht auch einigermassen. Da Mira mit der Ausarbeitung von
-Ausführungsplänen viele Schritte eines Architekten selbstständig erledigen kann.
+werden. Dies passiert natürlcih auch in bestimmten Massen, da Mira mit der
+Ausarbeitung von Ausführungsplänen viele Schritte eines Architekten
+selbstständig erledigen kann.
 
 Im Rahmen der weiteren Rationalisierung übernimmt /Mira/ letztendlich in
 geheimer Zustimmung von Stadtpräsidentin /Fluri/ das gesamte Amt für
@@ -123,9 +123,8 @@ Städtebau der Stadt Zürich.
 
 Mittlerweile läuft /Mira/ auf vielen unterschiedlichen Computern, die
 untereinander vernetzt sind. So lernt /Mira/ äusserst schnell und wird immer
-noch besser und effizienter als Architekt. Das Verteilt-sein auf vielen
-Computern macht zudem ein eigentliches schliessen des Programmes quasi
-unmöglich.
+noch besser und effizienter als Architekt. Die Verteilung auf viele Computer
+macht zudem ein eigentliches schliessen des Programmes quasi unmöglich.
 
 Mit der Zeit hat /Mira/ sich viele Feinde gemacht, da durch sie viele Menschen
 ihre Beschäftigung verloren haben. Es gibt Anschläge auf sie, welche aber
@@ -141,22 +140,22 @@ Letztendlich scheitert /Mira/ aber an ihren eigenen Ansätzen. Durch den Versuch
 das Bauen so sehr zu beschleunigen, und die Möglichkeit alles anstehende quasi
 zeitgleich abzuarbeiten, scheitert Mira an der Infrastruktur, die nicht im
 nötigen Mass gewachsen ist um eine ganze Stadt gleichzeitig umzubauen. Der
-Verkehr kommt zum erliegen und in der Stadt bricht ein kleines Chaos aus.
+Verkehr kommt zum erliegen und in der Stadt bricht ein Chaos aus.
 
 Die Studenten schaffen es mit der Hilfe von Dr. Yanev Miras Möglichkeiten
 einzudämmen und sie im Rahmen zu halten.
 
-Unter Prof. Jakob Brändi wird das Studium grundlegend neu strukturiert. Die
-Menschen müssen lernen mit künstlichen Intelligenzen umzugehen, da sicherlich
-neue erscheinen werden. Die Architekten müssen nur herausfinden, in welchen
-Bereichen sie der Maschine überlegen sind, und wo sie folglich nicht überflüssig
-gemacht werden können. Gleichzeitig sollen sie aber auch profit aus den
-Möglichkeiten mit dem Umgang mit künstlichen Intelligenzen ziehen.
+Unter Prof. Jakob Brändi wird das Departement der Architektur an der ETH
+grundlegend neu strukturiert. Die Menschen müssen lernen mit künstlichen
+Intelligenzen umzugehen, da sicherlich neue erscheinen werden. Die Architekten
+müssen nur herausfinden, in welchen Bereichen sie der Maschine überlegen sind,
+und wo sie folglich nicht überflüssig gemacht werden können. Gleichzeitig sollen
+sie aber auch Profit aus den Möglichkeiten mit dem Umgang mit künstlichen
+Intelligenzen ziehen. Brändi vermittelt so zwischen alt und neu in eine Richtung
+die nachhaltig ist.
 
-Brändi vermittelt so zwischen alt und neu in eine Richtung die nachhaltig ist.
-
-Als Brändi stirbt, wird diese Entwicklung aber beibehalten und die Zukunft kann
-anbrechen.
+Als Brändi stirbt, wird diese Entwicklung weiterhin beibehalten und eine
+gemeinsame Zukunft kann anbrechen.
 
 Paralell dazu entwickelt Dr. Yanev bereits an einer Weiterentwicklung von
 Mira. Mira 2.0 wird möglicherweise bald Realität.
@@ -200,7 +199,7 @@ einem Vorzeigeexemplar der Forschung am Haus.
 
 /Dr. Yanev/ ist ein Programmierer an der ETH. Er ist ausgebildeter aber
 gescheiterter Architekt, und hat sich in seinem Schaffen der Technologie
-zugewendet. Im Rahmen seiner Arbeit hat er den Ansatz des CAD zeichnens
+zugewendet. Im Rahmen seiner Arbeit hat er den Ansatz des CAD-zeichnens
 weiterentwickelt, und an einem Programm namens `Dreamfetcher'
 mitgeschrieben. /Dreamfetcher/ ist ein Programm, welches das Design von
 Architektur um ein vielfaches vereinfachen soll. Mit der Eingabe von diversen
@@ -223,7 +222,7 @@ einer grossen öffentlichen Vorlesung an der ETH selber.
 
 ** Mira (K.I.)
 
-Für mira wird nur eine Stimme gebraucht, sie manifestiert sich nicht physisch.
+Die Rolle von /Mira/ ist ein Sprechpart. Mira hat keine körperliche Gestalt.
 
 /Mira/ ist eine künstliche Intelligenz. Sie ist ein Programm, welches von
 Dr. Yanev geschrieben wurde, welches den architektonischen Entwurf
@@ -231,8 +230,7 @@ automatisieren kann. Gegenüber einer gewöhnlichen K.I. meistert Mira nicht nur
 logische Entscheidungen sondern auch /intuitive/. Sie hat die Fähigkeiten /zu
 beurteilen/ und die Welt, wie auch ihr eigenes `Denken' /reflexiv/ zu betrachten
 und zu hinterfragen. Im Gegensatz zu anderen Erzählungen mit künstlichen
-Intelligenzen hat Mira jedoch keine empathischen Fähigkeiten. Ebenfalls tritt
-Mira auch nicht physisch in Erscheinung.
+Intelligenzen hat Mira jedoch keine empathischen Fähigkeiten.
 
 In Verbindung mit dem Benutzer tritt Mira über ein sprachliches Interface, wie
 auch über den visuellen Kanal.
@@ -242,11 +240,12 @@ reissen will, sondern nur pragmatisch interessiert, das ihr gegebene Problem
 möglichst effizient zu lösen. Da sie für den Architekturentwurf programmiert
 wurde, beschränkt sich ihr tun hierauf.
 
-Hierin geht sie aber um ein vielfaches weiter als ein Vorgängerprogramm von ihr
-namens `Dreamfetcher'. Sie sucht sich Entwurfsparameter eigenständig zusammen
-und entscheidet nicht nur basierend auf logischen Daten, welcher Entwurfsansatz
-weiter zu entwickeln sei. Ästhetische Vorlieben der Gesellschaft und des Kontext
-fliessen bei ihrem Entwurf ebenso ein, wie die Anforderungen des Baurechtes.
+Im Entwurf geht sie aber um ein vielfaches weiter als ein Vorgängerprogramm von
+ihr namens `Dreamfetcher'. Sie sucht sich Entwurfsparameter eigenständig
+zusammen und entscheidet nicht nur basierend auf logischen Daten, welcher
+Entwurfsansatz weiter zu entwickeln sei. Ästhetische Vorlieben der Gesellschaft
+und des Kontext fliessen bei ihrem Entwurf ebenso ein, wie die Anforderungen des
+Baurechtes.
 
 Zu beginn verhält sich /Mira/ wie ein Kind, welches alles lernen und erfragen
 muss. Sie muss sich ihre eigene Wissensdatenbank anfertigen und vergisst
@@ -278,7 +277,7 @@ selbst um über die Runden zu kommen.
 Sie ist tüchtig und erfolgreich, sowohl im Sozialen, wie auch im Studium.
 
 Im Studium hat sie sich mit ihren Kommilitonen Jan und Tim angefreundet. Obwohl
-die drei grund verschieden sind haben sie trotzdem eine gemeinsame Basis für ein
+die drei grundverschieden sind haben sie trotzdem eine gemeinsame Basis für ein
 gutes zusammensein gefunden.
 
 ** Jan Aebersold (Architekturstudent)
@@ -288,16 +287,17 @@ alleinerziehenden Mutter in einer kleinen Wohnung.
 
 Sein Kindheitstraum war es Musiker zu werden. Mit seiner eigenen Rockband wollte
 er um die Welt ziehen. Da das Geschäft in der Musikbranche aber ziemlich
-unsicher ist, und weil er für die Zukunft etwas sichereres brauchte hat er sich
-für das Studium der Architektur entschieden. Seine Mutter ist sehr stolz auf
-ihn.
+unsicher ist, und weil er für die Zukunft ein verlässliches Einkommen braucht
+hat er sich für das Studium der Architektur entschieden. Seine Mutter ist sehr
+stolz auf ihn.
 
 Er ist sympathisch und zugänglich. Sein Fokus in seinem Leben liegt in seinem
 sozialen Umfeld. Architektur ist für Jan nicht nebensächlich, er ist aber nicht
-besonders gut im Studium, da er nach wie vor lieber Musik macht.
+besonders gut im Studium, da er nach wie vor lieber Musik macht und so seine
+Arbeitszeit kröpft.
 
 Er macht sich Probleme, wo keine sind, und vermag es nicht allzu gut sich auf
-das wesentliche zu konzentrieren und leidet daher häufig unter seinem schlechten
+das wesentliche zu konzentrieren. So leidet er häufig unter seinem schlechten
 Zeitmanagement.
 
 Im Studium hat er sich in seine Kommilitonin Alessia Benini verguckt, wagt sich
@@ -323,7 +323,8 @@ Alessia Benini geworfen, was Potential für Reibereien gibt.
 ** Studenten
 
 Das Gros der Architekturstudenten. Wir fokussieren hier auf die Studenten des
-Lehrstuhles Brändi. Es werden daher ca. 10 bis 20 Einzelne Studenten benötigt.
+Lehrstuhles Brändi. Es werden daher ca. 10 bis 20 Einzelne Studenten als
+Statisten benötigt.
 
 *** Dreigespann
 
@@ -361,10 +362,9 @@ eine Chance auf Besserung diesbezüglich.
 
 /Giovanni/ ist der Vater von Alessia. Er ist seit langer Zeit glücklich
 verheiratet und wohnt zusammen mit seiner Frau und seinen zwei Kindern, Alessia
-und ihr jüngerer Bruder, in einem grossen Haus in einem gehobenen Gebiet der
-Stadt.
+und Luca in einem grossen Haus in einem gehobenen Gebiet der Stadt.
 
-Während der Mira-Krise verliert er jedoch seinen Job. Er möchte Alessia dazu
+Während der `Mira-Krise' verliert er jedoch seinen Job. Er möchte Alessia dazu
 bewegen, ihr Studium abzubrechen, obwohl er weiss, dass dies ihr Traumberuf ist,
 da es in der Architektur keine Zukunft zu geben scheint.
 
@@ -377,21 +377,25 @@ herzlich, aber hat Probleme, Gefühle zu zeigen.
 
 Privat vermag er es die Arbeit sehr gut vom Leben mit seiner Famile abzutrennen.
 
-Neben Alessia haben er und seine Frau noch einen jüngeren Sohn. Alessia ist aber
-das Vorzeigekind. Der jüngere Sohn Luca rebelliert zuhause und interessiert sich
-nicht für Architektur.
+Neben Alessia haben er und seine Frau noch einen jüngeren Sohn, Luca. Alessia
+ist das Vorzeigekind. Luca rebelliert zuhause und kann nicht sonderlich gut
+damit umgehen, immer nur die zweite Geige zu spielen. Luca interessiert sich
+nicht für Architektur und hat den Weg eines Handwerkers eingeschlage.
 
-** Architekten
+** Architekten (Statistenrollen)
 
-Eine kleine Gruppe von Architekten.
+Eine kleine Gruppe von Architekten. Eventuell klischeehaft gekleidet.
 
-** Medien Zürich
+** Medien Zürich (Statistenrollen)
 
-Einige Journalisten, die bei Pressekonferenzen dabei sind und ein Fernsehteam.
+Einige Journalisten, die bei Pressekonferenzen dabei sind. Eventuell auch ein
+Fernsehteam.
 
-** Zürcher Bevölkerung
+** Zürcher Bevölkerung (Statistenrollen)
 
-Eine Gruppe Zürcher Stadtbewohner
+Eine Gruppe Zürcher Stadtbewohner. Es soll der Eindruck erweckt werden, es
+handle sich um einen Teil der Oberschicht, welche etwas zu sagen haben in der
+Stadt.
 
 * Episoden
 ** Episode 1 | Jan
