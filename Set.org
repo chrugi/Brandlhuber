@@ -3,19 +3,19 @@
 
 * Schauspieler
 
-| Rolle               | Schauspieler        | sicher | Wann         | Email |        Handy |
-|---------------------+---------------------+--------+--------------+-------+--------------|
-| Alessia Benini      |                     |        |              |       |              |
-| Giovanni Benini     |                     |        |              |       |              |
-| Mira (Stimme)       |                     |        |              |       |              |
-| Tim Bergmann        |                     |        |              |       |              |
-| Prof. Jakob Brändi  | Hophan, Heini       | nein   |              |       |              |
-| Prof. Andrin Casutt | Bucher, Richard     | ja     | Do, Fr       |       |              |
-| Beatrice Fluri      | Klopfstein, Claudia | ja     | Mi Vormittag |       |              |
-| Jan Aebersold       | Minder, Kevin Mike  | ja     | Mi, Do       |       |              |
-| Dr. Darko Yanev     | Roffler, Simon      | ja     |              |       | +41764553398 |
-|---------------------+---------------------+--------+--------------+-------+--------------|
-| Statisten           |                     |        |              |       |              |
+| Rolle               | Schauspieler        | Wann         | Kontakt      |
+|---------------------+---------------------+--------------+--------------|
+| Alessia Benini      |                     |              |              |
+| Giovanni Benini     |                     |              |              |
+| Mira (Stimme)       |                     |              |              |
+| Tim Bergmann        |                     |              |              |
+| Prof. Jakob Brändi  | Hophan, Heini       |              |              |
+| Prof. Andrin Casutt | Bucher, Richard     | Do, Fr       |              |
+| Beatrice Fluri      | Klopfstein, Claudia | Mi Vormittag |              |
+| Jan Aebersold       | Minder, Kevin Mike  | Mi, Do       |              |
+| Dr. Darko Yanev     | Roffler, Simon      |              | +41764553398 |
+|---------------------+---------------------+--------------+--------------|
+| Statisten           |                     |              |              |
 
 * Räumlichkeiten
 
@@ -23,23 +23,18 @@
 
 *** TODO Locations
 
- Zwei Büros Organisieren
+Zwei Büros Organisieren
 
- - Stadtpräsidentin
- - ETH Präsident
+- Stadtpräsidentin
+- ETH Präsident
 
- Wir brauchen die Büroräumlichkeiten für den Dreh der Serie Scenario
+Wir brauchen die Büroräumlichkeiten für den Dreh der Serie Scenario
 
- Mittwoch und Donnerstag
+Mittwoch und Donnerstag
 
- Abt. 	Kontakt/Telefon
- Reserv. 	Kienast Ackermann Nicole Bettina
- +41 44 632 25 49
-
-  :LOGBOOK:
-  CLOCK: [2017-12-11 Mon 10:48]--[2017-12-11 Mon 10:49] =>  0:01
-  - Added: [2017-12-11 Mon 10:48]
-  :END:
+Abt.	Kontakt/Telefon
+Reserv.	Kienast Ackermann Nicole Bettina
++41 44 632 25 49
 
 * Technik
 
