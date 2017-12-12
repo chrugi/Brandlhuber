@@ -109,6 +109,17 @@
   % uppercase
   \newcommand{\scnn}[1]{\uppercase{#1}}
 
+  % pagebreak continued
+  \newcommand{\pgbr}{
+    \begin{center}
+      \uppercase{(continued)}
+    \end{center}
+    \clearpage
+    \begin{center}
+      \uppercase{continued:}
+    \end{center}
+    \vspace*{12pt}}
+
 
 % ############################################################################ %
 % ------------------------------ D O C U M E N T ----------------------------- %
@@ -156,14 +167,7 @@
 \xdlg{Giovanni}{In der Architektur gibt es keine Zukunft mehr für
   uns.}{resigniert}
 
-\begin{center}
-\uppercase{(continued)}
-\end{center}
-\clearpage
-\begin{center}
-\uppercase{continued:}
-\vspace*{12pt}
-\end{center}
+\pgbr
 
 \xdlg{Alessia}{Wie meinst du das?}{verwirrt}
 
