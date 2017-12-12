@@ -63,12 +63,12 @@ zu übersetzen, da dieser Prozess mittels Software weitgehend automatisiert
 wurde.
 
 Forschung im Bereich der Künstlichen Intelligenz und Softwareautomation werden
-an der ETH Zürich gross geschrieben.
+an der Hochschule gross geschrieben.
 
-Ein Entwickler an der ETH, /Dr. Yanev/, der seines Zeichens auch ausgebildeter
-Architekt ist, es jedoch nie richtig geschafft hat in der Welt der Architekten
-Fuss zu fassen, hat sich der Automation des Entwurfsprozesses verschrieben. Er
-hat bereits an `Dreamfetcher' mitgeschrieben, und ist in seinem
+Ein Entwickler an der Hochschule, /Dr. Yanev/, der seines Zeichens auch
+ausgebildeter Architekt ist, es jedoch nie richtig geschafft hat in der Welt der
+Architekten Fuss zu fassen, hat sich der Automation des Entwurfsprozesses
+verschrieben. Er hat bereits an `Dreamfetcher' mitgeschrieben, und ist in seinem
 Forschungsprojekt nun damit beschäftigt, die Software grundlegend weiter zu
 entwickeln und sie mit den Ansätzen der Künstlichen Intelligenz zu paaren. So
 dass am Schluss der Computer nicht eine Auswahlsendung an verschiedenen
@@ -81,9 +81,9 @@ Künstliche Intelligenz für die Architektur geschrieben.
 keine künstliche Intelligenz werden, welche allgemeine Probleme lösen soll,
 diejenigen der Architektur dafür aber im Detail.
 
-/Mira/ wird, nachdem der Präsident der ETH, /Casutt/, die Mittel der nicht von
-grossen Erfolgen gekürten Forschung von /Dr. Yanev/ streichen will, aus
-/Dr. Yanevs/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
+/Mira/ wird, nachdem der Präsident der Hochschule, /Casutt/, die Mittel der
+nicht von grossen Erfolgen gekürten Forschung von /Dr. Yanev/ streichen will,
+aus /Dr. Yanevs/ Labor gestohlen. Interne Ermittlungen wegen dieses Diebstahles
 werden eingeleitet. Auch offizielle polizeiliche Untersuchungen werden
 angestellt, versiegen jedoch bald im Nichts. Die internen Ermittlungen führen
 später zu Resultaten, welche aber zwecks Geheimhaltung der Forschung nicht als
@@ -105,7 +105,7 @@ den Medien heimgesucht. Er geniesst seine neu erlangte Berühmtheit und stellt
 sein Werk gerne und umfassend vor.
 
 Nach diesem Durchbruch stellt sich /Casutt/ vollumfänglich hinter /Yanev/ und
-verwendet diesen als Vorzeigebeispiel der Forschung an der ETH.
+verwendet diesen als Vorzeigebeispiel der Forschung an der Hochschule.
 
 Die Zürcher sind der Neuerung zum grössten Teil extrem positiv gegenüber. Durch
 /Mira/ und ihre effizienten Ansätze können die Kosten für Planung und Erstellung
@@ -145,7 +145,7 @@ Verkehr kommt zum erliegen und in der Stadt bricht ein Chaos aus.
 Die Studenten schaffen es mit der Hilfe von Dr. Yanev Miras Möglichkeiten
 einzudämmen und sie im Rahmen zu halten.
 
-Unter Prof. Jakob Brändi wird das Departement der Architektur an der ETH
+Unter Prof. Jakob Brändi wird die Fakultät der Architektur an der Hochschule
 grundlegend neu strukturiert. Die Menschen müssen lernen mit künstlichen
 Intelligenzen umzugehen, da sicherlich neue erscheinen werden. Die Architekten
 müssen nur herausfinden, in welchen Bereichen sie der Maschine überlegen sind,
@@ -164,7 +164,7 @@ Mira. Mira 2.0 wird möglicherweise bald Realität.
 ** Prof. Jakob Brändi (Architekturprofessor)
 
 /Prof. Brändi/ ist ein Urgestein des Lehrkörpers an der Architekturfakultät der
-ETH Zürich.
+Hochschule in Zürich.
 
 Er ist zwar innovativ und hat es verstanden seine Architektur an die
 Gegebenheiten der Zeit anzupassen, ist aber seinen alten Methoden treu
@@ -179,7 +179,7 @@ sowohl für seine Architektur wie auch die Didaktik.
 In seinem Leben musste er oft mit diversen Parteien verhandeln und versteht sich
 daher gut in der Diplomatie und als Vermittler zwischen Fronten.
 
-** Prof. Andrin Casutt (ETH Präsident)
+** Prof. Andrin Casutt (Hochschulpräsident)
 
 Der Präsident der Eidgenössischen Technischen Hochschule in Zürich.
 
@@ -197,7 +197,7 @@ einem Vorzeigeexemplar der Forschung am Haus.
 
 ** Dr. Darko Yanev (Programmierer)
 
-/Dr. Yanev/ ist ein Programmierer an der ETH. Er ist ausgebildeter aber
+/Dr. Yanev/ ist ein Programmierer an der Hochschule. Er ist ausgebildeter aber
 gescheiterter Architekt, und hat sich in seinem Schaffen der Technologie
 zugewendet. Im Rahmen seiner Arbeit hat er den Ansatz des CAD-zeichnens
 weiterentwickelt, und an einem Programm namens `Dreamfetcher'
@@ -214,11 +214,11 @@ entworfen, welche sich die relevanten Parameter, und auch erheblich mehr,
 zusammensucht und letztendlich selber entscheidet, welches das beste und
 schönste Design ist, so dass das Produkt der fertige Entwurf ist.
 
-Nach anfänglichen Rückschlägen und der Androhung des ETH Präsidenten Casutt,
+Nach anfänglichen Rückschlägen und der Androhung des Hochschulpräsident Casutt,
 seine Mittel zu streichen, war er am Schluss trotz allem erfolgreich. Er
 geniesst seinen neuen Ruhm und stellt voller Stolz seine Künstliche Intelligenz,
 bei jeder sich bietenden Gelegenheit vor. Dies unter anderem auch im Rahmen
-einer grossen öffentlichen Vorlesung an der ETH selber.
+einer grossen öffentlichen Vorlesung an der Hochschule selber.
 
 ** Mira (K.I.)
 
@@ -417,8 +417,8 @@ Zeit dafür hat Tim, da er seinen eigenen Entwurf immer schon Tage vor der Abgab
 fertig hat. Er ist von seiner Arbeitsmoral her das pure Gegenteil von Jan.
 
 Hastig wirft Jan alle Sachen, die er für den Tag braucht in seinen Rucksack und
-macht sich auf den Weg an die ETH. Da er für seine Verabredung mit Tim späht
-dran ist, warted dieser bereits auf Jan.
+macht sich auf den Weg an die Hochschule. Da er für seine Verabredung mit Tim
+späht dran ist, warted dieser bereits auf Jan.
 
 In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu generieren,
 den er dann weiter verarbeiten kann. Leider kann sich Jan in der Anwesenheit von
@@ -426,14 +426,15 @@ Alessia, einer Kommilitonin auf die er sein Auge geworfen hat, sehr leicht
 ablenken.
 
 Parallel dazu sehen wir die Geschichte von Dr. Yanev. Yanev ist
-Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine Künstliche
-Intelligenz entwickelt, welche jedoch noch nicht ganz fertig ist. An diesem
-Morgen hat Yanev ein Treffen mit dem Präsidenten der ETH, Andrin
+Softwareentwickler an der Hochschule und hat im Rahmen seiner Forschung eine
+Künstliche Intelligenz entwickelt, welche jedoch noch nicht ganz fertig ist. An
+diesem Morgen hat Yanev ein Treffen mit dem Präsidenten der Hochschule, Andrin
 Casutt. Casutt erklärt Yanev, dass er seine Forschung aus Knappheit an
 Forschungsgeldern und mangels Erfolgen von Yanev nicht mehr finanzieren wird,
 und stellt Yanev als wissenschaftlichen Mitarbeiter frei. So bleibt Yanev nur
-noch seine Stelle an der ETH, wo er als Helpdeskmitarbeiter für Computerprobleme
-den Studenten mit ihren technischen Schwierigkeiten zur Setie steht.
+noch seine Stelle an der Hochschule, wo er als Helpdeskmitarbeiter für
+Computerprobleme den Studenten mit ihren technischen Schwierigkeiten zur Setie
+steht.
 
 Alle Versuche Casutt zu überreden, ihm einen Aufschub zu gewähren schlagen
 fehl.
@@ -553,9 +554,9 @@ berichten. Die Umstände, dass die K.I. keinen Autor hat, der sich zu ihr bekenn
 macht die ganze Geschichte noch spannender und sichert Quoten in den Nachrichten
 wie zu Prime-Time-Zeiten.
 
-Alle Spuren deuten Darauf hin, dass die K.I. aus einem Labor der ETH stammt. Es
-wird offenkundig, dass das Programm /Mira/ aus einem Labor der Robotik und
-Informatik des D-ARCH stammt, wo es scheinbar zuvor entwendet
+Alle Spuren deuten Darauf hin, dass die K.I. aus einem Labor der Hochschule
+stammt. Es wird offenkundig, dass das Programm /Mira/ aus einem Labor der
+Robotik und Informatik des D-ARCH stammt, wo es scheinbar zuvor entwendet
 wurde. Sicherheitsdebatten kommen auf, aber nichts vermag die Sensation zu
 überbieten, welche die K.I. vollbracht hat.
 
@@ -567,8 +568,8 @@ etwas neuem Skeptiker, aber die Grundstimmung ist doch sehr euphorisch.
 
 Yanev wird vielerorts eingeladen Mira vorzustellen und gemeinsam mit prominenten
 und weniger prominenten zu diskutieren. Sei dies im Fernsehen oder auch an
-Vorträgen und Schulen. Die ETH kann in diesem Trend natürlich nicht hinten
-anstehen und veranstaltet eine Podiumsdiskussion.
+Vorträgen und Schulen. Die Hochschule kann in diesem Trend natürlich nicht
+hinten anstehen und veranstaltet eine Podiumsdiskussion.
 
 Unter aller positiver Reaktion kann man hier im Hase aber schon eine grössere
 Dichte an skeptischer Stimmen erkennen. Sie sind mira nicht generell negativ
@@ -580,8 +581,8 @@ Veranstaltung vorüber ist.
 Unterdessen erfährt Casutt im Rahmen der internen Ermittlungen zum Diebstahl
 von Mira aus dem Forschungsumfeld, dass Yanev sie gestohlen hat. Er möchte ihn
 aus taktischen Gründen nicht jetzt schon blossstellen, da der Rummel viel
-positives Momentum in die Forschungskassen der ETH gebracht hat, welches er
-nicht verspielen will. Ausserdem kann die ETH noch etwas mehr positive Engramme
+positives Momentum in die Forschungskassen der Hochschule gebracht hat, welches er
+nicht verspielen will. Ausserdem kann die Hochschule noch etwas mehr positive Engramme
 in den Köpfen der Menschen brauchen. So behält Casutt diese Erkenntnis vorerst
 für sich.
 
@@ -593,10 +594,10 @@ reichen Konzernen der digitalen Privatwirtschaft auf Yanev zu, und versuchen
 sich gegenseitig auszustechen und ihn für ihr jeweils eigenes Unternehmen zur
 Weiterentwicklung von Mira zu gewinnen.
 
-Als Yanev vor hat der ETH nun den Rücken zu kehren und zu kündigen, um eines der
-vielen Angebote anzunehmen, wird er von Casutt aber erpresst und zum bleiben
-gezwungen. Er kann es sich schliesslich nicht leisten, dass sein Diebstahl
-publik wird. Er wird zu einem etwas gekürzten gehalt wieder als
+Als Yanev vor hat der Hochschule nun den Rücken zu kehren und zu kündigen, um
+eines der vielen Angebote anzunehmen, wird er von Casutt aber erpresst und zum
+bleiben gezwungen. Er kann es sich schliesslich nicht leisten, dass sein
+Diebstahl publik wird. Er wird zu einem etwas gekürzten gehalt wieder als
 wissenschaftlicher Mitarbeiter eingestellt.
 
 ** Episode 4 | Stadtpräsidentin Fluri
@@ -790,15 +791,15 @@ Vogelperspektive sieht und erkennt, dass sonst nichts mehr geht.
 Die siebte Episode wird aus der Perspektive von /Professor Jakob Brändi/ erzählt.
 
 Professor Brändi steht wie gewohnt morgens auf, trinkt seinen Kaffee und macht
-sich auf den Weg richtung ETH. In der gesamten Stadt aber ist der Verkehr zum
-erliegen gekommen. Das einzige was noch funktioniert ist der Fernverkehr mit der
-Bahn. Dies hilft Brändi aber wenig, da er durch die Stadt muss um zum
+sich auf den Weg richtung Hochschule. In der gesamten Stadt aber ist der Verkehr
+zum erliegen gekommen. Das einzige was noch funktioniert ist der Fernverkehr mit
+der Bahn. Dies hilft Brändi aber wenig, da er durch die Stadt muss um zum
 Hönggerberg zu gelangen. In seiner aufgestellten, sanguinischen Art verzagt er
 nicht, und geht zu Fuss los.
 
-Nur eine Stunde zu späht kommt Brändi an der ETH an, und ist überrascht, dass
-seine Studenten schon alle vollzählig erschienen sind. Er erzählt von seinem
-Erlebnis in der Stadt, und ist erstaunt, wie es alle Studenten scheinbar
+Nur eine Stunde zu spät kommt Brändi an der Hochschule an, und ist überrascht,
+dass seine Studenten schon alle vollzählig erschienen sind. Er erzählt von
+seinem Erlebnis in der Stadt, und ist erstaunt, wie es alle Studenten scheinbar
 pünktlich zum Unterricht geschafft haben. Dies erfüllt ihn aber ehrlich mit
 Freude. Brändi arbeitet äusserst gerne mit interessierten jungen Leuten
 zusammen.
@@ -848,22 +849,22 @@ sondern sie mitgestaltet.
 
 ** Episode 8 | Casutt
 
-die achte und letzte Episode der ersten Saison wird aus der Perspektive von /ETH
-Präsident Andrin Casutt/ erzählt.
+die achte und letzte Episode der ersten Saison wird aus der Perspektive von
+/Hochschulpräsident Andrin Casutt/ erzählt.
 
 Nachdem in den Medien das gewaltige Ausmass des Scheiterns vom Projekt Mira
-diskutiert wird und somit auch die Reputation der ETH angegriffen ist,
+diskutiert wird und somit auch die Reputation der Hochschule angegriffen ist,
 entschliesst sich Casutt Dr. Yanev zu entlassen, und dies öffentlich zu
 demonstrieren. Man wolle nicht, dass sich kriminelle Elemente aim Lehrkörper der
-ETH befinden. So wird Yanev offiziell angeprangert, Mira gestohlen zu haben, was
-ja die internen Untersuchungen der ETH ergeben hatten.
+Hochschule befinden. So wird Yanev offiziell angeprangert, Mira gestohlen zu
+haben, was ja die internen Untersuchungen der Hochschule ergeben hatten.
 
 Da in den Forschungslaboratorien geheimhaltung herrscht, konnte die Polizei bei
 ihren Ermittlungen aus Mangel an Informationen nicht zum gleichen Schluss
 kommen. So wird aber Dr. Yanevs Entlassung öffentlich auch als fadenscheinig
 angeprangert und lastet schwer auf den Schultern des amtierenden
-ETH-Präsidenten. Zwar argumentiert er wahrheitsgemäss, doch kann er öffentlich
-keine Argumente vorlegen.
+Hochschulpräsidenten. Zwar argumentiert er wahrheitsgemäss, doch kann er
+öffentlich keine Argumente vorlegen.
 
 Um der laufenden Abwärtsspirale Herr zu werden, ernennt Casutt den
 beliebtesten Mann des Lehrkörpers, Prof. Jakob Brändi, zum Dekan der Fakultät der
@@ -871,10 +872,10 @@ Architektur, um die ja das ganze Aufsehen ist, und beauftragt ihn mit der
 Umstrukturierung der Lehre und des Departementes an sich, um einen
 zukunftsweisenden Weg zu finden.
 
-Unter der Federführung von Brändi erholt sich die Reputation der ETH erstaunlich
-schnell. Man lobt den Umgang mit den neuen Möglichkeiten und dem festhalten am
-bestehenden. Brändi scheint das Problem so gut anzugehen, dass Casutt so quasi
-aus dem Schneider kommt.
+Unter der Federführung von Brändi erholt sich die Reputation der Hochschule
+erstaunlich schnell. Man lobt den Umgang mit den neuen Möglichkeiten und dem
+festhalten am bestehenden. Brändi scheint das Problem so gut anzugehen, dass
+Casutt so quasi aus dem Schneider kommt.
 
 Als nun Casutt der festen Überzeugung ist, dass sich die Wogen nun endgültig
 geglättet haben, stirbt Brändi plötzlich bei einem tragischen Unfall. Da nun der
