@@ -1,0 +1,190 @@
+\documentclass[a4paper,ngerman,11pt]{scrartcl}
+
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{ngerman}
+
+  \title{Streit zu Hause}
+  \subtitle{Giovanni und Alessia}
+  \author{Sahra Roman \and Christian Sangvik}
+  \date{\today}
+
+  \renewcommand{\familydefault}{\ttdefault}
+  \renewcommand{\ttdefault}{pcr}
+
+  \newcommand{\linia}{\rule{.8\textwidth}{.1pt}}
+
+  \makeatletter
+  \renewcommand{\maketitle}{
+  \texttt{
+    \pagestyle{empty}
+    \begin{center}
+      \uppercase{\tiny{
+        ETH Zürich
+        \enspace{}|\enspace{}
+        D-ARCH
+        \enspace{}|\enspace{}
+        Professur Arno Brandlhuber
+        \enspace{}|\enspace{}
+        Herbstsemester 2017}}\\
+      \linia{}\\
+      \vfill
+      \uppercase{\Huge{Scenario}}\\
+      \vfill
+      \uppercase{\normalsize{Drehbuch Szene}}\\
+      \uppercase{\LARGE{\MakeUppercase{EP: V; Streit zu Hause}}}\\
+      \vspace*{1cm}
+      \uppercase{\normalsize{von}}\\
+      \uppercase{\LARGE{\MakeUppercase{Sahra Roman \&}}}\\
+      \uppercase{\LARGE{\MakeUppercase{Christian Sangvik}}}\\
+      \vspace*{.5cm}
+      \uppercase{\normalsize{Version vom \MakeUppercase{\@date}}}
+    \end{center}
+  \clearpage
+    {~}
+  \clearpage
+    \pagestyle{myheadings}
+    \setcounter{page}{1}
+    \begin{center}
+      \vspace*{3cm}
+      \huge{\MakeUppercase{\@title}}\\
+      \vspace*{1cm}
+      \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
+      \vspace*{2cm}
+    \end{center}
+  }}
+  \makeatother
+
+  % C O M M A N D S
+
+  % fade in
+  \newcommand{\fadein}{\noindent\uppercase{Fade in:}\\}
+
+  % fade out
+  \newcommand{\fadeout}{
+    \vspace*{12pt}
+    \noindent\uppercase{Fade out:}\\}
+
+  % transition
+  \newcommand{\trns}[1]{
+    \vspace*{12pt}
+    \hfill\uppercase{{#1}:}\\}
+
+  % subheader
+  \newcommand{\sbh}[1]{
+    \vspace*{12pt}
+    \noindent\uppercase{{#1}\\}}
+
+  % dialog normal
+  \newcommand{\dlg}[2]{
+    \begin{center}
+      \uppercase{#1}\\
+      \vspace*{6pt}
+      \begin{minipage}{.8\textwidth}
+        {#2}\\
+    \end{minipage}\hfill
+    \end{center}}
+
+  % dialog extended, with parentheses
+  \newcommand{\xdlg}[3]{
+    \begin{center}
+      \uppercase{#1}\\({#3})\\
+      \vspace*{6pt}
+      \begin{minipage}{.8\textwidth}
+        {#2}\\
+      \end{minipage}\hfill
+    \end{center}}
+
+  % description of scene
+  \newcommand{\dsc}[1]{
+    \vspace*{12pt}
+    \noindent{}{#1}\\}
+
+  % scene
+  \newcommand{\scn}[4]{
+    \vspace*{12pt}
+    \noindent{\uppercase{{#1}.\quad{}{#2}\quad{}-\quad{}{#3}}}\\
+    \dsc{#4}}
+
+  % uppercase
+  \newcommand{\scnn}[1]{\uppercase{#1}}
+
+
+% ############################################################################ %
+% ------------------------------ D O C U M E N T ----------------------------- %
+% ############################################################################ %
+
+\begin{document}
+\begin{flushleft}
+
+\maketitle
+
+% \fadein  - fade in, used at beginning of script, \fadein
+% \fadeout - fade out, used at end of script, \fadeout
+% \trns    - transition between shots, \trns{TRANSITION}
+%            (\trns{dip to black})
+% \sbh     - subheader in scene, \sbh{SUBHEADER}
+%            (\sbh{Character walks in})
+% \dlg     - dialog, \dlg{NAME}{SENTENCE}
+%            (\dlg{Tim}{Hi!})
+% \xdlg    - extended dialog, \xdlg{NAME}{SENTENCE}{EXTENSION}
+%            (\dlg{Tim}{What?!}{excited})
+% \scn     - scene, \scn{INT/EXT}{LOCATION}{TIME}{DESCRIPTION}
+%            (\scn{int}{at home}{morning}{Tim wakes up in his bed.})
+% \dsc     - scene description, \dsc{DESCRIPTION}
+%            (\dsc{Tim still looks tired. He brushes his teeth})
+% \scnn    - actor name in scene. This is put in the scene description to mark
+%            a new character in a scene, \scnn{NAME}
+%            (\scn{int}{at work}{morning}{\scnn{Tim} sits bored at his desk})
+
+% ---------- S C R I P T ----------------------------------------------------- %
+
+\fadein
+
+\scn{int}{Wohnzimmer bei Beninis}{früher Abend}{\scnn{Giovanni Benini} sitzt
+  niedergeschlagen am Tisch und trinkt ein Bier. \scnn{Alessia Benini} betritt
+  die Wohnung. Sie trägt noch ihre Jacke und Schuhe. Auf ihrem Heimweg hat sie
+  bereits von Giovannis Entlassung erfahren. Sie tritt sofort ins Wohnzimmer und
+  erkundigt sich nach ihrem Vater.}
+
+\xdlg{Alessia}{Wie geht es dir?}{unsicher}
+
+\dsc{Giovanni antwortet nur mit einem leichten Kopfschütteln. Alessia setzt
+  sich. Für einen Moment sitzen die beiden einfach schweigend da. Giovanni
+  eröffnet nachher das Gespräch}
+
+\xdlg{Giovanni}{In der Architektur gibt es keine Zukunft mehr für
+  uns.}{resigniert}
+
+\begin{center}
+\uppercase{(continued)}
+\end{center}
+\clearpage
+\begin{center}
+\uppercase{continued:}
+\vspace*{12pt}
+\end{center}
+
+\xdlg{Alessia}{Wie meinst du das?}{verwirrt}
+
+\xdlg{Giovanni}{Die Mschinen nehmen unseren Platz ein. Du wirst dein Studium
+  wechseln!}{mit Nachdruck}
+
+\xdlg{Alessia}{Du bist betrunken!}{entsetzt}
+
+\xdlg{Giovanni}{Ich bin nicht betrunken!\\Du wirst dein Studium wechseln! Die
+  Architektur bietet keine Zukunft mehr.}{energisch}
+
+\dsc{Alessia steht aufgebracht auf und stürmt aus dem Wohnzimmer. Auf der
+  Türschwelle dreht sie sich nochmals um und schreit den Tränen nahe Giovanni
+  an.}
+
+\xdlg{Alessia}{Du kannst mir die Architektur nicht verbieten!}{schreiend}
+
+\dsc{Dann stürmt Alessia aus dem Raum. Im hintergrund hört man die Tür laut
+  krachend zuschlagen.}
+
+\fadeout
+
+\end{flushleft}
+\end{document}
