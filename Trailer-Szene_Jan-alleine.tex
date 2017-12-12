@@ -1,0 +1,198 @@
+\documentclass[a4paper,ngerman,11pt]{scrartcl}
+
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{ngerman}
+
+  \title{Jan und sein Computer}
+  \subtitle{Jan, Jan und Mira}
+  \author{Sahra Roman \and Christian Sangvik}
+  \date{\today}
+
+  \renewcommand{\familydefault}{\ttdefault}
+  \renewcommand{\ttdefault}{pcr}
+
+  \newcommand{\linia}{\rule{.8\textwidth}{.1pt}}
+
+  \makeatletter
+  \renewcommand{\maketitle}{
+  \texttt{
+    \pagestyle{empty}
+    \begin{center}
+      \uppercase{\tiny{
+        ETH Zürich
+        \enspace{}|\enspace{}
+        D-ARCH
+        \enspace{}|\enspace{}
+        Professur Arno Brandlhuber
+        \enspace{}|\enspace{}
+        Herbstsemester 2017}}\\
+      \linia{}\\
+      \vfill
+      \uppercase{\Huge{Scenario}}\\
+      \vfill
+      \uppercase{\normalsize{Drehbuch Szene}}\\
+      \uppercase{\LARGE{\MakeUppercase{EP: I; Jan und sein Computer}}}\\
+      \vspace*{1cm}
+      \uppercase{\normalsize{von}}\\
+      \uppercase{\LARGE{\MakeUppercase{Sahra Roman \&}}}\\
+      \uppercase{\LARGE{\MakeUppercase{Christian Sangvik}}}\\
+      \vspace*{.5cm}
+      \uppercase{\normalsize{Version vom \MakeUppercase{\@date}}}
+    \end{center}
+  \clearpage
+    {~}
+  \clearpage
+    \pagestyle{myheadings}
+    \setcounter{page}{1}
+    \begin{center}
+      \vspace*{3cm}
+      \huge{\MakeUppercase{\@title}}\\
+      \vspace*{1cm}
+      \Large{\textit{--\enspace{}\MakeUppercase{\@subtitle}\enspace{}--}}\\
+      \vspace*{2cm}
+    \end{center}
+  }}
+  \makeatother
+
+  % C O M M A N D S
+
+  % fade in
+  \newcommand{\fadein}{\noindent\uppercase{Fade in:}\\}
+
+  % fade out
+  \newcommand{\fadeout}{
+    \vspace*{12pt}
+    \noindent\uppercase{Fade out:}\\}
+
+  % pagebreak continued
+  \newcommand{\pgbr}{
+    \begin{center}
+      \uppercase{(continued)}
+    \end{center}
+    \clearpage
+    \begin{center}
+      \uppercase{continued:}
+    \end{center}
+    \vspace*{12pt}}
+
+  % transition
+  \newcommand{\trns}[1]{
+    \vspace*{12pt}
+    \hfill\uppercase{{#1}:}\\}
+
+  % subheader
+  \newcommand{\sbh}[1]{
+    \vspace*{12pt}
+    \noindent\uppercase{{#1}\\}}
+
+  % dialog normal
+  \newcommand{\dlg}[2]{
+    \begin{center}
+      \uppercase{#1}\\
+      \vspace*{6pt}
+      \begin{minipage}{.8\textwidth}
+        {#2}\\
+    \end{minipage}\hfill
+    \end{center}}
+
+  % dialog extended, with parentheses
+  \newcommand{\xdlg}[3]{
+    \begin{center}
+      \uppercase{#1}\\({#3})\\
+      \vspace*{6pt}
+      \begin{minipage}{.8\textwidth}
+        {#2}\\
+      \end{minipage}\hfill
+    \end{center}}
+
+  % description of scene
+  \newcommand{\dsc}[1]{
+    \vspace*{12pt}
+    \noindent{}{#1}\\}
+
+  % scene
+  \newcommand{\scn}[4]{
+    \vspace*{12pt}
+    \noindent{\uppercase{{#1}.\quad{}{#2}\quad{}-\quad{}{#3}}}\\
+    \dsc{#4}}
+
+  % uppercase
+  \newcommand{\scnn}[1]{\uppercase{#1}}
+
+
+% ############################################################################ %
+% ------------------------------ D O C U M E N T ----------------------------- %
+% ############################################################################ %
+
+\begin{document}
+\begin{flushleft}
+
+\maketitle
+
+% \fadein  - fade in, used at beginning of script, \fadein
+% \fadeout - fade out, used at end of script, \fadeout
+% \pgbr    - Page break. Break page at that point and mark both ends with
+%            "continued". Use with caution - other page sizes could break at
+%            different points. This could give unwanted results, \pgbr
+% \trns    - transition between shots, \trns{TRANSITION}
+%            (\trns{dip to black})
+% \sbh     - subheader in scene, \sbh{SUBHEADER}
+%            (\sbh{Character walks in})
+% \dlg     - dialog, \dlg{NAME}{SENTENCE}
+%            (\dlg{Tim}{Hi!})
+% \xdlg    - extended dialog, \xdlg{NAME}{SENTENCE}{EXTENSION}
+%            (\dlg{Tim}{What?!}{excited})
+% \scn     - scene, \scn{INT/EXT}{LOCATION}{TIME}{DESCRIPTION}
+%            (\scn{int}{at home}{morning}{Tim wakes up in his bed.})
+% \dsc     - scene description, \dsc{DESCRIPTION}
+%            (\dsc{Tim still looks tired. He brushes his teeth})
+% \scnn    - actor name in scene. This is put in the scene description to mark
+%            a new character in a scene, \scnn{NAME}
+%            (\scn{int}{at work}{morning}{\scnn{Tim} sits bored at his desk})
+
+% ---------- S C R I P T ----------------------------------------------------- %
+
+\fadein
+
+\scn{int}{ETH Arbeitsplatz}{Nacht}{\scnn{Jan Aebersold} sitzt spähtnachts
+  alleine noch an der ETH vor seinem Laptop und arbeitet an seinem Projekt. Er
+  ist frustriert da das Program fortwährend abstürzt. Er ist müde und mag
+  eigentlich nicht mehr weiterarbeiten.}
+
+% ---------- scene ----------------------------------------------------------- %
+% ############################################################################ %
+\scn{int}{Jans Zimmer}{Nacht}{\scnn{Jan} startet seinen Computer und dann auch
+  gleich das Programm. Man sieht ihm an, dass er eigentlich überhaupt keine
+  Motivation mehr hat und lieber gleich schlafen gehen würde. Sobald das
+  Programm gestartet ist, fängt \scnn{Mira} an zu sprechen.}
+
+\dlg{Mira}{Hallo! Ich bin Mira, Ihre neue Assistentin für den architektonischen
+  Entwurf. Wie kann ich Ihnen helfen?}
+
+\dsc{Jan nimmt die Maus in die Hand und versucht in der neuen Oberfläche einige
+  Parameter einzustellen.}
+
+\pgbr
+\dlg{Mira}{Sie können wie gewohnt Ihre Angaben im klassischen Interface
+  einstellen. Eine effizientere Methode wäre jedoch mit dem neuen
+  Sprachinterface.  Möchten Sie die Sprachsteuerung für Ihr Projekt starten?}
+
+\xdlg{Jan}{Ja, ja...}{ungläubig}
+
+\dlg{Mira}{Die Sprachsteuerung ist nun aktiviert.\\ Wo soll Ihr neues Projekt
+  liegen?}
+
+\dsc{Jan zögert zunächst. Er ist überfordert mit der neuen, viel
+  selbstständigeren Version von Dreamfetcher. Bald aber erkennt er, dass er doch
+  noch eine Chance auf ein gutes Projekt hat und schöpft wieder Hoffnung und
+  neue Energie. \scnn{Mira} ist wie eine Teampartnerin oder Sekretärin, die im
+  Dialog mit Jan entwirft. Jan muss also nicht mehr am Computer sitzen und geht
+  im Zimmer auf und ab während er Mira den Entwurf diktiert. Mira hinterfragt
+  alles und bringt dadurch den Entwurf in eine bessere Richtung. Zusammen
+  arbeiten sie bis spät in die Nacht.}
+
+\fadeout
+
+\end{flushleft}
+\end{document}
