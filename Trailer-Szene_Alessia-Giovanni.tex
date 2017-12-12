@@ -65,6 +65,17 @@
     \vspace*{12pt}
     \noindent\uppercase{Fade out:}\\}
 
+  % pagebreak continued
+  \newcommand{\pgbr}{
+    \begin{center}
+      \uppercase{(continued)}
+    \end{center}
+    \clearpage
+    \begin{center}
+      \uppercase{continued:}
+    \end{center}
+    \vspace*{12pt}}
+
   % transition
   \newcommand{\trns}[1]{
     \vspace*{12pt}
@@ -109,17 +120,6 @@
   % uppercase
   \newcommand{\scnn}[1]{\uppercase{#1}}
 
-  % pagebreak continued
-  \newcommand{\pgbr}{
-    \begin{center}
-      \uppercase{(continued)}
-    \end{center}
-    \clearpage
-    \begin{center}
-      \uppercase{continued:}
-    \end{center}
-    \vspace*{12pt}}
-
 
 % ############################################################################ %
 % ------------------------------ D O C U M E N T ----------------------------- %
@@ -132,6 +132,9 @@
 
 % \fadein  - fade in, used at beginning of script, \fadein
 % \fadeout - fade out, used at end of script, \fadeout
+% \pgbr    - Page break. Break page at that point and mark both ends with
+%            "continued". Use with caution - other page sizes could break at
+%            different points. This could give unwanted results, \pgbr
 % \trns    - transition between shots, \trns{TRANSITION}
 %            (\trns{dip to black})
 % \sbh     - subheader in scene, \sbh{SUBHEADER}
