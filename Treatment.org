@@ -2,7 +2,7 @@
 #+AUTHOR: Sahra Roman \and Christian Sangvik
 #+DATE: \today
 
-#+LATEX_CLASS: article
+#+LATEX_CLASS: report
 #+LATEX_CLASS_OPTIONS: [11pt,a4paper,ngerman]
 #+LATEX_HEADER: \subtitle{Treatment}
 #+LATEX_HEADER: \usepackage{ngerman}
@@ -402,8 +402,8 @@ Stadt.
 
 Die erste Episode wird aus der Perspektive von /Jan Aebersold/ erzählt.
 
-Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hat versucht die
-Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für seinen
+Jan wacht eines dienstagmorgens an seinem Schreibtisch auf. Er hatte versucht
+die Nacht durch zu arbeiten, ist dabei aber eingeschlafen. Der Grund für seinen
 Eifer ist die kommende Kritik am Mittwoch Vormittag.
 
 Jan ist mit seinem Projekt noch lange nicht so weit, dass er etwas zu
@@ -422,7 +422,8 @@ dran ist, warted dieser bereits auf Jan.
 
 In der Koje versuchen die beiden gemeinsam für Jan einen Ansatz zu generieren,
 den er dann weiter verarbeiten kann. Leider kann sich Jan in der Anwesenheit von
-Alessia, einer Komilitonin sehr leicht ablenken.
+Alessia, einer Kommilitonin auf die er sein Auge geworfen hat, sehr leicht
+ablenken.
 
 Parallel dazu sehen wir die Geschichte von Dr. Yanev. Yanev ist
 Softwareentwickler an der ETH und hat im Rahmen seiner Forschung eine Künstliche
